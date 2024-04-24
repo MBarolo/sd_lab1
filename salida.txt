@@ -1,9 +1,0 @@
-Estación Hamburg - Mínimo: 12.000000 - Máximo: 12.000000 - Media: 12.000000
-Estación Bulawayo - Mínimo: 8.900000 - Máximo: 8.900000 - Media: 8.900000
-Estación Palembang - Mínimo: 38.800000 - Máximo: 38.800000 - Media: 38.800000
-Estación St. John's - Mínimo: 15.200000 - Máximo: 15.200000 - Media: 15.200000
-Estación Cracow - Mínimo: 12.600000 - Máximo: 12.600000 - Media: 12.600000
-Estación Bridgetown - Mínimo: 26.900000 - Máximo: 26.900000 - Media: 26.900000
-Estación Istanbul - Mínimo: 6.200000 - Máximo: 23.000000 - Media: 14.600000
-Estación Roseau - Mínimo: 34.400000 - Máximo: 34.400000 - Media: 34.400000
-Estación Conakry - Mínimo: 31.200000 - Máximo: 31.200000 - Media: 31.200000
