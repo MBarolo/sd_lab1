@@ -43,11 +43,9 @@ class calcularTemperaturaService:
 
 
 ### BLOQUE PRINCIPAL ###
-if __name__ == "__main__":
-    archivo = "entrada2.txt"
-
+def main(filename):
     # Llamada al servicio ReadFileService
-    lecturaArchivo = ReadFileService(archivo)
+    lecturaArchivo = ReadFileService(filename)
     data = lecturaArchivo.readFile()
 
     # Llamada al servicio calcularTemperaturaService
