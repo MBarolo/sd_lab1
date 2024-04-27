@@ -2,6 +2,7 @@
 # encarga de obtener la temp. minima, la maxima y el promedio. Posteriormente a esto imprime las estaciones 
 # y las temperaturas respectivas.
 import datetime
+import time
 import os
 
 
@@ -45,6 +46,7 @@ class calcularTemperaturaService:
 ### BLOQUE PRINCIPAL ###
 def main(filename):
     # Llamada al servicio ReadFileService
+    start_time = time.time()
     lecturaArchivo = ReadFileService(filename)
     data = lecturaArchivo.readFile()
 
@@ -61,3 +63,4 @@ def main(filename):
         #print(f"Estación: {estacion}, Temp Min: {temps['min']}, Temp Max: {temps['max']}, Temp Prom: {temps['avg']}")
         o.write(
             "Estación %s - Mínimo: %f - Máximo: %f - Media: %f\n" % (estacion,temps['min'], temps['max'], temps['avg']))
+    return time.time() - start_time

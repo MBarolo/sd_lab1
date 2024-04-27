@@ -57,5 +57,5 @@ def main(filename):
             "Estación %s - Mínimo: %f - Máximo: %f - Media: %f\n" % (s.name, min(s.temps), max(s.temps), np.mean(s.temps)))
     o.close()
 
-    print("Tiempo de ejecución: %s [s]" % (time.time() - start_time))
-    return 1
+    #print("Tiempo de ejecución: %s [s]" % (time.time() - start_time))
+    return time.time() - start_time

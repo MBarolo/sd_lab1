@@ -2,6 +2,7 @@ from mpi4py import MPI
 import argparse
 import os
 import datetime
+import time
 
 def readFile(archivo):
     data = []
@@ -20,6 +21,7 @@ def calcular(data):
 
 
 def main():
+    start_time = time.time()
     comm = MPI.COMM_WORLD
     rank = comm.Get_rank()
     size = comm.Get_size()
@@ -61,6 +63,8 @@ def main():
                 o.write(
                     "Estación %s - Mínimo: %f - Máximo: %f - Media: %f\n" % (estacion,tempMin, tempMax, tempProm))
             o.close()
+            #return time.time() - start_time
+            print(time.time()- start_time)
 
     else:
         data_chunk = comm.recv(source=0)
