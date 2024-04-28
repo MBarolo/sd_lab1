@@ -2,17 +2,18 @@ from tkinter import *
 from tkinter import ttk
 import tkinter.font as font
 from tkinter.messagebox import showinfo
-import os
-import time
+import sys, os
 
 import subprocess
 import monolitico
 import servicios
 
+
 def inputExists(filename):
     if os.path.isfile("./" + filename):
         return True
     return False
+
 
 def execution():
     filename = filename_entry.get()
@@ -21,10 +22,18 @@ def execution():
     else:
         time_monolithic = monolitico.main(filename)
         time_services = servicios.main(filename)
+
         command_events = ['mpiexec', '-n', str(n.get()), 'python', './eventos.py', '-i', filename]
+
         result_events = subprocess.run(command_events, stdout=subprocess.PIPE)
         time_events = float(result_events.stdout.decode("utf-8"))
-        print(time_monolithic, time_services, time_events)
+        showinfo("Ejecución completada", "Tiempos de ejecución:\n"
+                                         "   - Arquitectura monolítica: %f [s]\n"
+                                         "   - Arquitectura basada en servicios: %f [s]\n"
+                                         "   - Arquitectura basada en eventos: %f [s] \n\n"
+                                         "Los archivos de salida se encuentran en '%s' en las carpetas respectivas por "
+                                         "arquitectura."
+                 % (time_monolithic, time_services, time_events, os.path.abspath(os.path.dirname(sys.argv[0]))))
 
 
 # Bloque principal
@@ -36,11 +45,10 @@ frm = ttk.Frame(root, padding=10)
 # Labels
 ttk.Label(root, text="Arquitecturas de Sistemas Distribuidos", padding=10, font=font.Font(size=10, weight='bold')) \
     .grid(row=1, columnspan=4)
-ttk.Label(root, text="Ingrese el nombre de archivo de entrada [ejemplo.txt]: ", anchor="w", padding=10).grid(row=2, column=0,
-                                                                                               sticky=W)
+ttk.Label(root, text="Ingrese el nombre de archivo de entrada [ejemplo.txt]: ", anchor="w", padding=10).grid(row=2,
+                                                                                                             column=0,
+                                                                                                             sticky=W)
 ttk.Label(root, text="Ingrese el número de hebras (Arquitectura basada en eventos)", padding=10).grid(row=3, sticky=W)
-resultado = ttk.Label(root, text="", padding=10)
-resultado.grid_remove()
 
 # Entries
 filename_entry = ttk.Entry(root)

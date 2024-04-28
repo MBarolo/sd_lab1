@@ -1,0 +1,9999 @@
+Cracow;27.9
+Conakry;28.2
+Conakry;9.0
+Roseau;19.7
+St. John's;4.6
+Hamburg;26.1
+Conakry;12.4
+Bulawayo;9.0
+Roseau;15.8
+St. John's;10.0
+Palembang;23.3
+Istanbul;3.4
+Hamburg;28.1
+Hamburg;10.9
+Palembang;5.6
+Bulawayo;22.5
+Palembang;0.7
+St. John's;28.6
+Cracow;17.5
+Istanbul;16.8
+St. John's;3.9
+Roseau;22.3
+Istanbul;23.7
+Roseau;17.9
+Palembang;9.0
+Cracow;10.7
+Palembang;26.7
+St. John's;7.9
+Cracow;6.6
+Hamburg;12.5
+Conakry;19.7
+Bridgetown;8.7
+St. John's;13.1
+Bridgetown;23.2
+Roseau;0.5
+St. John's;1.5
+Conakry;23.6
+Roseau;28.1
+Conakry;18.9
+Cracow;26.9
+Bridgetown;22.3
+Bulawayo;4.5
+Palembang;20.0
+Conakry;29.2
+St. John's;29.3
+St. John's;18.7
+Bulawayo;18.3
+Palembang;27.7
+Bridgetown;10.4
+Palembang;18.5
+St. John's;13.1
+Palembang;22.1
+St. John's;2.0
+Roseau;29.9
+Bridgetown;7.2
+St. John's;1.2
+Palembang;5.6
+Palembang;11.5
+St. John's;20.8
+Cracow;1.4
+Palembang;28.8
+Istanbul;26.6
+Bulawayo;1.9
+Conakry;14.0
+Bulawayo;9.0
+Hamburg;30.0
+Conakry;15.7
+Palembang;19.1
+Bridgetown;20.3
+Roseau;5.6
+Palembang;1.2
+Bulawayo;12.3
+Bulawayo;13.4
+St. John's;27.7
+Palembang;15.2
+Palembang;4.0
+Bulawayo;10.4
+St. John's;25.7
+Cracow;3.8
+Palembang;15.0
+Bridgetown;7.3
+Hamburg;5.6
+Istanbul;14.8
+Istanbul;12.9
+Bulawayo;13.0
+St. John's;21.9
+St. John's;24.7
+Istanbul;20.2
+Bulawayo;5.3
+Bulawayo;25.4
+Cracow;21.0
+Conakry;12.7
+Bridgetown;23.9
+Bulawayo;27.3
+Hamburg;7.6
+Conakry;5.2
+St. John's;11.6
+Conakry;2.9
+Conakry;19.5
+Palembang;9.3
+St. John's;16.6
+Bridgetown;19.3
+Roseau;6.8
+Conakry;22.4
+Palembang;23.5
+Istanbul;0.4
+Bulawayo;15.7
+Conakry;2.6
+Roseau;16.7
+Cracow;11.2
+Hamburg;29.7
+Bridgetown;12.6
+Hamburg;9.1
+Hamburg;1.4
+Cracow;1.2
+Istanbul;27.0
+Cracow;16.5
+Palembang;28.4
+Hamburg;3.9
+Cracow;2.0
+Palembang;26.3
+St. John's;11.3
+Hamburg;10.4
+Conakry;10.1
+Bridgetown;16.3
+Palembang;9.9
+Palembang;1.0
+Bridgetown;17.8
+Hamburg;3.4
+Bulawayo;8.2
+Hamburg;1.0
+Roseau;26.1
+St. John's;12.7
+Conakry;1.0
+Roseau;10.2
+Bulawayo;17.5
+Istanbul;8.8
+Cracow;0.7
+Palembang;24.2
+Conakry;6.8
+Cracow;21.6
+Istanbul;12.6
+Conakry;20.7
+Conakry;6.2
+Palembang;17.8
+St. John's;12.9
+Cracow;23.1
+Bridgetown;15.3
+Conakry;16.0
+Istanbul;5.6
+Bulawayo;8.6
+Conakry;16.0
+Bulawayo;28.7
+Roseau;15.2
+Roseau;4.1
+Bridgetown;8.1
+Cracow;13.0
+Bridgetown;9.7
+Bulawayo;23.9
+Cracow;11.9
+Bulawayo;11.1
+Istanbul;20.4
+Roseau;27.7
+Conakry;20.7
+Bulawayo;5.3
+St. John's;19.0
+Palembang;7.9
+Roseau;12.8
+Bridgetown;25.9
+Conakry;5.0
+Istanbul;10.8
+Istanbul;2.4
+St. John's;13.1
+Cracow;16.2
+Conakry;4.8
+Bulawayo;6.7
+Conakry;0.8
+Cracow;29.0
+Istanbul;7.6
+St. John's;17.4
+Palembang;14.9
+Palembang;7.5
+Istanbul;16.9
+Bridgetown;29.2
+Bridgetown;2.8
+Hamburg;9.8
+Cracow;20.1
+Palembang;13.2
+St. John's;11.2
+Bulawayo;5.4
+Istanbul;27.9
+Cracow;29.5
+Roseau;7.9
+Roseau;20.7
+Cracow;14.5
+Conakry;29.6
+Hamburg;6.4
+Cracow;28.4
+Conakry;12.7
+Istanbul;22.3
+Conakry;29.4
+St. John's;11.1
+Bulawayo;23.4
+Bridgetown;2.9
+Hamburg;8.0
+Conakry;5.4
+Bulawayo;24.2
+Cracow;4.0
+Bulawayo;29.1
+Bulawayo;0.7
+Istanbul;11.6
+Bulawayo;13.5
+Istanbul;18.6
+Conakry;9.0
+Palembang;8.8
+St. John's;1.3
+Roseau;8.7
+Istanbul;26.0
+Bulawayo;0.4
+Palembang;13.6
+Cracow;25.9
+Cracow;10.0
+St. John's;20.1
+Conakry;4.6
+Palembang;2.5
+Palembang;22.1
+Istanbul;20.7
+Conakry;10.0
+Cracow;14.0
+Cracow;2.4
+Cracow;20.6
+Roseau;24.2
+Cracow;14.4
+Istanbul;25.2
+Roseau;7.9
+Roseau;5.8
+Cracow;5.5
+Istanbul;5.8
+Roseau;26.3
+Bulawayo;19.4
+Bulawayo;11.5
+Conakry;24.5
+Cracow;23.1
+Palembang;9.6
+Roseau;10.8
+Cracow;13.6
+Hamburg;17.7
+Hamburg;0.9
+Palembang;3.4
+Hamburg;17.8
+Bulawayo;26.6
+St. John's;23.6
+Bridgetown;4.2
+Roseau;15.1
+Conakry;21.6
+Bulawayo;7.6
+Palembang;12.8
+Roseau;4.4
+Bridgetown;17.9
+Bulawayo;16.6
+Bulawayo;18.6
+Conakry;25.1
+Roseau;6.6
+Bridgetown;28.5
+Palembang;5.4
+Istanbul;17.3
+Istanbul;24.0
+Roseau;6.7
+Roseau;2.3
+Palembang;21.7
+Bridgetown;0.0
+Conakry;0.9
+Istanbul;8.6
+Roseau;8.0
+Hamburg;6.1
+Cracow;9.1
+St. John's;14.3
+Cracow;10.5
+Roseau;3.2
+Palembang;14.6
+Palembang;3.4
+Istanbul;11.1
+Bridgetown;27.2
+Bulawayo;0.3
+Bulawayo;3.1
+St. John's;8.0
+Palembang;29.2
+Bulawayo;17.9
+Istanbul;17.5
+Bridgetown;28.2
+Hamburg;12.0
+Roseau;0.9
+St. John's;10.6
+St. John's;25.0
+Bridgetown;24.0
+Istanbul;29.8
+Bulawayo;20.2
+Istanbul;29.7
+Cracow;23.5
+Cracow;21.3
+Palembang;21.1
+Roseau;3.1
+Roseau;6.7
+Hamburg;9.4
+St. John's;20.0
+Palembang;0.8
+Roseau;14.0
+Hamburg;5.5
+St. John's;26.7
+Bulawayo;3.2
+Istanbul;13.1
+Bulawayo;10.1
+Cracow;22.1
+Palembang;17.0
+Bulawayo;11.2
+Bulawayo;18.1
+St. John's;27.4
+Palembang;6.5
+Cracow;23.2
+Conakry;6.6
+Istanbul;28.2
+Bridgetown;2.7
+St. John's;7.5
+Bridgetown;22.3
+Conakry;4.4
+Bulawayo;18.6
+Palembang;3.4
+Bridgetown;6.6
+Cracow;8.1
+Hamburg;17.0
+Hamburg;7.6
+St. John's;27.9
+Conakry;10.9
+St. John's;27.5
+Bulawayo;11.8
+Bridgetown;22.7
+Hamburg;18.4
+Hamburg;14.9
+Istanbul;6.8
+Conakry;19.0
+St. John's;15.9
+Conakry;19.5
+Hamburg;11.6
+Roseau;9.8
+Cracow;8.9
+Palembang;3.9
+St. John's;21.0
+St. John's;6.1
+Cracow;3.1
+Conakry;1.2
+Bridgetown;0.7
+Palembang;15.1
+Roseau;10.4
+St. John's;24.1
+Conakry;6.5
+Hamburg;8.6
+Hamburg;20.5
+Hamburg;5.4
+Hamburg;26.7
+Roseau;4.7
+Roseau;18.9
+Cracow;5.0
+Istanbul;20.3
+Conakry;9.9
+Cracow;9.6
+Hamburg;14.1
+Conakry;16.9
+Hamburg;19.5
+Palembang;28.0
+Bulawayo;6.3
+Roseau;11.5
+Istanbul;5.1
+Roseau;26.4
+Bridgetown;6.6
+Bulawayo;2.2
+Palembang;10.5
+Istanbul;9.9
+Hamburg;5.0
+Bulawayo;17.4
+Bulawayo;0.6
+Roseau;15.1
+Istanbul;20.6
+Conakry;2.5
+Hamburg;21.0
+Istanbul;11.8
+Roseau;13.6
+Hamburg;26.3
+Conakry;21.3
+Palembang;6.3
+Hamburg;16.6
+Palembang;18.7
+Conakry;4.6
+Bulawayo;3.1
+Hamburg;3.1
+Bridgetown;29.4
+St. John's;24.0
+St. John's;25.3
+Palembang;11.6
+Hamburg;16.2
+Hamburg;26.9
+Bridgetown;2.0
+Palembang;13.7
+Istanbul;21.9
+Bridgetown;22.8
+Istanbul;17.1
+Cracow;4.6
+Palembang;17.1
+Bridgetown;3.9
+Bridgetown;16.8
+Hamburg;5.8
+Istanbul;15.4
+Bulawayo;5.2
+Palembang;20.4
+Bulawayo;25.7
+Palembang;9.2
+Bulawayo;20.5
+Conakry;2.1
+Conakry;4.5
+Roseau;16.3
+Conakry;3.4
+Hamburg;25.7
+Istanbul;28.9
+Roseau;8.4
+Palembang;1.5
+Cracow;4.8
+Roseau;6.9
+Hamburg;13.6
+Bridgetown;15.1
+Bulawayo;17.6
+Palembang;4.1
+Bulawayo;27.8
+Cracow;29.8
+Hamburg;18.6
+St. John's;18.5
+Istanbul;19.8
+Istanbul;28.0
+Roseau;29.9
+Hamburg;14.3
+Palembang;4.8
+St. John's;29.2
+Bridgetown;24.1
+Bridgetown;24.3
+Bridgetown;22.2
+Istanbul;5.8
+Conakry;3.7
+Bridgetown;29.2
+Palembang;5.5
+Roseau;14.2
+Istanbul;17.4
+Cracow;12.6
+Roseau;7.6
+Palembang;6.7
+Palembang;4.9
+St. John's;21.6
+Cracow;0.8
+Cracow;19.3
+St. John's;20.5
+Roseau;14.0
+Bulawayo;13.1
+Palembang;21.8
+Bulawayo;29.0
+Roseau;13.5
+Bulawayo;21.3
+Bridgetown;0.2
+Roseau;6.4
+Bridgetown;7.7
+Roseau;23.0
+Bridgetown;4.1
+Cracow;22.2
+Palembang;23.5
+Hamburg;23.5
+Istanbul;29.2
+Istanbul;25.7
+Bulawayo;2.4
+Palembang;5.2
+Palembang;4.4
+St. John's;5.0
+Cracow;13.1
+Istanbul;16.7
+Conakry;18.0
+Conakry;1.3
+Istanbul;16.9
+Conakry;3.6
+Palembang;29.1
+Istanbul;25.0
+Bulawayo;16.7
+Cracow;14.7
+Cracow;15.1
+Bridgetown;22.0
+Bridgetown;2.4
+Palembang;4.9
+St. John's;4.1
+Hamburg;3.9
+Conakry;0.9
+Cracow;27.1
+St. John's;8.4
+Conakry;8.0
+Bridgetown;21.0
+Bulawayo;2.5
+Bridgetown;24.1
+Bulawayo;25.3
+Bridgetown;10.0
+Conakry;3.2
+Conakry;20.0
+Bulawayo;26.1
+Istanbul;26.2
+St. John's;0.2
+Conakry;24.1
+Cracow;9.3
+Bridgetown;16.4
+Bridgetown;21.1
+Hamburg;17.7
+Bulawayo;7.0
+Bulawayo;1.0
+Bulawayo;3.7
+Conakry;11.3
+Bridgetown;5.9
+Bridgetown;14.7
+Hamburg;18.9
+Roseau;26.4
+Bulawayo;28.8
+Hamburg;7.7
+St. John's;20.0
+Roseau;9.7
+Istanbul;27.9
+Cracow;25.1
+Conakry;13.5
+Hamburg;13.9
+Hamburg;26.8
+Roseau;14.2
+St. John's;10.2
+Cracow;3.5
+Bulawayo;15.0
+Bulawayo;16.7
+Hamburg;18.9
+Hamburg;9.2
+Cracow;4.3
+Palembang;11.1
+Roseau;19.2
+Conakry;22.9
+Bulawayo;13.4
+Bridgetown;23.7
+Istanbul;20.4
+Roseau;10.9
+Cracow;0.3
+Bulawayo;0.1
+St. John's;27.3
+Hamburg;6.9
+Conakry;28.7
+St. John's;28.2
+Palembang;6.8
+Roseau;3.3
+Conakry;6.7
+Bridgetown;4.5
+St. John's;12.2
+Palembang;11.9
+Bridgetown;20.9
+Istanbul;20.4
+Conakry;7.2
+Cracow;20.7
+Palembang;9.9
+St. John's;9.5
+Conakry;21.0
+Palembang;18.6
+Hamburg;4.5
+Palembang;25.6
+Palembang;21.6
+Bridgetown;15.3
+Bulawayo;6.8
+Palembang;8.0
+Istanbul;5.7
+Bulawayo;4.1
+Roseau;27.3
+Cracow;22.4
+Bridgetown;4.7
+Bulawayo;8.0
+Cracow;9.3
+Bulawayo;8.6
+Bulawayo;1.6
+Cracow;0.8
+Bulawayo;25.2
+Istanbul;23.3
+Bridgetown;27.2
+Cracow;22.3
+St. John's;20.9
+Istanbul;11.2
+St. John's;25.3
+Istanbul;3.7
+Roseau;24.1
+Cracow;23.0
+Palembang;14.3
+Istanbul;1.5
+Cracow;25.3
+Palembang;21.6
+Cracow;27.6
+Roseau;11.5
+Istanbul;1.2
+Istanbul;0.1
+Conakry;25.8
+St. John's;0.3
+Palembang;27.3
+Roseau;21.9
+Roseau;28.0
+Bulawayo;12.6
+Palembang;3.4
+Bulawayo;7.4
+Roseau;20.5
+Bulawayo;28.0
+Palembang;15.3
+Hamburg;13.1
+St. John's;2.2
+Hamburg;19.3
+Palembang;6.5
+St. John's;18.4
+St. John's;23.8
+St. John's;14.5
+Cracow;5.8
+Roseau;0.6
+Istanbul;7.3
+Hamburg;10.5
+Palembang;9.9
+St. John's;6.9
+Conakry;12.0
+Bridgetown;19.1
+Palembang;3.6
+St. John's;1.2
+Conakry;2.2
+Palembang;16.6
+Palembang;4.2
+St. John's;17.2
+Roseau;16.1
+Conakry;8.4
+Bulawayo;8.9
+Bridgetown;18.8
+St. John's;16.2
+Conakry;10.7
+Conakry;20.3
+Hamburg;5.3
+Hamburg;12.9
+Bridgetown;17.3
+Bulawayo;1.8
+Conakry;20.5
+Palembang;14.5
+Istanbul;18.4
+Bridgetown;9.9
+St. John's;9.2
+Istanbul;2.5
+Cracow;5.4
+Cracow;11.1
+Bulawayo;1.6
+St. John's;14.8
+Cracow;3.7
+Bulawayo;10.2
+St. John's;27.0
+Palembang;2.9
+Bridgetown;16.6
+Hamburg;20.2
+Cracow;24.1
+St. John's;14.5
+Hamburg;15.5
+Cracow;22.7
+Conakry;29.0
+Istanbul;12.4
+Cracow;8.0
+Istanbul;3.7
+Cracow;2.7
+Cracow;28.3
+Cracow;2.1
+Roseau;0.4
+Hamburg;6.2
+Cracow;29.5
+Bulawayo;28.4
+Roseau;3.0
+Cracow;8.0
+Palembang;25.1
+Roseau;5.0
+St. John's;29.7
+Bulawayo;5.9
+Bridgetown;18.1
+Hamburg;3.8
+Palembang;16.4
+Bulawayo;18.4
+Cracow;10.4
+Istanbul;13.0
+Conakry;5.6
+Conakry;24.2
+Hamburg;29.3
+Cracow;28.5
+Palembang;16.4
+Palembang;14.0
+Bulawayo;1.6
+Cracow;18.8
+Hamburg;10.3
+Bridgetown;23.0
+Hamburg;8.7
+St. John's;14.3
+Roseau;7.6
+Bridgetown;16.9
+Roseau;20.5
+Conakry;20.9
+Conakry;5.7
+Bulawayo;23.2
+Bulawayo;6.5
+St. John's;23.5
+Hamburg;22.9
+Bridgetown;19.2
+Bulawayo;5.4
+Palembang;16.6
+Palembang;14.1
+Bridgetown;17.3
+Palembang;21.9
+Cracow;18.2
+Hamburg;2.8
+St. John's;15.6
+Hamburg;7.4
+Conakry;22.1
+St. John's;24.3
+Palembang;8.8
+Palembang;25.1
+Bulawayo;27.7
+Bulawayo;17.2
+Palembang;12.8
+St. John's;1.0
+Palembang;6.9
+Palembang;12.4
+Bridgetown;4.1
+Conakry;24.2
+Palembang;0.8
+St. John's;10.7
+Palembang;8.9
+Hamburg;14.1
+Hamburg;17.1
+Palembang;11.6
+Conakry;0.6
+Palembang;24.2
+Conakry;25.4
+Cracow;24.3
+Palembang;27.5
+Conakry;19.3
+St. John's;9.0
+Bulawayo;16.5
+Palembang;4.2
+Roseau;24.9
+Roseau;23.2
+Conakry;15.2
+Istanbul;20.8
+Istanbul;10.1
+Hamburg;24.1
+Palembang;27.7
+Palembang;11.8
+Bridgetown;11.1
+Palembang;11.8
+Roseau;28.3
+Hamburg;5.1
+Cracow;13.3
+Hamburg;4.8
+Conakry;27.4
+Bridgetown;1.2
+Roseau;7.0
+Palembang;15.3
+Palembang;12.5
+Conakry;27.0
+Cracow;7.2
+Cracow;23.2
+Hamburg;24.1
+Conakry;9.6
+Cracow;6.0
+Hamburg;23.9
+Bridgetown;24.8
+Hamburg;1.8
+St. John's;19.0
+Palembang;18.5
+St. John's;18.4
+Istanbul;11.9
+Bridgetown;19.3
+Hamburg;7.2
+Hamburg;13.9
+Roseau;0.2
+Hamburg;4.8
+Roseau;16.2
+Conakry;19.1
+Cracow;5.1
+Palembang;27.0
+Conakry;28.9
+Conakry;10.9
+Roseau;20.2
+Bridgetown;18.9
+St. John's;18.4
+Bridgetown;27.8
+Istanbul;3.7
+Bulawayo;0.9
+Istanbul;20.2
+Palembang;4.0
+Roseau;21.1
+Bulawayo;17.4
+Conakry;0.8
+Istanbul;3.2
+Palembang;3.7
+Palembang;20.1
+Roseau;19.4
+Bridgetown;16.0
+St. John's;6.1
+Cracow;9.2
+St. John's;29.6
+Bridgetown;14.5
+Bridgetown;17.5
+St. John's;25.3
+Palembang;0.7
+Bridgetown;28.7
+Palembang;20.3
+St. John's;10.2
+Conakry;29.9
+Hamburg;22.5
+Bridgetown;10.5
+Palembang;26.6
+Hamburg;0.0
+Hamburg;28.2
+St. John's;14.8
+Cracow;13.2
+Istanbul;5.5
+Palembang;18.9
+Bridgetown;15.0
+Hamburg;22.6
+Hamburg;9.2
+Cracow;4.2
+Conakry;21.7
+Conakry;3.1
+Bulawayo;17.9
+Conakry;3.7
+Conakry;15.4
+Cracow;17.7
+Bridgetown;12.0
+Cracow;16.4
+Conakry;25.6
+Bridgetown;7.0
+Bridgetown;24.4
+Palembang;8.9
+Conakry;17.1
+Istanbul;13.3
+Palembang;19.5
+Palembang;24.0
+Bulawayo;10.6
+St. John's;27.7
+Palembang;26.2
+Bulawayo;2.5
+Roseau;10.7
+Bulawayo;9.7
+Palembang;5.0
+Istanbul;20.0
+Hamburg;27.1
+Istanbul;3.8
+Istanbul;4.6
+St. John's;24.8
+Hamburg;18.3
+St. John's;8.4
+Bridgetown;4.8
+Roseau;13.8
+Conakry;25.9
+Bulawayo;24.3
+Palembang;22.0
+Roseau;10.7
+St. John's;16.1
+Hamburg;24.8
+Hamburg;3.6
+Bulawayo;7.0
+Istanbul;14.3
+Bulawayo;1.0
+Palembang;11.3
+Hamburg;8.7
+Palembang;21.6
+Bridgetown;28.7
+Bridgetown;22.5
+Conakry;14.6
+Roseau;27.3
+Istanbul;27.0
+Roseau;6.5
+Cracow;26.3
+Palembang;26.4
+Bridgetown;6.2
+Roseau;11.3
+St. John's;19.5
+Hamburg;2.4
+Bulawayo;9.9
+Istanbul;6.6
+Conakry;25.9
+Cracow;10.1
+Conakry;9.7
+Istanbul;14.4
+Conakry;19.0
+Istanbul;15.8
+Conakry;14.2
+Roseau;5.0
+Istanbul;7.5
+Bridgetown;5.7
+Palembang;15.0
+Cracow;2.1
+Bulawayo;16.7
+Palembang;4.8
+Istanbul;4.5
+Hamburg;22.2
+Roseau;1.6
+St. John's;22.0
+Cracow;2.8
+Cracow;16.0
+Palembang;24.6
+Bulawayo;3.5
+Roseau;17.7
+Hamburg;8.2
+St. John's;24.1
+Roseau;15.7
+Bulawayo;3.2
+Palembang;8.6
+Istanbul;18.0
+Cracow;4.7
+Roseau;29.5
+Bulawayo;6.7
+Roseau;29.9
+Palembang;21.5
+Bulawayo;14.1
+St. John's;29.3
+Hamburg;17.0
+Hamburg;18.4
+Bridgetown;13.7
+Palembang;25.8
+St. John's;2.5
+Roseau;3.9
+Conakry;22.8
+Bulawayo;13.2
+Roseau;5.4
+St. John's;5.3
+Roseau;23.5
+Cracow;20.3
+Hamburg;14.0
+St. John's;3.9
+Bridgetown;1.6
+Cracow;6.0
+St. John's;10.7
+Bridgetown;26.2
+St. John's;5.8
+Roseau;25.1
+Roseau;14.8
+St. John's;20.6
+Roseau;27.3
+Bridgetown;17.9
+Bridgetown;14.7
+Bridgetown;17.4
+Roseau;26.3
+Palembang;12.2
+Istanbul;13.2
+St. John's;17.4
+Cracow;10.1
+Bridgetown;21.3
+Roseau;1.5
+Palembang;1.7
+Bridgetown;10.1
+Bulawayo;24.3
+Bulawayo;27.8
+St. John's;6.2
+Istanbul;12.8
+Cracow;25.8
+Roseau;24.5
+Palembang;21.0
+Palembang;8.8
+Bridgetown;23.8
+Palembang;12.4
+Hamburg;19.3
+St. John's;22.0
+Hamburg;5.8
+St. John's;16.4
+Conakry;18.0
+Conakry;28.6
+Conakry;2.4
+St. John's;16.4
+Hamburg;27.4
+Cracow;5.7
+St. John's;5.4
+Istanbul;18.5
+Bulawayo;8.3
+Cracow;9.3
+Hamburg;24.9
+Hamburg;3.7
+Istanbul;29.5
+Bulawayo;23.9
+Cracow;11.6
+Hamburg;26.9
+Hamburg;14.0
+Bridgetown;29.2
+Hamburg;0.6
+Conakry;4.6
+Hamburg;24.4
+Bulawayo;4.7
+Conakry;0.9
+St. John's;27.1
+Conakry;21.5
+Bridgetown;9.4
+Cracow;5.3
+Istanbul;14.4
+Bridgetown;24.6
+Bridgetown;4.0
+Istanbul;2.1
+Conakry;14.6
+Hamburg;2.6
+Roseau;24.9
+Hamburg;7.8
+Conakry;17.5
+Istanbul;19.3
+Roseau;19.2
+Bridgetown;9.3
+Cracow;5.7
+Roseau;15.1
+Conakry;23.3
+Hamburg;23.0
+Roseau;11.3
+Bulawayo;8.9
+Palembang;22.7
+Roseau;24.5
+Istanbul;12.1
+Hamburg;29.9
+Cracow;18.8
+Bridgetown;26.6
+Palembang;20.7
+Bridgetown;1.4
+Cracow;19.0
+Hamburg;18.7
+St. John's;27.6
+Bulawayo;12.2
+Hamburg;22.9
+Palembang;21.5
+Cracow;16.1
+Cracow;14.3
+Palembang;27.4
+Conakry;28.2
+Palembang;14.0
+Bulawayo;5.7
+Bulawayo;15.1
+St. John's;20.6
+Istanbul;9.4
+Hamburg;8.6
+St. John's;3.2
+Conakry;17.1
+Conakry;23.1
+Istanbul;4.5
+St. John's;17.2
+Roseau;23.9
+Roseau;29.2
+Cracow;3.5
+Bulawayo;0.9
+St. John's;26.6
+St. John's;23.9
+Cracow;23.9
+Conakry;9.8
+Hamburg;15.4
+St. John's;8.1
+Palembang;27.5
+Bridgetown;9.0
+Roseau;25.8
+Istanbul;2.6
+Istanbul;0.0
+Cracow;26.9
+Bulawayo;18.2
+Roseau;6.9
+Bridgetown;14.8
+St. John's;28.4
+Istanbul;2.7
+Bulawayo;4.6
+Istanbul;22.4
+Roseau;0.5
+Conakry;17.8
+St. John's;2.8
+Hamburg;8.3
+Palembang;23.3
+Roseau;9.3
+Palembang;10.4
+Cracow;9.4
+Bulawayo;10.0
+St. John's;21.1
+Bulawayo;27.0
+Conakry;0.8
+Istanbul;7.2
+Istanbul;5.4
+Bulawayo;18.8
+Hamburg;10.1
+Hamburg;17.7
+Conakry;26.9
+Bridgetown;15.5
+Istanbul;15.3
+Palembang;2.7
+Roseau;1.1
+St. John's;13.0
+Bridgetown;26.6
+Hamburg;14.7
+Istanbul;26.6
+Istanbul;27.8
+Bulawayo;5.5
+Bridgetown;9.9
+Istanbul;16.9
+Cracow;16.7
+Hamburg;19.4
+Bridgetown;23.0
+Hamburg;16.2
+Hamburg;14.7
+St. John's;15.0
+Cracow;16.8
+Cracow;19.6
+Bulawayo;7.3
+Istanbul;14.7
+Conakry;9.8
+Palembang;29.3
+Istanbul;2.8
+Roseau;10.3
+Bulawayo;14.5
+Istanbul;24.4
+Palembang;12.7
+Palembang;10.4
+Bridgetown;21.8
+Palembang;8.0
+Conakry;5.6
+St. John's;7.7
+Roseau;1.5
+Bulawayo;6.1
+Bridgetown;26.9
+Roseau;5.0
+Conakry;16.4
+Palembang;23.6
+Conakry;0.8
+Hamburg;16.6
+Bridgetown;11.8
+St. John's;14.1
+Istanbul;5.7
+Cracow;16.5
+Bridgetown;2.0
+Istanbul;11.0
+Bulawayo;27.6
+Bulawayo;20.4
+Palembang;19.3
+Bridgetown;25.1
+St. John's;2.3
+Cracow;20.9
+Cracow;3.0
+Bulawayo;12.3
+Palembang;18.3
+Roseau;17.3
+Bridgetown;29.0
+Hamburg;24.5
+Roseau;4.0
+St. John's;0.9
+Bulawayo;19.3
+Cracow;12.2
+Bridgetown;18.0
+Palembang;19.6
+Istanbul;13.6
+Istanbul;0.8
+Roseau;5.0
+Cracow;2.0
+St. John's;10.9
+St. John's;24.8
+Istanbul;3.1
+St. John's;11.5
+Bulawayo;25.4
+Bridgetown;4.2
+Bulawayo;0.1
+Roseau;9.9
+Bridgetown;3.7
+Hamburg;1.2
+Cracow;3.1
+Bulawayo;14.2
+Bridgetown;16.0
+Hamburg;12.2
+Bridgetown;15.9
+Bulawayo;10.8
+Istanbul;18.0
+Hamburg;17.6
+Istanbul;12.3
+St. John's;27.6
+Palembang;4.3
+Cracow;16.9
+St. John's;4.6
+Cracow;14.9
+Istanbul;29.1
+Bridgetown;21.2
+Conakry;13.3
+Bulawayo;15.6
+Bulawayo;26.2
+Palembang;4.6
+Hamburg;1.4
+Cracow;2.5
+Bridgetown;11.2
+Palembang;5.7
+Bridgetown;26.1
+St. John's;15.6
+Conakry;10.3
+Palembang;2.6
+Istanbul;15.5
+Cracow;13.5
+Bridgetown;16.1
+Cracow;10.4
+St. John's;6.0
+Istanbul;8.0
+Bridgetown;12.2
+Istanbul;4.9
+Istanbul;21.6
+Hamburg;16.4
+Conakry;17.1
+Hamburg;18.4
+Cracow;15.4
+Roseau;22.2
+Bulawayo;6.3
+Palembang;4.9
+Conakry;5.0
+Istanbul;22.7
+Istanbul;0.7
+Palembang;9.8
+Roseau;4.7
+Cracow;9.0
+Bridgetown;10.4
+Roseau;27.4
+Hamburg;3.8
+Conakry;28.4
+Conakry;20.1
+Conakry;9.9
+Hamburg;8.1
+Cracow;11.9
+Bridgetown;14.9
+Conakry;15.4
+St. John's;14.4
+Bridgetown;5.9
+Bridgetown;19.5
+Palembang;13.1
+Istanbul;23.9
+St. John's;23.5
+Conakry;18.0
+Conakry;20.7
+Cracow;27.0
+Bulawayo;13.0
+Istanbul;21.8
+Conakry;12.8
+Hamburg;8.8
+Istanbul;12.4
+Roseau;29.9
+Cracow;7.3
+Conakry;25.3
+Hamburg;23.7
+Istanbul;2.8
+Hamburg;10.5
+Roseau;27.2
+Roseau;14.4
+Cracow;1.0
+Conakry;1.9
+Istanbul;0.1
+Roseau;7.6
+Conakry;14.8
+Bulawayo;20.0
+St. John's;20.1
+Bulawayo;9.1
+Palembang;2.3
+Roseau;1.2
+Cracow;11.3
+Palembang;8.9
+Conakry;29.2
+Bulawayo;11.1
+Roseau;26.9
+Palembang;24.3
+Roseau;13.3
+Palembang;10.9
+Bulawayo;9.5
+St. John's;26.1
+Conakry;26.1
+Roseau;29.1
+Hamburg;28.4
+Conakry;9.4
+Conakry;27.1
+Cracow;1.4
+Bulawayo;25.6
+Istanbul;7.5
+Bridgetown;11.4
+Conakry;20.6
+Cracow;11.1
+St. John's;29.2
+Bridgetown;7.7
+Conakry;28.0
+Cracow;18.2
+Istanbul;14.1
+Bulawayo;22.4
+Hamburg;17.8
+Cracow;16.6
+Conakry;10.6
+Bridgetown;20.8
+St. John's;17.2
+Bridgetown;4.1
+Conakry;21.8
+Istanbul;13.0
+Cracow;26.6
+Cracow;8.9
+Cracow;0.0
+Istanbul;3.7
+Cracow;22.1
+Bulawayo;7.7
+Bulawayo;29.4
+Conakry;20.8
+Istanbul;13.2
+St. John's;23.8
+Istanbul;7.4
+St. John's;8.8
+Hamburg;26.9
+Bridgetown;9.7
+Conakry;2.9
+St. John's;29.8
+Istanbul;1.3
+Roseau;6.7
+Cracow;0.1
+Cracow;26.4
+Conakry;5.2
+Palembang;24.6
+Palembang;20.8
+Hamburg;8.2
+Cracow;23.5
+Conakry;5.5
+Palembang;24.3
+Palembang;0.0
+Palembang;6.3
+Palembang;25.9
+Roseau;14.9
+Palembang;0.8
+Istanbul;25.2
+Bulawayo;9.7
+Hamburg;8.1
+Bulawayo;11.7
+Bridgetown;0.3
+Istanbul;0.8
+Bridgetown;16.3
+Istanbul;19.4
+Hamburg;3.4
+Bulawayo;23.3
+Hamburg;23.2
+Bulawayo;20.5
+Palembang;6.6
+Conakry;7.5
+Bridgetown;25.5
+Roseau;5.4
+Conakry;15.1
+St. John's;24.5
+Palembang;11.3
+Roseau;13.7
+Bridgetown;16.7
+Palembang;18.6
+Roseau;9.7
+Bulawayo;2.6
+Palembang;0.2
+Hamburg;28.5
+Palembang;4.4
+Bulawayo;7.5
+St. John's;25.8
+Bridgetown;3.1
+St. John's;4.2
+Cracow;12.0
+Conakry;17.6
+Roseau;25.1
+Istanbul;2.3
+Bulawayo;1.8
+Roseau;14.6
+St. John's;1.6
+Palembang;9.7
+Roseau;18.3
+Hamburg;24.7
+Bulawayo;4.9
+St. John's;9.9
+Hamburg;21.4
+Istanbul;6.1
+St. John's;5.4
+Bridgetown;24.1
+Conakry;23.7
+Bulawayo;18.1
+Cracow;2.8
+Cracow;10.6
+Palembang;20.4
+Istanbul;6.4
+Hamburg;17.4
+Istanbul;1.5
+Istanbul;26.6
+Bulawayo;16.4
+Hamburg;29.8
+Bulawayo;0.9
+Conakry;24.6
+St. John's;13.8
+Palembang;18.0
+Palembang;0.6
+Bridgetown;13.6
+St. John's;4.1
+St. John's;11.0
+Bridgetown;12.4
+St. John's;5.6
+Bridgetown;4.0
+Bulawayo;24.2
+Palembang;21.1
+Conakry;29.8
+Cracow;26.9
+Palembang;1.2
+Roseau;12.3
+Cracow;14.2
+Conakry;16.3
+Palembang;25.9
+Cracow;4.4
+Bulawayo;23.8
+Roseau;10.2
+Bridgetown;9.4
+St. John's;5.5
+Cracow;25.9
+St. John's;26.5
+Roseau;17.5
+Conakry;14.9
+Conakry;6.4
+Conakry;3.5
+St. John's;0.8
+Istanbul;9.3
+Bulawayo;12.3
+Bridgetown;9.4
+St. John's;24.4
+Roseau;19.6
+Bridgetown;1.9
+Conakry;5.2
+Palembang;7.2
+Conakry;2.0
+Hamburg;17.5
+Hamburg;11.6
+Bulawayo;29.3
+Cracow;20.8
+Cracow;2.5
+Palembang;0.6
+Roseau;29.3
+Istanbul;25.7
+Bridgetown;16.0
+Istanbul;0.5
+Bulawayo;16.5
+Bridgetown;19.7
+Hamburg;13.5
+Roseau;7.6
+Palembang;19.7
+Palembang;22.0
+Istanbul;13.7
+St. John's;13.2
+Bulawayo;0.9
+Cracow;4.9
+Hamburg;3.8
+Conakry;11.6
+Bridgetown;7.1
+Cracow;26.1
+Hamburg;12.6
+Cracow;25.8
+Conakry;14.7
+St. John's;15.0
+Bulawayo;18.4
+Conakry;24.7
+Hamburg;17.2
+Bulawayo;4.9
+Roseau;29.5
+Bulawayo;3.7
+Bridgetown;17.7
+Bridgetown;13.1
+St. John's;6.9
+Bulawayo;17.2
+Palembang;16.4
+Bridgetown;11.0
+Hamburg;13.8
+Hamburg;10.1
+Cracow;24.5
+Roseau;27.2
+Hamburg;5.1
+Bulawayo;17.2
+Conakry;8.8
+Istanbul;27.7
+Conakry;0.9
+Istanbul;13.1
+Roseau;10.8
+Palembang;16.3
+Istanbul;15.3
+St. John's;0.3
+St. John's;16.2
+St. John's;13.2
+Conakry;11.4
+Palembang;14.0
+Bridgetown;11.6
+Istanbul;6.5
+Bridgetown;7.1
+Istanbul;2.7
+Bridgetown;24.2
+Bulawayo;19.7
+Cracow;4.4
+Bridgetown;28.2
+Palembang;18.2
+Roseau;28.3
+Cracow;20.9
+Hamburg;29.5
+St. John's;23.7
+Bulawayo;9.8
+Palembang;24.9
+St. John's;29.4
+Cracow;20.1
+Roseau;26.4
+Roseau;16.2
+Roseau;25.0
+Istanbul;7.3
+Istanbul;21.5
+Conakry;15.0
+Roseau;13.8
+Bridgetown;21.8
+Hamburg;1.6
+Cracow;10.4
+Cracow;22.7
+Palembang;10.4
+Palembang;2.2
+Roseau;23.5
+Bulawayo;15.9
+Cracow;20.5
+Roseau;15.8
+Hamburg;19.5
+Bridgetown;24.5
+Istanbul;15.0
+Palembang;14.0
+Roseau;1.6
+Istanbul;9.0
+Bulawayo;9.1
+Palembang;16.5
+Bridgetown;23.9
+Palembang;1.9
+Roseau;24.7
+Bridgetown;11.6
+Bulawayo;0.3
+Palembang;26.9
+Cracow;26.4
+Hamburg;28.6
+St. John's;8.2
+Conakry;24.1
+Cracow;28.1
+St. John's;21.2
+St. John's;3.8
+Hamburg;27.1
+Cracow;6.9
+St. John's;4.2
+St. John's;29.2
+Palembang;24.2
+Hamburg;16.1
+Bulawayo;11.2
+Conakry;19.0
+Roseau;22.4
+Hamburg;30.0
+Bridgetown;5.2
+St. John's;0.0
+Istanbul;21.5
+Roseau;0.3
+Cracow;5.3
+Conakry;10.4
+Istanbul;29.1
+Cracow;16.3
+St. John's;8.0
+Hamburg;18.1
+St. John's;23.2
+Istanbul;12.7
+Palembang;6.1
+St. John's;11.2
+Bridgetown;3.2
+Bridgetown;24.4
+Istanbul;17.9
+Cracow;13.9
+Bulawayo;16.1
+Conakry;27.4
+Palembang;26.5
+Conakry;18.2
+St. John's;11.4
+Cracow;22.6
+Roseau;26.1
+St. John's;10.8
+St. John's;22.1
+Hamburg;20.9
+Istanbul;17.8
+Conakry;8.2
+St. John's;24.4
+Bulawayo;17.2
+Conakry;26.3
+Hamburg;28.7
+Conakry;2.8
+Bridgetown;27.0
+Palembang;7.2
+Hamburg;22.1
+Istanbul;24.6
+St. John's;17.1
+Conakry;1.7
+Istanbul;13.1
+St. John's;18.5
+Bridgetown;2.2
+Bridgetown;29.6
+Cracow;16.7
+Cracow;1.0
+Palembang;7.6
+Istanbul;16.6
+Hamburg;11.3
+Hamburg;25.3
+Palembang;14.1
+Hamburg;25.1
+Palembang;11.7
+Palembang;17.3
+St. John's;9.7
+Bridgetown;25.9
+Hamburg;21.1
+Conakry;6.9
+Palembang;7.4
+Bulawayo;26.4
+Hamburg;6.0
+Bridgetown;19.7
+Istanbul;18.6
+Conakry;6.9
+Bulawayo;23.3
+Palembang;11.5
+Cracow;2.8
+St. John's;10.4
+Cracow;4.8
+Istanbul;2.9
+St. John's;13.3
+Conakry;7.1
+Bridgetown;14.7
+Cracow;25.6
+St. John's;17.5
+Cracow;6.7
+Roseau;8.5
+Palembang;8.4
+St. John's;5.3
+St. John's;14.4
+Hamburg;6.7
+Hamburg;28.7
+Hamburg;8.3
+Bulawayo;20.3
+Hamburg;2.3
+Cracow;23.8
+Palembang;27.6
+Cracow;3.6
+Istanbul;16.6
+Istanbul;26.4
+Bridgetown;26.8
+St. John's;5.9
+Palembang;29.5
+Palembang;22.8
+Bulawayo;11.0
+Bulawayo;1.8
+Palembang;26.8
+Bridgetown;14.6
+Hamburg;24.4
+Hamburg;11.7
+Bridgetown;27.7
+Cracow;7.0
+St. John's;24.5
+St. John's;16.5
+Cracow;11.1
+Istanbul;23.0
+Conakry;24.3
+St. John's;29.1
+Istanbul;21.5
+Istanbul;21.5
+Istanbul;2.6
+Bridgetown;6.0
+Palembang;7.6
+Hamburg;25.8
+Bulawayo;19.4
+Istanbul;1.3
+Bridgetown;20.3
+Hamburg;7.8
+Hamburg;4.0
+St. John's;20.2
+Conakry;23.2
+Palembang;7.8
+Conakry;1.5
+Istanbul;10.6
+Hamburg;4.4
+Bridgetown;9.7
+Roseau;4.9
+Cracow;12.4
+Conakry;22.6
+Conakry;30.0
+Conakry;12.8
+Bulawayo;20.7
+Istanbul;13.7
+Cracow;16.0
+Bridgetown;15.2
+Roseau;0.9
+Palembang;28.7
+Palembang;27.7
+Bridgetown;3.6
+Palembang;17.1
+Bridgetown;14.5
+Roseau;1.0
+Roseau;12.4
+Conakry;19.6
+Hamburg;14.3
+Cracow;24.9
+Cracow;14.7
+Bridgetown;23.9
+Conakry;25.7
+Cracow;6.7
+Conakry;4.8
+Conakry;25.4
+Hamburg;15.4
+Hamburg;7.8
+Cracow;12.0
+Cracow;15.7
+Hamburg;24.9
+Roseau;24.3
+Conakry;9.3
+Bulawayo;3.5
+Conakry;21.2
+Istanbul;23.4
+Bulawayo;23.6
+Istanbul;18.2
+Palembang;10.3
+Palembang;1.5
+Hamburg;18.8
+St. John's;1.7
+St. John's;9.6
+Bulawayo;15.6
+Bulawayo;21.1
+Hamburg;25.5
+Cracow;3.9
+Hamburg;26.2
+Istanbul;27.4
+Bridgetown;4.4
+Hamburg;23.6
+Bridgetown;24.1
+Hamburg;14.1
+St. John's;10.6
+Conakry;16.5
+Cracow;4.9
+Cracow;21.9
+Istanbul;9.1
+Palembang;8.0
+Cracow;15.9
+Istanbul;26.9
+Cracow;24.0
+Palembang;14.4
+Cracow;27.2
+Hamburg;24.6
+Bulawayo;26.4
+Bulawayo;6.2
+Cracow;29.7
+Bridgetown;24.2
+Palembang;14.5
+St. John's;17.3
+Istanbul;7.8
+Bridgetown;24.7
+Bulawayo;5.1
+Palembang;8.3
+Cracow;4.0
+Istanbul;24.4
+Conakry;24.5
+Bridgetown;23.2
+Istanbul;1.1
+Bulawayo;3.3
+Bridgetown;5.4
+Bridgetown;8.4
+Palembang;7.4
+Palembang;10.0
+Palembang;9.6
+Roseau;22.1
+Hamburg;14.7
+Conakry;11.7
+Cracow;30.0
+Bridgetown;22.1
+Hamburg;8.2
+Hamburg;29.5
+St. John's;8.7
+St. John's;8.1
+Palembang;8.1
+Hamburg;18.7
+St. John's;26.8
+Roseau;11.9
+Bridgetown;25.8
+Palembang;17.1
+Roseau;10.4
+Hamburg;26.4
+Palembang;0.3
+Bulawayo;28.2
+Roseau;4.7
+Palembang;1.1
+Cracow;3.6
+Istanbul;1.0
+Conakry;3.1
+Conakry;19.5
+St. John's;4.4
+St. John's;26.1
+Roseau;10.7
+Bridgetown;4.7
+Istanbul;11.5
+Conakry;6.9
+Bulawayo;10.2
+Istanbul;28.2
+Roseau;20.7
+Istanbul;29.0
+Hamburg;14.9
+St. John's;24.2
+Roseau;2.2
+Bulawayo;4.7
+Conakry;15.4
+Roseau;26.6
+St. John's;2.8
+St. John's;22.6
+Roseau;5.3
+Hamburg;26.7
+Hamburg;15.1
+Roseau;3.7
+Istanbul;17.6
+Roseau;22.4
+Cracow;25.5
+Palembang;18.9
+Roseau;7.4
+Bridgetown;3.1
+Istanbul;28.0
+Istanbul;0.8
+Bulawayo;18.7
+Roseau;7.7
+Cracow;12.2
+Bridgetown;7.4
+Roseau;23.0
+Hamburg;2.7
+Bridgetown;1.3
+Roseau;6.3
+Hamburg;23.9
+Bridgetown;12.3
+Bridgetown;2.0
+Cracow;27.6
+Bridgetown;5.9
+Bridgetown;0.2
+Conakry;13.9
+Bridgetown;9.9
+Palembang;27.5
+Roseau;11.6
+Cracow;15.4
+Conakry;4.5
+Palembang;29.2
+Palembang;15.3
+Cracow;1.9
+Istanbul;24.8
+St. John's;10.7
+Cracow;4.2
+Bridgetown;14.4
+Bulawayo;19.0
+St. John's;21.9
+Istanbul;25.3
+Bulawayo;14.7
+Cracow;15.7
+Cracow;18.2
+Bulawayo;10.3
+Palembang;29.9
+St. John's;19.9
+Bridgetown;24.9
+Roseau;5.6
+Conakry;26.8
+Hamburg;25.2
+Conakry;19.9
+Roseau;20.3
+Istanbul;28.6
+Bridgetown;16.3
+Bridgetown;28.5
+Istanbul;2.2
+Bridgetown;29.3
+Conakry;7.4
+Roseau;20.6
+Roseau;22.5
+Conakry;17.9
+Roseau;14.2
+Roseau;22.6
+Conakry;29.6
+Bridgetown;16.2
+Istanbul;6.5
+Hamburg;10.2
+Istanbul;27.7
+Bridgetown;13.7
+Istanbul;21.2
+Bulawayo;9.0
+Conakry;4.4
+St. John's;4.6
+Hamburg;12.1
+Istanbul;18.5
+St. John's;19.0
+Bridgetown;6.7
+Conakry;0.1
+Hamburg;22.7
+Istanbul;10.4
+Conakry;25.6
+Bridgetown;8.1
+Hamburg;27.3
+Conakry;3.5
+Roseau;18.3
+Cracow;23.7
+Cracow;2.1
+Palembang;20.6
+Istanbul;23.5
+Hamburg;8.5
+Bulawayo;11.5
+Bulawayo;8.4
+Hamburg;11.3
+Istanbul;18.3
+Palembang;28.4
+Istanbul;19.7
+Bulawayo;24.1
+Conakry;26.9
+Bulawayo;2.1
+Cracow;29.5
+St. John's;27.6
+St. John's;18.2
+Conakry;6.0
+Conakry;0.0
+Bridgetown;29.4
+Istanbul;13.2
+Bridgetown;3.6
+Istanbul;2.6
+Istanbul;12.1
+Hamburg;29.8
+Istanbul;1.3
+Conakry;5.6
+St. John's;2.1
+Istanbul;9.9
+Roseau;5.6
+Roseau;11.1
+Roseau;29.6
+Bridgetown;14.6
+Hamburg;0.2
+Istanbul;14.1
+St. John's;12.0
+Bridgetown;24.1
+Roseau;26.9
+Bulawayo;13.1
+Roseau;24.7
+Cracow;6.6
+Bulawayo;29.2
+Roseau;10.3
+Bulawayo;11.0
+Bulawayo;9.5
+Conakry;2.3
+Cracow;3.8
+Roseau;13.0
+Istanbul;2.0
+Bridgetown;16.0
+Palembang;2.4
+Conakry;8.4
+Roseau;26.0
+Conakry;11.3
+Conakry;9.0
+Bulawayo;8.6
+Palembang;24.3
+Hamburg;20.5
+Conakry;6.6
+Conakry;28.1
+Roseau;2.6
+Roseau;22.4
+Hamburg;0.9
+Bridgetown;7.2
+Istanbul;16.5
+Hamburg;0.4
+Roseau;8.9
+Conakry;3.5
+Bridgetown;11.4
+Hamburg;26.8
+Roseau;21.6
+Conakry;25.0
+Conakry;12.9
+Cracow;28.8
+Palembang;24.3
+Conakry;28.2
+Conakry;16.3
+Istanbul;17.2
+Bridgetown;7.4
+St. John's;1.2
+Bulawayo;11.3
+Cracow;5.5
+Cracow;20.8
+Conakry;21.2
+Cracow;26.4
+Bulawayo;29.2
+Bridgetown;20.3
+St. John's;22.9
+Hamburg;11.8
+St. John's;5.2
+Bulawayo;1.1
+Conakry;11.9
+Bridgetown;20.6
+Roseau;1.4
+Palembang;3.1
+Conakry;5.0
+Bulawayo;16.1
+Bridgetown;12.2
+Conakry;26.9
+Roseau;1.5
+Palembang;20.4
+Conakry;10.0
+Palembang;29.3
+Istanbul;16.5
+Cracow;3.8
+Cracow;23.1
+Bulawayo;15.4
+Roseau;23.5
+Hamburg;14.7
+St. John's;18.1
+Conakry;21.7
+Cracow;7.4
+Palembang;27.9
+Cracow;14.7
+Cracow;27.2
+Bulawayo;18.0
+Bulawayo;2.5
+Bulawayo;12.6
+Hamburg;28.4
+St. John's;25.6
+Hamburg;24.1
+Istanbul;10.1
+St. John's;25.2
+Hamburg;28.7
+St. John's;1.9
+Istanbul;29.5
+Istanbul;11.2
+Istanbul;22.0
+Istanbul;13.2
+Bulawayo;11.3
+Cracow;5.0
+St. John's;25.7
+Istanbul;18.5
+Conakry;6.4
+Cracow;0.9
+Hamburg;16.9
+Conakry;8.2
+Roseau;11.8
+Hamburg;24.1
+Bridgetown;4.5
+Bridgetown;15.1
+Roseau;13.2
+St. John's;14.3
+Bridgetown;24.6
+Istanbul;21.3
+Cracow;26.2
+Bridgetown;15.9
+Conakry;14.7
+Cracow;5.0
+Conakry;3.3
+St. John's;23.1
+Palembang;21.6
+Istanbul;12.1
+Palembang;1.7
+St. John's;9.6
+Roseau;21.8
+Conakry;15.4
+Bulawayo;17.9
+Palembang;13.1
+Conakry;25.8
+Hamburg;15.9
+Bulawayo;26.3
+St. John's;25.0
+St. John's;11.9
+Bulawayo;21.4
+St. John's;5.1
+Conakry;4.1
+Istanbul;23.6
+Bulawayo;30.0
+Conakry;2.9
+Istanbul;26.5
+Palembang;13.6
+Istanbul;2.6
+Cracow;29.1
+St. John's;0.7
+Hamburg;2.3
+Bridgetown;12.2
+Hamburg;27.9
+Istanbul;20.9
+Cracow;6.6
+Bridgetown;16.0
+Palembang;5.7
+Bulawayo;27.6
+Conakry;14.8
+Cracow;18.3
+Hamburg;29.7
+Roseau;22.6
+Cracow;11.1
+Conakry;12.6
+Cracow;17.0
+Roseau;14.3
+Istanbul;19.9
+Cracow;6.8
+St. John's;3.5
+Hamburg;14.0
+Cracow;11.2
+Cracow;5.7
+Roseau;9.3
+Bulawayo;19.6
+St. John's;13.4
+Cracow;23.5
+Hamburg;7.4
+St. John's;4.9
+Bulawayo;20.1
+Istanbul;4.6
+Bulawayo;20.3
+St. John's;10.6
+Bridgetown;29.5
+Conakry;27.2
+Bridgetown;23.0
+Hamburg;27.2
+Roseau;14.5
+Roseau;5.4
+Istanbul;15.8
+Roseau;29.2
+Roseau;7.0
+Bridgetown;26.2
+Conakry;26.7
+Bridgetown;13.9
+Hamburg;9.5
+Bulawayo;4.4
+Conakry;21.8
+Bulawayo;2.5
+Bridgetown;29.4
+Bulawayo;16.7
+Conakry;7.9
+St. John's;28.1
+Bridgetown;0.7
+Bridgetown;20.6
+Palembang;5.0
+Conakry;24.3
+Palembang;22.2
+Roseau;22.2
+Bridgetown;0.1
+St. John's;5.2
+Cracow;22.2
+Cracow;20.0
+Istanbul;19.3
+Istanbul;12.6
+St. John's;26.4
+Cracow;29.7
+Istanbul;15.1
+Roseau;22.4
+St. John's;17.8
+Palembang;18.7
+Bulawayo;2.9
+Istanbul;25.6
+Roseau;7.5
+Roseau;20.1
+Palembang;11.4
+Conakry;6.2
+Conakry;19.3
+Roseau;14.6
+Hamburg;2.3
+Bulawayo;10.2
+Bulawayo;9.8
+Palembang;15.1
+Hamburg;6.1
+St. John's;9.3
+Bulawayo;17.7
+Bulawayo;18.0
+Cracow;23.9
+Roseau;13.5
+Bridgetown;2.2
+Bridgetown;16.2
+Hamburg;23.3
+Bulawayo;17.7
+Hamburg;22.0
+Istanbul;11.3
+Conakry;25.6
+Conakry;17.8
+St. John's;3.8
+Palembang;9.9
+Cracow;20.0
+Cracow;2.7
+Conakry;12.6
+Bulawayo;3.8
+St. John's;2.0
+Hamburg;27.8
+Cracow;13.3
+Cracow;0.1
+Palembang;10.8
+Hamburg;25.2
+Istanbul;13.8
+Conakry;0.0
+Roseau;15.4
+Hamburg;9.6
+Conakry;5.5
+Roseau;11.3
+Conakry;3.6
+Bridgetown;13.2
+St. John's;1.8
+Bridgetown;16.6
+Conakry;12.8
+Bridgetown;0.5
+Palembang;8.0
+Cracow;6.4
+Bulawayo;3.9
+Bridgetown;19.2
+Bridgetown;9.9
+Roseau;18.5
+Bulawayo;27.6
+Hamburg;5.6
+Palembang;0.7
+Bulawayo;29.6
+Bulawayo;21.1
+Palembang;1.5
+Istanbul;6.9
+St. John's;13.7
+Palembang;9.5
+St. John's;0.6
+Conakry;4.3
+Istanbul;6.6
+Hamburg;0.6
+Istanbul;18.6
+Bulawayo;22.9
+Hamburg;0.3
+Conakry;28.8
+Hamburg;15.9
+Conakry;19.5
+Palembang;24.0
+Roseau;27.3
+Conakry;6.0
+Hamburg;26.4
+Bulawayo;29.1
+Cracow;24.8
+Palembang;29.7
+Bridgetown;10.7
+Cracow;19.1
+Hamburg;18.7
+St. John's;18.4
+Hamburg;3.1
+Istanbul;13.4
+Conakry;2.6
+Roseau;19.1
+Bulawayo;16.4
+St. John's;15.2
+Istanbul;26.7
+Istanbul;18.0
+Roseau;26.2
+St. John's;26.4
+Bulawayo;29.6
+Cracow;11.9
+Hamburg;5.4
+Palembang;7.6
+Roseau;5.5
+Roseau;10.9
+Roseau;28.9
+Roseau;1.9
+Istanbul;14.2
+Bulawayo;26.9
+Cracow;11.7
+Palembang;25.2
+Cracow;28.3
+Bulawayo;23.0
+St. John's;1.2
+Istanbul;18.1
+Roseau;18.9
+Bridgetown;25.3
+Bulawayo;25.9
+Bridgetown;24.6
+Cracow;1.1
+Istanbul;10.4
+St. John's;0.7
+Conakry;7.7
+Roseau;24.0
+Roseau;6.8
+Bridgetown;24.5
+Conakry;6.5
+Palembang;5.8
+Bulawayo;16.1
+Bridgetown;17.4
+St. John's;1.3
+Conakry;12.5
+Roseau;2.2
+Bulawayo;28.8
+Istanbul;7.8
+Conakry;1.0
+Roseau;18.8
+St. John's;26.8
+Bulawayo;21.7
+Hamburg;26.5
+Istanbul;14.3
+Bridgetown;19.9
+Palembang;5.9
+Palembang;12.3
+Hamburg;20.4
+Bulawayo;13.5
+Palembang;17.3
+St. John's;15.4
+Cracow;6.8
+Bridgetown;13.1
+Conakry;6.4
+St. John's;21.0
+Istanbul;4.5
+Palembang;13.2
+Cracow;26.4
+Cracow;14.9
+St. John's;19.8
+Cracow;11.7
+Conakry;17.6
+Bridgetown;19.0
+Conakry;10.7
+Istanbul;7.6
+Conakry;15.0
+Palembang;1.4
+Palembang;0.3
+Bulawayo;1.1
+Bulawayo;9.3
+Cracow;29.2
+Cracow;26.4
+Bridgetown;6.1
+Conakry;15.1
+Bulawayo;2.4
+Roseau;21.5
+Palembang;28.1
+Bridgetown;4.7
+Hamburg;14.8
+Bridgetown;4.9
+Bulawayo;5.6
+Conakry;17.9
+Istanbul;22.7
+Bridgetown;26.7
+Cracow;7.6
+Cracow;28.7
+Cracow;0.2
+Istanbul;6.3
+Bulawayo;16.0
+Cracow;10.7
+Cracow;8.3
+St. John's;27.8
+Bridgetown;21.4
+Bridgetown;22.5
+Hamburg;10.8
+Conakry;0.8
+Bulawayo;6.1
+Conakry;13.7
+Istanbul;17.7
+Bulawayo;19.9
+Bridgetown;11.5
+Bridgetown;4.3
+Hamburg;27.7
+Bridgetown;6.0
+Istanbul;14.9
+Roseau;6.1
+Palembang;6.7
+Bridgetown;21.8
+Roseau;13.3
+Roseau;18.8
+Conakry;21.9
+St. John's;5.7
+Conakry;25.9
+Bridgetown;19.2
+Bridgetown;10.2
+Roseau;26.5
+Palembang;20.7
+Palembang;24.6
+Istanbul;23.6
+Bulawayo;0.2
+Istanbul;5.2
+St. John's;8.0
+Bridgetown;10.3
+Istanbul;5.1
+Bulawayo;4.4
+Conakry;9.7
+Hamburg;13.0
+Palembang;22.1
+Cracow;11.6
+Bulawayo;12.0
+St. John's;26.2
+Bridgetown;27.1
+Palembang;8.2
+Istanbul;6.7
+Conakry;2.5
+Istanbul;26.2
+Conakry;29.5
+Bridgetown;23.8
+Cracow;2.8
+Hamburg;28.3
+Bridgetown;24.5
+Conakry;29.8
+Palembang;25.0
+Roseau;18.2
+Roseau;27.1
+St. John's;20.2
+Palembang;13.2
+Bulawayo;23.8
+Istanbul;13.4
+Bridgetown;13.7
+Cracow;28.6
+St. John's;3.9
+Istanbul;19.8
+Bridgetown;7.6
+St. John's;8.2
+Cracow;18.2
+Conakry;24.6
+Istanbul;17.1
+Conakry;0.0
+Conakry;11.9
+Hamburg;11.5
+Conakry;19.7
+Bulawayo;6.1
+Hamburg;0.0
+Hamburg;10.3
+Cracow;10.6
+Roseau;15.0
+Cracow;3.0
+Istanbul;23.1
+Cracow;21.3
+Conakry;17.9
+St. John's;27.2
+Bulawayo;22.8
+St. John's;4.0
+Conakry;19.6
+Hamburg;13.4
+Bulawayo;11.4
+Bulawayo;7.2
+Istanbul;28.0
+Hamburg;22.2
+Roseau;0.6
+Cracow;12.3
+Conakry;5.3
+Bridgetown;23.4
+Hamburg;8.7
+Conakry;23.8
+Bulawayo;25.9
+St. John's;14.1
+Hamburg;4.9
+Hamburg;20.7
+Cracow;2.0
+Conakry;20.7
+Conakry;18.3
+Bridgetown;15.8
+Bulawayo;16.2
+Bridgetown;9.8
+Palembang;5.9
+Palembang;27.2
+Istanbul;3.1
+Bridgetown;12.3
+Cracow;9.9
+Hamburg;6.1
+Cracow;23.4
+Bridgetown;1.0
+Palembang;4.3
+Conakry;10.7
+Roseau;12.1
+Cracow;12.2
+Palembang;24.6
+St. John's;26.1
+Hamburg;4.9
+Bridgetown;27.3
+Hamburg;21.7
+Bridgetown;21.9
+Bridgetown;20.4
+Istanbul;9.0
+Palembang;12.3
+Roseau;18.9
+Bridgetown;12.1
+Conakry;28.4
+Bulawayo;18.0
+St. John's;10.3
+Bulawayo;15.6
+St. John's;13.1
+Istanbul;21.3
+Conakry;3.9
+Conakry;19.0
+Roseau;19.2
+Conakry;26.0
+Palembang;11.9
+Istanbul;26.4
+St. John's;9.5
+Bridgetown;7.7
+Palembang;5.3
+Bridgetown;18.2
+Palembang;4.9
+Istanbul;21.7
+St. John's;25.5
+Palembang;18.7
+Bulawayo;7.9
+Conakry;28.7
+Palembang;21.7
+Roseau;17.3
+Cracow;14.5
+Bulawayo;12.7
+Istanbul;13.6
+Bridgetown;12.5
+Conakry;18.2
+Hamburg;16.0
+Bridgetown;4.4
+Palembang;6.8
+Hamburg;19.4
+Bulawayo;25.4
+Bridgetown;28.9
+Palembang;6.0
+Hamburg;22.5
+Hamburg;29.0
+Conakry;10.9
+Bridgetown;3.7
+Roseau;29.8
+Bulawayo;27.9
+St. John's;1.4
+Hamburg;22.2
+Hamburg;29.9
+Bridgetown;26.5
+Hamburg;4.7
+Palembang;25.9
+Bulawayo;8.7
+Istanbul;5.1
+Roseau;1.2
+Conakry;17.3
+Palembang;29.7
+St. John's;7.9
+St. John's;25.6
+Istanbul;10.7
+Conakry;12.1
+Palembang;15.3
+Hamburg;21.5
+Hamburg;14.2
+Bridgetown;18.1
+Conakry;5.8
+Bridgetown;9.5
+Roseau;12.2
+Cracow;2.2
+Bulawayo;5.0
+Hamburg;29.6
+Istanbul;19.3
+Bridgetown;1.6
+Palembang;25.3
+Roseau;0.6
+Bridgetown;18.1
+Istanbul;3.4
+Roseau;0.2
+Bridgetown;21.6
+Istanbul;8.4
+Cracow;16.3
+Istanbul;10.1
+Cracow;13.6
+St. John's;27.0
+Conakry;21.6
+Bridgetown;12.9
+Conakry;7.2
+Roseau;16.5
+Istanbul;20.5
+Bridgetown;12.4
+Conakry;5.5
+Roseau;6.3
+Hamburg;23.2
+Istanbul;20.9
+Bulawayo;13.1
+Hamburg;7.6
+St. John's;16.0
+Palembang;17.9
+Conakry;12.6
+Istanbul;15.3
+Palembang;0.8
+Cracow;11.7
+Bridgetown;2.6
+Hamburg;14.0
+Bridgetown;29.5
+Conakry;3.0
+Cracow;3.8
+Roseau;29.0
+Conakry;6.0
+Istanbul;19.6
+Bridgetown;29.6
+Cracow;20.2
+Roseau;8.7
+Hamburg;21.8
+Istanbul;12.2
+Cracow;17.1
+Roseau;24.7
+Bridgetown;11.3
+Cracow;27.1
+Bridgetown;12.3
+Istanbul;8.6
+Bulawayo;18.0
+Hamburg;23.2
+Bridgetown;13.4
+Cracow;29.7
+Conakry;7.4
+Bridgetown;11.6
+Hamburg;1.5
+Palembang;16.8
+Bulawayo;4.2
+Bulawayo;5.6
+St. John's;2.1
+Bridgetown;8.1
+Bulawayo;8.0
+Istanbul;17.2
+Istanbul;0.8
+Istanbul;11.9
+Conakry;18.4
+Bulawayo;17.8
+Hamburg;20.9
+Bridgetown;11.0
+St. John's;8.7
+Cracow;14.0
+Bulawayo;10.1
+Bulawayo;18.0
+Bridgetown;2.8
+Bridgetown;27.1
+Cracow;23.5
+Conakry;5.4
+Roseau;25.1
+Hamburg;19.3
+Istanbul;22.3
+Istanbul;29.2
+Palembang;20.3
+St. John's;19.2
+Bulawayo;27.0
+Roseau;16.4
+Cracow;19.7
+Bulawayo;14.5
+Palembang;13.1
+Hamburg;14.4
+Roseau;1.8
+Bridgetown;25.2
+Bridgetown;11.8
+Roseau;16.8
+Palembang;17.4
+Istanbul;10.4
+St. John's;11.6
+Cracow;15.8
+Palembang;10.5
+Cracow;15.9
+Istanbul;1.0
+Conakry;1.7
+Roseau;8.7
+Bridgetown;9.5
+Hamburg;8.8
+Hamburg;22.1
+Roseau;13.2
+Conakry;26.1
+Bulawayo;20.2
+Cracow;15.7
+Roseau;28.3
+Bulawayo;27.1
+Bridgetown;24.8
+Palembang;20.3
+Hamburg;13.6
+Bridgetown;28.4
+Bulawayo;19.2
+Istanbul;16.8
+Hamburg;10.5
+Conakry;27.1
+Palembang;22.8
+Roseau;21.2
+St. John's;15.6
+Palembang;5.7
+Palembang;11.0
+Istanbul;22.0
+Cracow;0.1
+Conakry;19.0
+Palembang;0.8
+Bulawayo;26.5
+Roseau;24.2
+Hamburg;27.7
+Conakry;18.1
+Roseau;10.8
+Roseau;5.6
+Istanbul;9.9
+Bridgetown;0.0
+Hamburg;2.1
+Conakry;25.4
+St. John's;8.9
+Cracow;0.6
+Istanbul;18.5
+Roseau;21.5
+Istanbul;11.6
+Bulawayo;21.9
+Palembang;2.4
+Istanbul;9.7
+Istanbul;25.1
+Istanbul;15.7
+Bulawayo;17.7
+Hamburg;20.9
+St. John's;11.9
+Istanbul;7.4
+Hamburg;9.9
+Cracow;26.9
+Conakry;20.8
+Bridgetown;16.5
+Palembang;16.8
+Palembang;5.2
+Roseau;15.1
+Bridgetown;22.5
+Hamburg;7.1
+Palembang;25.0
+Cracow;0.7
+Bridgetown;25.4
+Istanbul;28.8
+Bulawayo;26.8
+Bulawayo;21.5
+Bulawayo;1.7
+Istanbul;4.4
+Palembang;11.2
+Istanbul;5.4
+Palembang;16.1
+Bridgetown;3.6
+Bridgetown;7.8
+Roseau;17.4
+Bulawayo;2.4
+Bulawayo;23.2
+Palembang;26.9
+Hamburg;9.0
+Palembang;29.7
+Bridgetown;17.5
+Bulawayo;21.8
+Conakry;15.0
+Hamburg;22.7
+Hamburg;1.4
+Hamburg;15.5
+Bulawayo;2.7
+Cracow;29.1
+Palembang;24.1
+Palembang;13.0
+Roseau;23.6
+Palembang;25.3
+Palembang;14.1
+Palembang;2.9
+Cracow;25.0
+Conakry;12.8
+Bridgetown;4.6
+Bulawayo;19.9
+Palembang;18.0
+Cracow;6.2
+Conakry;6.2
+Istanbul;26.6
+Hamburg;8.7
+St. John's;10.5
+Bulawayo;11.8
+Conakry;13.5
+Bulawayo;25.7
+Conakry;23.2
+Roseau;17.2
+Bulawayo;1.4
+Roseau;3.8
+Conakry;15.1
+Roseau;28.2
+Conakry;17.5
+Bulawayo;8.1
+Roseau;6.1
+Istanbul;19.9
+Bridgetown;3.5
+Roseau;12.7
+Conakry;11.8
+Roseau;3.0
+Conakry;18.8
+Conakry;7.3
+Hamburg;0.7
+Bulawayo;17.0
+Conakry;4.6
+Conakry;11.5
+Hamburg;26.7
+Hamburg;18.0
+Bridgetown;1.7
+Bridgetown;24.7
+Hamburg;0.9
+Conakry;26.9
+St. John's;19.1
+St. John's;6.3
+Palembang;18.8
+Roseau;8.0
+St. John's;14.3
+Cracow;1.9
+Roseau;12.3
+Bulawayo;24.8
+Bulawayo;29.0
+Palembang;9.6
+Roseau;25.6
+Roseau;19.4
+Roseau;5.5
+Hamburg;12.8
+St. John's;1.9
+Hamburg;22.7
+Istanbul;7.4
+Istanbul;3.2
+Bridgetown;27.0
+Bulawayo;0.4
+Istanbul;18.1
+Bridgetown;15.9
+Palembang;27.5
+Bulawayo;9.5
+Bulawayo;1.8
+Conakry;2.4
+Bridgetown;5.3
+Roseau;5.9
+Roseau;25.8
+Palembang;24.2
+Conakry;28.8
+Hamburg;2.7
+Hamburg;2.2
+Conakry;20.9
+Istanbul;26.6
+Cracow;19.7
+Cracow;16.2
+St. John's;19.1
+Cracow;28.5
+Bulawayo;23.2
+Cracow;10.8
+Hamburg;15.3
+Bulawayo;2.8
+Roseau;22.7
+Bulawayo;21.2
+Hamburg;4.7
+Conakry;9.9
+Istanbul;28.4
+Palembang;9.5
+Roseau;20.9
+Palembang;16.3
+Bridgetown;13.4
+Palembang;12.5
+Hamburg;24.8
+Hamburg;10.7
+St. John's;8.3
+St. John's;9.3
+Conakry;9.2
+Istanbul;13.5
+Hamburg;27.1
+Hamburg;11.6
+Istanbul;9.3
+Cracow;5.4
+Istanbul;20.6
+St. John's;13.4
+Istanbul;11.8
+St. John's;11.2
+Roseau;11.5
+Hamburg;18.5
+Cracow;22.5
+Bulawayo;13.0
+Conakry;9.2
+Bulawayo;2.9
+Bridgetown;26.0
+Conakry;1.9
+Palembang;13.1
+Roseau;10.3
+Bulawayo;28.2
+Bulawayo;3.6
+Roseau;8.3
+Cracow;27.4
+Bulawayo;2.8
+Istanbul;21.9
+Roseau;7.7
+Roseau;26.2
+Conakry;9.3
+Istanbul;8.2
+Roseau;26.4
+Hamburg;17.6
+St. John's;20.0
+Roseau;22.0
+Conakry;28.1
+St. John's;7.0
+Bridgetown;5.0
+Conakry;11.3
+Roseau;28.5
+St. John's;24.4
+Istanbul;9.2
+Roseau;0.6
+Cracow;17.7
+Bulawayo;11.9
+Bulawayo;25.3
+Hamburg;27.1
+Roseau;21.9
+Bulawayo;28.6
+Palembang;6.2
+Bulawayo;11.7
+Cracow;0.8
+Bulawayo;28.0
+Bridgetown;4.5
+Hamburg;29.0
+Bridgetown;24.3
+Hamburg;22.3
+Cracow;19.0
+Istanbul;9.7
+Roseau;26.6
+Bulawayo;22.7
+Palembang;24.0
+Roseau;2.5
+Bulawayo;16.7
+St. John's;18.4
+Conakry;23.1
+Conakry;11.7
+Cracow;8.0
+Bulawayo;21.5
+Istanbul;7.8
+Bridgetown;13.4
+Bridgetown;26.4
+Palembang;10.1
+Roseau;0.6
+Cracow;13.9
+Istanbul;17.0
+Conakry;5.3
+Bulawayo;22.6
+Bulawayo;21.1
+Roseau;29.3
+St. John's;27.6
+Bulawayo;16.5
+Roseau;11.4
+Istanbul;9.2
+Hamburg;18.5
+Hamburg;18.8
+Conakry;26.7
+Istanbul;1.2
+Istanbul;0.0
+Conakry;15.5
+Conakry;10.6
+Roseau;27.2
+Roseau;24.6
+Hamburg;28.0
+Istanbul;21.5
+Conakry;1.6
+Istanbul;24.5
+Bridgetown;1.8
+Bulawayo;0.2
+Cracow;28.0
+Conakry;25.9
+St. John's;19.6
+St. John's;20.8
+Hamburg;17.1
+Palembang;3.9
+Istanbul;16.0
+Istanbul;16.8
+Cracow;23.7
+Hamburg;12.7
+Bridgetown;7.3
+Bulawayo;5.0
+Roseau;19.9
+Bridgetown;21.7
+Conakry;14.2
+Palembang;15.9
+Roseau;6.9
+Bridgetown;27.1
+Bridgetown;29.1
+St. John's;2.3
+Bulawayo;11.8
+Conakry;27.5
+Conakry;18.1
+Istanbul;23.3
+Hamburg;19.8
+St. John's;22.4
+Conakry;12.8
+Roseau;0.7
+Cracow;28.1
+Cracow;29.6
+Palembang;28.4
+St. John's;27.4
+Cracow;7.6
+Bridgetown;16.5
+Conakry;18.6
+Palembang;7.9
+Roseau;10.7
+Palembang;12.7
+Palembang;12.5
+St. John's;18.9
+Conakry;29.7
+Conakry;22.8
+Hamburg;15.4
+Roseau;24.7
+St. John's;1.0
+Bulawayo;22.1
+Cracow;9.1
+Hamburg;14.7
+Palembang;5.6
+Cracow;1.8
+Cracow;4.5
+Palembang;17.5
+Istanbul;23.8
+St. John's;23.3
+Roseau;26.7
+Hamburg;16.2
+Bulawayo;20.3
+St. John's;10.6
+Cracow;30.0
+Hamburg;27.8
+Palembang;24.0
+Conakry;0.5
+Conakry;26.5
+Cracow;22.2
+Roseau;3.5
+Bridgetown;7.8
+Roseau;18.2
+St. John's;26.2
+Bridgetown;5.1
+Roseau;6.0
+Palembang;12.2
+Bridgetown;25.6
+Roseau;13.8
+Bulawayo;2.3
+Bridgetown;17.9
+Bridgetown;1.5
+St. John's;26.4
+Bulawayo;21.8
+Roseau;2.7
+Palembang;18.7
+St. John's;9.5
+Cracow;0.0
+Conakry;29.6
+St. John's;3.2
+Istanbul;11.1
+Bulawayo;23.2
+Hamburg;18.0
+Palembang;29.7
+Bridgetown;20.3
+Palembang;13.3
+Istanbul;0.3
+Bridgetown;24.5
+Roseau;3.8
+Palembang;15.7
+St. John's;0.5
+Roseau;5.0
+Palembang;11.0
+Roseau;0.5
+Conakry;17.9
+St. John's;2.5
+Roseau;21.2
+Bulawayo;15.2
+Bridgetown;1.3
+Bridgetown;27.2
+Cracow;9.2
+Hamburg;5.3
+St. John's;5.8
+Bridgetown;22.7
+St. John's;13.3
+Istanbul;24.8
+St. John's;8.6
+Cracow;10.5
+St. John's;4.6
+Conakry;3.6
+St. John's;10.9
+Bulawayo;10.2
+Cracow;25.4
+Roseau;18.6
+Bulawayo;14.7
+Cracow;24.9
+Conakry;27.2
+Cracow;8.7
+Conakry;2.4
+St. John's;18.2
+Roseau;15.2
+Roseau;8.3
+St. John's;26.3
+Hamburg;6.2
+Cracow;8.7
+Hamburg;6.2
+Roseau;3.7
+Cracow;24.2
+Conakry;0.4
+Istanbul;28.7
+Hamburg;29.5
+Bulawayo;21.4
+Bulawayo;9.1
+Hamburg;11.9
+Hamburg;24.3
+St. John's;10.7
+Palembang;23.3
+Bridgetown;20.5
+Conakry;19.2
+Bulawayo;5.5
+Cracow;9.2
+St. John's;29.9
+Bulawayo;22.9
+St. John's;7.5
+Hamburg;17.8
+St. John's;6.6
+Hamburg;6.5
+Cracow;6.4
+Bulawayo;4.0
+Hamburg;27.1
+Conakry;6.3
+Bulawayo;15.0
+St. John's;29.6
+Bridgetown;9.1
+Conakry;11.4
+Cracow;8.7
+Istanbul;29.9
+Cracow;11.3
+Conakry;10.0
+Palembang;7.8
+Conakry;17.0
+Istanbul;15.4
+Roseau;0.4
+Conakry;15.9
+Istanbul;5.1
+Bridgetown;18.8
+Roseau;17.0
+Bulawayo;18.6
+Bridgetown;17.8
+Roseau;14.0
+Bulawayo;20.0
+St. John's;3.5
+Istanbul;2.4
+Bulawayo;15.9
+Istanbul;12.8
+St. John's;21.5
+Roseau;6.6
+Bridgetown;22.0
+Bulawayo;16.2
+Bulawayo;21.5
+St. John's;24.2
+Cracow;17.6
+Istanbul;20.0
+Roseau;4.2
+Istanbul;7.8
+Cracow;14.3
+Conakry;27.6
+Bulawayo;10.1
+Palembang;18.6
+Bridgetown;20.4
+Istanbul;6.3
+Palembang;15.5
+Bulawayo;18.2
+Istanbul;17.5
+St. John's;20.6
+Hamburg;14.3
+Hamburg;22.0
+St. John's;9.1
+Conakry;28.0
+Istanbul;26.0
+Bulawayo;15.9
+Hamburg;26.6
+Bridgetown;13.7
+Istanbul;15.8
+Hamburg;15.4
+Roseau;5.4
+Bridgetown;4.0
+St. John's;18.8
+Conakry;22.2
+Hamburg;12.5
+Hamburg;2.2
+St. John's;25.3
+Cracow;28.3
+Bridgetown;22.2
+Hamburg;21.5
+Istanbul;22.1
+Conakry;24.8
+Palembang;9.6
+Bridgetown;25.2
+Roseau;19.5
+Cracow;0.5
+Roseau;4.2
+Conakry;4.2
+Cracow;6.3
+Istanbul;24.9
+St. John's;3.3
+Roseau;19.4
+Hamburg;22.7
+Palembang;16.3
+Bridgetown;27.2
+Roseau;19.4
+Cracow;5.3
+Conakry;19.5
+Hamburg;5.4
+Bridgetown;29.2
+Istanbul;9.4
+Istanbul;23.7
+Bridgetown;28.1
+Hamburg;18.1
+Bulawayo;23.7
+Conakry;28.4
+Hamburg;19.8
+Conakry;12.8
+St. John's;18.0
+Hamburg;19.5
+St. John's;14.1
+Roseau;29.8
+Cracow;28.0
+Istanbul;0.6
+Bridgetown;7.5
+Palembang;28.8
+Roseau;2.2
+Palembang;12.4
+Roseau;23.3
+Hamburg;4.6
+Palembang;12.2
+St. John's;8.6
+Bulawayo;8.4
+Bulawayo;25.2
+Hamburg;7.0
+St. John's;24.7
+Cracow;26.3
+St. John's;17.6
+Conakry;20.2
+St. John's;16.3
+Bridgetown;15.1
+Palembang;14.2
+Cracow;4.8
+St. John's;27.6
+Roseau;3.5
+Istanbul;11.0
+Roseau;20.0
+Istanbul;2.2
+Conakry;10.9
+Cracow;1.5
+Cracow;3.6
+Bulawayo;28.8
+St. John's;23.6
+St. John's;3.7
+Roseau;11.7
+Roseau;1.7
+Bulawayo;18.7
+Cracow;18.8
+Roseau;9.5
+Roseau;14.6
+Bridgetown;11.9
+Cracow;8.7
+St. John's;21.7
+Cracow;13.8
+Conakry;19.5
+Cracow;25.0
+Istanbul;5.1
+Conakry;10.5
+St. John's;9.5
+Cracow;9.2
+Palembang;27.0
+Roseau;6.7
+Roseau;6.0
+Palembang;23.1
+Istanbul;4.1
+Hamburg;17.4
+Hamburg;7.7
+Roseau;10.8
+Roseau;0.2
+Istanbul;1.8
+Cracow;9.8
+Roseau;5.2
+Hamburg;9.6
+Bulawayo;15.7
+Roseau;8.3
+Istanbul;11.8
+Istanbul;13.5
+Bridgetown;13.5
+Istanbul;15.6
+Cracow;19.0
+Conakry;21.0
+Roseau;4.4
+Bridgetown;24.9
+Cracow;22.4
+Hamburg;15.2
+Conakry;14.5
+Palembang;7.0
+Istanbul;2.7
+Bulawayo;4.8
+Bulawayo;4.5
+Roseau;26.4
+Bridgetown;26.9
+St. John's;12.9
+Palembang;1.1
+Bridgetown;19.0
+Conakry;3.8
+Hamburg;24.6
+Bulawayo;24.9
+Bridgetown;22.0
+Bulawayo;12.1
+Conakry;1.7
+Conakry;17.6
+Roseau;28.5
+Conakry;9.2
+Hamburg;20.2
+Cracow;15.7
+Palembang;3.9
+Istanbul;2.7
+Istanbul;15.4
+Bulawayo;22.9
+Cracow;3.6
+Hamburg;21.1
+Cracow;26.5
+Palembang;23.1
+Palembang;11.8
+Conakry;8.5
+St. John's;2.1
+Cracow;11.7
+Roseau;6.9
+Palembang;5.0
+Conakry;7.5
+Palembang;0.5
+Conakry;9.5
+Cracow;26.0
+Cracow;22.3
+Bridgetown;19.9
+Bulawayo;18.4
+St. John's;27.8
+Bulawayo;7.7
+Hamburg;1.6
+Conakry;1.5
+Conakry;13.9
+Palembang;8.0
+St. John's;17.7
+Istanbul;12.5
+Bulawayo;29.6
+Palembang;12.4
+Hamburg;11.6
+Palembang;17.5
+Roseau;4.6
+Cracow;12.7
+Palembang;18.6
+Cracow;2.4
+Cracow;22.7
+Conakry;8.4
+Istanbul;12.0
+St. John's;22.7
+Roseau;23.1
+Conakry;16.2
+Cracow;29.1
+Conakry;2.0
+Palembang;11.6
+Bridgetown;26.4
+Istanbul;24.6
+Bridgetown;7.1
+Palembang;6.2
+Bulawayo;1.6
+Bridgetown;4.9
+Palembang;1.4
+Hamburg;29.9
+Palembang;21.9
+Conakry;5.4
+Istanbul;8.0
+Istanbul;15.7
+Conakry;11.5
+Bridgetown;12.9
+Cracow;0.5
+Roseau;14.4
+Bulawayo;8.4
+Roseau;13.3
+St. John's;20.5
+Palembang;14.6
+Cracow;12.0
+Conakry;9.4
+Cracow;20.1
+Bulawayo;5.6
+Palembang;9.7
+Roseau;1.0
+Palembang;14.2
+Bulawayo;4.4
+Cracow;9.4
+Hamburg;5.5
+Palembang;22.1
+Bridgetown;2.1
+Palembang;17.6
+Palembang;0.0
+Bridgetown;0.4
+Istanbul;16.2
+Conakry;12.4
+St. John's;15.8
+Bulawayo;16.3
+Cracow;19.1
+Bulawayo;29.0
+Roseau;29.6
+Roseau;23.8
+Conakry;21.4
+Bridgetown;8.4
+Bulawayo;9.4
+Hamburg;23.9
+Cracow;25.1
+St. John's;14.8
+Palembang;14.1
+Istanbul;15.0
+Palembang;12.4
+Istanbul;16.5
+Hamburg;17.1
+Cracow;10.2
+Conakry;12.5
+Bridgetown;20.6
+Conakry;23.1
+Conakry;23.9
+Bridgetown;20.5
+Palembang;11.0
+Hamburg;11.8
+Cracow;13.0
+Cracow;11.1
+Hamburg;11.3
+Bulawayo;4.1
+Conakry;8.4
+Cracow;23.1
+Bridgetown;8.2
+Hamburg;24.6
+Cracow;26.1
+Bulawayo;27.0
+Bridgetown;25.3
+St. John's;15.8
+Cracow;16.8
+Roseau;16.9
+St. John's;17.4
+Roseau;2.2
+Roseau;29.4
+Palembang;5.4
+Bulawayo;15.1
+Conakry;7.2
+Bridgetown;13.3
+Palembang;14.4
+St. John's;15.9
+Hamburg;3.3
+Bulawayo;13.2
+Conakry;13.3
+Roseau;6.5
+Bridgetown;26.7
+Conakry;19.2
+Bridgetown;20.9
+Palembang;28.4
+Conakry;20.4
+Roseau;6.5
+Palembang;25.1
+Roseau;5.6
+St. John's;6.1
+Hamburg;6.2
+Conakry;12.8
+Palembang;5.7
+Palembang;7.2
+Cracow;20.6
+Bulawayo;12.5
+Cracow;26.3
+Roseau;3.7
+Roseau;28.2
+St. John's;23.9
+Bridgetown;22.8
+St. John's;28.5
+Hamburg;26.9
+Palembang;4.6
+Bridgetown;27.5
+Hamburg;29.5
+Palembang;10.5
+Bridgetown;10.2
+Conakry;7.6
+Hamburg;4.5
+Bridgetown;29.0
+Palembang;4.0
+Palembang;28.3
+Roseau;1.0
+Roseau;8.9
+Conakry;25.8
+Conakry;2.9
+Bridgetown;13.2
+Cracow;5.1
+Hamburg;10.8
+Palembang;26.4
+Palembang;9.0
+Bulawayo;4.8
+Bridgetown;25.0
+Conakry;9.1
+Hamburg;20.1
+Bridgetown;14.4
+St. John's;3.6
+Palembang;12.6
+Bridgetown;5.6
+Cracow;23.0
+Bridgetown;21.0
+Bridgetown;11.8
+Palembang;24.6
+Conakry;17.0
+Cracow;18.8
+Conakry;6.2
+Palembang;2.1
+Conakry;4.0
+Bridgetown;1.1
+Cracow;21.9
+Conakry;11.4
+Hamburg;8.0
+Roseau;27.7
+Bulawayo;7.6
+Conakry;20.9
+Cracow;3.0
+Istanbul;19.3
+Istanbul;28.7
+Roseau;23.7
+Istanbul;19.5
+Istanbul;4.1
+Bulawayo;7.2
+Cracow;28.4
+St. John's;29.8
+St. John's;21.9
+Hamburg;2.9
+Palembang;20.8
+St. John's;19.2
+Roseau;21.1
+Istanbul;29.7
+Hamburg;29.9
+Hamburg;19.4
+Roseau;12.4
+Roseau;19.6
+Roseau;16.1
+Hamburg;0.9
+St. John's;7.4
+Roseau;11.1
+Hamburg;15.9
+Roseau;22.9
+Palembang;27.6
+Bridgetown;10.0
+Roseau;5.0
+Hamburg;27.4
+Bridgetown;19.1
+Palembang;25.8
+Hamburg;18.9
+Bridgetown;23.2
+Conakry;9.2
+Hamburg;8.1
+Hamburg;24.1
+Hamburg;4.9
+Bulawayo;28.0
+Cracow;9.2
+Roseau;19.7
+Roseau;9.0
+Roseau;12.0
+Istanbul;24.1
+Istanbul;20.7
+Cracow;3.1
+Cracow;6.0
+Bulawayo;17.5
+Bridgetown;25.1
+Palembang;8.5
+Roseau;6.3
+Conakry;29.2
+Hamburg;23.4
+Conakry;9.7
+Bridgetown;12.4
+Bulawayo;0.9
+Bridgetown;24.8
+Hamburg;8.4
+Conakry;7.3
+Cracow;27.5
+Palembang;1.0
+St. John's;25.4
+Hamburg;19.6
+Roseau;7.2
+St. John's;29.2
+Palembang;9.0
+Palembang;6.4
+Bulawayo;10.1
+Roseau;16.3
+Bridgetown;17.0
+Roseau;16.2
+Palembang;9.9
+Roseau;14.4
+Palembang;19.4
+Roseau;16.8
+Conakry;25.8
+Palembang;1.7
+St. John's;4.8
+Bridgetown;13.8
+Palembang;7.1
+Roseau;24.3
+Roseau;14.9
+Istanbul;22.4
+Cracow;28.4
+St. John's;14.2
+Palembang;7.1
+Bulawayo;11.3
+Istanbul;29.7
+Roseau;0.2
+Hamburg;0.1
+Palembang;22.0
+Hamburg;27.1
+Palembang;23.7
+Istanbul;2.0
+Palembang;7.8
+Hamburg;8.7
+Roseau;7.1
+Cracow;26.5
+Cracow;29.5
+St. John's;9.5
+Istanbul;29.3
+Conakry;14.8
+Roseau;11.0
+Hamburg;11.3
+Cracow;2.5
+Bridgetown;0.1
+Conakry;16.3
+Conakry;4.7
+St. John's;16.5
+Istanbul;17.7
+Bridgetown;9.0
+Roseau;12.7
+Hamburg;11.6
+Palembang;15.2
+Palembang;9.8
+Conakry;3.3
+Palembang;6.9
+St. John's;25.5
+Bridgetown;14.5
+Bridgetown;19.6
+Conakry;5.2
+Cracow;29.0
+Conakry;5.6
+Cracow;23.6
+Hamburg;21.6
+Roseau;6.7
+Conakry;17.8
+Hamburg;10.6
+Bulawayo;24.4
+Palembang;16.1
+Conakry;11.2
+Istanbul;3.9
+Palembang;16.0
+Palembang;15.0
+Istanbul;8.4
+Conakry;13.7
+Cracow;23.8
+Bridgetown;5.2
+Bridgetown;0.4
+Conakry;28.1
+St. John's;29.8
+Palembang;17.6
+Roseau;19.6
+Palembang;8.2
+Conakry;13.9
+Bulawayo;13.8
+St. John's;3.6
+Bulawayo;5.5
+Roseau;16.6
+Bridgetown;21.9
+Bridgetown;21.7
+Bulawayo;9.6
+Istanbul;17.7
+Conakry;2.7
+Roseau;6.8
+Bridgetown;6.8
+Hamburg;14.3
+St. John's;18.1
+Hamburg;25.6
+Bulawayo;1.4
+Bulawayo;24.4
+Conakry;8.5
+Hamburg;21.8
+Conakry;14.4
+Conakry;21.2
+Hamburg;0.2
+Cracow;21.6
+Bulawayo;17.2
+Conakry;29.1
+Cracow;9.3
+Cracow;16.3
+Istanbul;14.3
+Palembang;18.6
+Hamburg;23.8
+Conakry;17.7
+Hamburg;8.3
+Palembang;16.2
+Bridgetown;20.1
+Bulawayo;20.3
+Bridgetown;0.4
+Conakry;25.5
+Cracow;26.4
+Hamburg;6.3
+Hamburg;27.4
+Bridgetown;5.5
+St. John's;17.2
+Bulawayo;22.5
+St. John's;19.9
+Palembang;20.4
+Cracow;7.4
+Bridgetown;15.3
+Istanbul;20.4
+St. John's;27.1
+Hamburg;1.8
+Conakry;1.9
+Hamburg;16.0
+Bridgetown;4.7
+Cracow;15.5
+Bridgetown;28.7
+Bulawayo;13.0
+Conakry;20.8
+Bulawayo;4.8
+Istanbul;27.0
+St. John's;12.4
+Cracow;26.9
+Roseau;20.0
+Hamburg;17.1
+Palembang;27.4
+Bulawayo;28.6
+Bridgetown;20.6
+Bridgetown;7.4
+Palembang;8.7
+Palembang;23.0
+Palembang;3.3
+St. John's;9.1
+Bulawayo;22.8
+Bridgetown;16.3
+Conakry;16.1
+Roseau;3.9
+Istanbul;9.6
+Conakry;26.1
+Istanbul;4.4
+Conakry;28.2
+Bridgetown;4.8
+Istanbul;10.0
+Bridgetown;1.3
+Conakry;8.2
+Roseau;1.6
+Palembang;6.9
+Roseau;17.8
+Conakry;11.1
+Bridgetown;2.0
+Roseau;11.4
+Bulawayo;18.4
+Istanbul;10.1
+St. John's;7.6
+Istanbul;0.3
+Roseau;10.5
+Istanbul;10.5
+Hamburg;5.1
+Istanbul;14.3
+Conakry;15.0
+Conakry;18.5
+Conakry;4.6
+Palembang;3.3
+Conakry;29.8
+Roseau;29.6
+Palembang;20.9
+Bulawayo;8.6
+Conakry;2.4
+Conakry;19.5
+Bulawayo;0.2
+Bulawayo;14.4
+Hamburg;25.7
+Roseau;8.1
+Palembang;28.4
+St. John's;25.9
+Istanbul;20.2
+Cracow;11.2
+Hamburg;22.7
+Bridgetown;20.8
+Palembang;29.7
+Bridgetown;7.2
+St. John's;5.9
+St. John's;24.2
+Hamburg;1.0
+Hamburg;16.7
+Cracow;21.2
+Roseau;13.3
+Palembang;11.6
+Roseau;7.2
+St. John's;4.4
+Cracow;29.1
+Hamburg;4.1
+St. John's;28.5
+Hamburg;9.1
+Conakry;23.3
+Roseau;25.6
+Bulawayo;22.5
+Bridgetown;3.2
+Bulawayo;21.0
+Hamburg;28.6
+Bridgetown;5.0
+Roseau;11.9
+Palembang;27.2
+Istanbul;12.8
+St. John's;19.4
+Bridgetown;6.2
+Palembang;12.2
+Bulawayo;24.6
+Cracow;1.6
+Cracow;13.5
+Cracow;2.0
+Palembang;23.5
+Palembang;6.8
+St. John's;23.1
+Bulawayo;13.3
+Palembang;9.5
+Roseau;11.7
+Bridgetown;21.9
+Cracow;28.2
+St. John's;19.6
+Conakry;16.7
+Bridgetown;27.4
+Roseau;14.7
+Bulawayo;11.7
+Istanbul;22.0
+Palembang;9.7
+Istanbul;25.8
+Hamburg;22.2
+Bulawayo;1.2
+Palembang;19.4
+Conakry;9.2
+St. John's;20.7
+Bulawayo;9.2
+Bridgetown;1.1
+Bulawayo;5.6
+Conakry;27.0
+Hamburg;26.9
+Cracow;21.7
+Hamburg;4.4
+Cracow;16.1
+Bridgetown;10.1
+Istanbul;28.3
+Hamburg;17.0
+Palembang;29.7
+Istanbul;0.3
+Bulawayo;21.1
+Cracow;5.2
+Cracow;5.5
+Istanbul;11.2
+Hamburg;27.0
+Bridgetown;15.9
+Palembang;22.5
+St. John's;18.7
+Roseau;9.4
+St. John's;20.3
+Cracow;13.2
+Cracow;5.1
+Roseau;24.3
+Roseau;18.5
+Bridgetown;13.4
+Conakry;12.2
+Bridgetown;27.3
+Hamburg;21.1
+Bridgetown;1.4
+Bridgetown;13.3
+Roseau;12.7
+Bulawayo;3.5
+Conakry;17.7
+Cracow;10.2
+Conakry;27.5
+Conakry;15.5
+Bridgetown;27.5
+St. John's;14.0
+Bridgetown;11.9
+Hamburg;11.8
+Bridgetown;16.8
+Istanbul;19.6
+Cracow;17.3
+Palembang;28.5
+Bridgetown;7.0
+Cracow;27.0
+Roseau;20.4
+Cracow;20.9
+Palembang;15.6
+Hamburg;29.8
+Bridgetown;11.4
+Cracow;16.3
+Bulawayo;20.5
+Istanbul;14.4
+Conakry;11.7
+Hamburg;9.9
+Hamburg;17.9
+St. John's;24.3
+Palembang;6.2
+Conakry;12.9
+Hamburg;24.2
+St. John's;1.8
+St. John's;26.8
+Palembang;16.8
+Hamburg;3.4
+Istanbul;13.2
+Hamburg;6.9
+Hamburg;11.2
+Bridgetown;10.5
+Istanbul;2.5
+Conakry;8.0
+Roseau;24.0
+Roseau;29.8
+Hamburg;22.6
+Hamburg;12.5
+St. John's;10.9
+Palembang;13.1
+Cracow;7.9
+Bulawayo;17.1
+St. John's;19.0
+Bulawayo;3.5
+Hamburg;4.1
+Bulawayo;24.5
+Cracow;0.7
+Cracow;4.1
+Palembang;10.5
+St. John's;26.8
+St. John's;21.9
+Bulawayo;21.9
+Bridgetown;23.9
+Roseau;6.5
+Hamburg;13.0
+Roseau;29.8
+Hamburg;6.8
+Palembang;1.6
+Cracow;14.4
+Conakry;24.7
+Conakry;28.6
+Cracow;1.7
+Cracow;16.9
+Conakry;19.4
+Roseau;29.2
+Bridgetown;19.4
+St. John's;9.2
+Cracow;28.4
+Hamburg;26.9
+Bridgetown;26.5
+Conakry;23.2
+Conakry;16.1
+Bulawayo;28.3
+Cracow;7.7
+Cracow;19.3
+Conakry;21.8
+Istanbul;16.5
+Istanbul;13.1
+Cracow;23.8
+St. John's;22.2
+St. John's;7.0
+Conakry;16.9
+Bulawayo;24.3
+Cracow;14.5
+Palembang;18.3
+Cracow;21.5
+Roseau;26.6
+Conakry;13.1
+Palembang;19.9
+Cracow;20.2
+Hamburg;17.6
+Palembang;9.7
+St. John's;3.2
+Conakry;24.3
+St. John's;11.4
+Roseau;19.9
+St. John's;4.4
+St. John's;10.5
+Cracow;22.2
+Hamburg;25.9
+Istanbul;0.4
+Bulawayo;0.5
+St. John's;27.2
+Hamburg;0.7
+Bulawayo;28.9
+Conakry;12.7
+Conakry;20.6
+Roseau;22.8
+Bulawayo;18.9
+Istanbul;6.8
+Hamburg;13.9
+Hamburg;5.3
+Istanbul;28.5
+Hamburg;9.9
+Bulawayo;27.7
+St. John's;15.0
+Istanbul;11.7
+Bridgetown;23.3
+Bulawayo;5.9
+Istanbul;26.4
+Cracow;18.5
+Palembang;19.1
+Bulawayo;2.9
+Hamburg;1.9
+Istanbul;12.6
+Cracow;5.4
+St. John's;8.4
+St. John's;3.1
+Roseau;12.9
+Palembang;21.9
+Conakry;14.7
+Palembang;4.7
+Conakry;9.3
+Conakry;26.0
+Roseau;26.2
+Bridgetown;18.4
+Bridgetown;22.2
+Conakry;13.7
+Palembang;3.6
+Istanbul;5.7
+Bulawayo;18.9
+Bridgetown;14.0
+Hamburg;25.6
+Conakry;13.4
+Bulawayo;27.1
+Roseau;15.6
+Palembang;17.0
+Cracow;14.0
+Roseau;24.2
+Cracow;14.6
+Roseau;23.7
+Hamburg;25.4
+St. John's;14.5
+Cracow;2.3
+Istanbul;3.2
+Bridgetown;25.1
+Hamburg;0.5
+Bridgetown;18.0
+Istanbul;28.4
+St. John's;14.6
+Bulawayo;16.3
+Hamburg;26.1
+St. John's;25.0
+Istanbul;6.1
+Roseau;21.5
+Roseau;8.7
+Bridgetown;15.9
+Bridgetown;24.5
+Palembang;15.3
+Cracow;11.6
+Conakry;5.9
+Istanbul;22.8
+Roseau;1.6
+Istanbul;12.4
+Istanbul;1.1
+St. John's;13.5
+Istanbul;2.9
+St. John's;2.8
+Cracow;18.5
+Bulawayo;2.9
+Hamburg;3.3
+Roseau;13.6
+Hamburg;9.6
+Istanbul;28.0
+Palembang;5.7
+Hamburg;27.6
+Conakry;16.9
+Cracow;17.3
+St. John's;18.7
+Roseau;3.3
+Roseau;15.0
+Bridgetown;8.9
+St. John's;25.5
+Hamburg;12.7
+Cracow;2.0
+Bridgetown;0.7
+Bridgetown;19.0
+Istanbul;24.8
+Bulawayo;25.5
+Bulawayo;13.6
+Istanbul;3.8
+Palembang;22.3
+Bridgetown;25.8
+Roseau;14.1
+Roseau;25.6
+Conakry;24.5
+Bridgetown;28.6
+Roseau;0.9
+St. John's;21.8
+Bridgetown;0.6
+Bulawayo;21.5
+St. John's;21.9
+Bridgetown;21.2
+Bridgetown;2.3
+Palembang;3.4
+Bridgetown;10.0
+Bridgetown;5.7
+St. John's;27.0
+Hamburg;3.7
+Bulawayo;11.8
+Conakry;2.2
+Conakry;10.0
+St. John's;28.6
+Roseau;20.2
+St. John's;23.4
+Istanbul;28.7
+Bulawayo;0.7
+Istanbul;5.0
+Roseau;8.2
+Conakry;11.0
+Cracow;6.9
+Cracow;19.5
+Bulawayo;16.3
+Bridgetown;19.3
+Cracow;5.0
+Istanbul;20.7
+Palembang;27.3
+Bridgetown;26.9
+Bulawayo;28.2
+Bulawayo;4.6
+Cracow;7.2
+Bridgetown;22.6
+Bridgetown;22.2
+Conakry;30.0
+Cracow;29.3
+Palembang;28.5
+St. John's;0.4
+Palembang;26.5
+Hamburg;15.6
+Conakry;6.1
+Palembang;6.6
+Palembang;20.4
+Hamburg;9.2
+Hamburg;23.1
+Bulawayo;15.2
+Bulawayo;1.8
+Conakry;26.6
+Roseau;16.8
+Hamburg;22.1
+St. John's;0.4
+Bulawayo;10.1
+Palembang;1.1
+Bulawayo;28.7
+Roseau;20.4
+Istanbul;29.4
+Hamburg;2.5
+Palembang;9.4
+Palembang;1.8
+Hamburg;19.2
+Bridgetown;8.3
+Hamburg;6.5
+St. John's;25.1
+Istanbul;17.4
+Istanbul;15.5
+Palembang;22.7
+Bridgetown;14.8
+Conakry;9.1
+Hamburg;19.2
+Palembang;8.7
+Conakry;28.1
+Palembang;23.8
+Conakry;9.6
+Cracow;27.4
+St. John's;24.9
+Bulawayo;20.8
+Conakry;27.2
+Roseau;5.3
+Bulawayo;19.5
+Hamburg;13.2
+Bulawayo;18.8
+Bulawayo;1.4
+Palembang;12.1
+Conakry;2.1
+Istanbul;9.2
+Cracow;5.4
+Hamburg;3.5
+Istanbul;24.8
+Hamburg;11.0
+Palembang;14.1
+Palembang;9.2
+Palembang;20.2
+Roseau;12.1
+St. John's;0.3
+Palembang;7.1
+Bulawayo;26.7
+St. John's;23.6
+St. John's;11.9
+Istanbul;25.1
+Istanbul;24.0
+St. John's;8.4
+Palembang;4.6
+Roseau;17.9
+Istanbul;18.3
+St. John's;8.5
+Cracow;14.9
+Bridgetown;4.1
+Bulawayo;17.1
+Conakry;8.8
+Palembang;11.9
+Hamburg;28.8
+Palembang;17.4
+Istanbul;4.5
+Cracow;21.3
+St. John's;10.0
+Palembang;15.2
+Bulawayo;14.4
+Conakry;18.8
+Cracow;24.7
+Cracow;4.4
+Bulawayo;3.6
+Bulawayo;9.5
+Palembang;29.5
+Bridgetown;16.3
+Hamburg;16.6
+Roseau;3.6
+Conakry;6.9
+Cracow;28.5
+Bridgetown;9.4
+St. John's;3.8
+Bulawayo;15.4
+Cracow;21.3
+Bridgetown;0.1
+Istanbul;29.5
+Istanbul;13.7
+Roseau;26.9
+Bridgetown;11.5
+Bridgetown;27.3
+Palembang;21.6
+Roseau;21.6
+Cracow;22.9
+Istanbul;27.8
+St. John's;6.9
+Cracow;6.5
+Istanbul;18.4
+Conakry;8.6
+Istanbul;8.3
+Bridgetown;1.0
+Cracow;16.2
+Bulawayo;0.7
+St. John's;7.8
+Istanbul;5.7
+St. John's;17.9
+Bulawayo;5.7
+Hamburg;8.0
+Bulawayo;17.9
+St. John's;12.9
+Palembang;9.2
+Conakry;5.3
+Bulawayo;17.1
+Bridgetown;17.4
+Bulawayo;21.1
+Bridgetown;6.9
+Roseau;3.0
+St. John's;18.2
+St. John's;23.9
+Bridgetown;15.8
+Palembang;16.2
+Bulawayo;12.4
+St. John's;1.4
+Bulawayo;12.0
+Hamburg;8.4
+Cracow;0.2
+Hamburg;28.1
+Bulawayo;21.3
+Conakry;28.0
+Cracow;22.7
+Istanbul;21.0
+Bulawayo;21.0
+St. John's;6.5
+Bulawayo;23.8
+Cracow;24.2
+Palembang;9.1
+Roseau;2.1
+Cracow;3.0
+Roseau;0.0
+Bulawayo;27.2
+Cracow;19.1
+Conakry;15.4
+Bridgetown;20.2
+Roseau;18.4
+Palembang;24.6
+Roseau;22.7
+Hamburg;14.7
+Hamburg;4.6
+Bridgetown;21.6
+Istanbul;20.2
+Bulawayo;12.1
+Conakry;17.2
+Istanbul;10.1
+Palembang;15.9
+Istanbul;12.3
+Conakry;14.3
+Conakry;21.4
+Roseau;20.9
+Roseau;23.4
+Palembang;11.7
+St. John's;14.7
+Hamburg;15.3
+Istanbul;27.2
+Conakry;5.4
+St. John's;24.4
+Bulawayo;11.4
+Conakry;3.0
+Roseau;14.5
+Conakry;23.1
+Roseau;14.8
+Cracow;4.7
+Cracow;15.9
+Cracow;16.4
+Conakry;22.5
+Palembang;7.0
+Palembang;28.0
+Bridgetown;26.5
+Bridgetown;17.3
+Hamburg;6.6
+Bulawayo;13.0
+Roseau;27.6
+Istanbul;3.8
+St. John's;25.5
+Roseau;29.9
+Bulawayo;25.2
+Cracow;19.2
+Palembang;16.4
+Conakry;25.4
+Conakry;9.1
+Hamburg;12.0
+Bridgetown;29.3
+Bulawayo;2.2
+Bridgetown;12.2
+St. John's;26.9
+Bridgetown;21.8
+Istanbul;16.3
+Hamburg;25.4
+Roseau;26.5
+Istanbul;16.9
+Roseau;19.9
+Conakry;24.7
+Conakry;28.8
+Hamburg;13.6
+Bulawayo;16.8
+Conakry;0.7
+Istanbul;15.8
+Hamburg;20.7
+Istanbul;29.8
+Hamburg;22.8
+Conakry;18.9
+Conakry;6.1
+Roseau;9.7
+Hamburg;3.2
+Bulawayo;17.7
+Cracow;28.3
+Cracow;5.3
+St. John's;1.0
+Conakry;25.8
+Palembang;9.8
+Palembang;10.9
+Cracow;11.6
+Bulawayo;20.4
+Palembang;7.4
+Bulawayo;27.0
+Cracow;8.3
+Conakry;13.3
+St. John's;2.2
+Cracow;26.4
+Istanbul;3.4
+Bridgetown;14.1
+Bulawayo;9.2
+Bridgetown;19.1
+Conakry;20.6
+St. John's;19.1
+Bulawayo;17.8
+Roseau;8.6
+Cracow;19.6
+Bulawayo;16.2
+Istanbul;13.8
+Roseau;27.1
+Conakry;28.0
+Bridgetown;5.0
+Hamburg;25.2
+St. John's;22.6
+Istanbul;21.3
+Hamburg;0.6
+Palembang;11.2
+Roseau;18.6
+Palembang;9.1
+St. John's;22.7
+St. John's;6.6
+Bridgetown;0.7
+Cracow;14.5
+Istanbul;15.3
+St. John's;27.1
+Cracow;13.3
+St. John's;1.0
+Roseau;27.3
+Bulawayo;17.9
+St. John's;12.0
+St. John's;5.4
+Hamburg;8.6
+Cracow;13.4
+Bridgetown;13.7
+Bridgetown;1.1
+St. John's;28.1
+Bridgetown;25.1
+Palembang;4.3
+Istanbul;16.9
+Palembang;17.3
+Bridgetown;9.0
+Bulawayo;22.8
+St. John's;20.3
+Conakry;14.3
+Cracow;12.1
+Palembang;29.2
+St. John's;29.3
+Istanbul;14.5
+Bridgetown;2.3
+Roseau;23.1
+Conakry;9.2
+Cracow;17.6
+Istanbul;12.9
+Palembang;18.6
+St. John's;6.7
+Bulawayo;18.3
+Istanbul;7.9
+Hamburg;22.1
+Bulawayo;2.7
+Bridgetown;26.5
+Cracow;6.5
+Cracow;15.9
+St. John's;5.2
+Roseau;29.8
+Hamburg;24.3
+Bulawayo;29.6
+Conakry;8.6
+Palembang;5.3
+Palembang;27.8
+Bulawayo;22.8
+Bulawayo;3.9
+Palembang;5.4
+Bridgetown;12.1
+Roseau;28.2
+St. John's;9.6
+Bulawayo;29.4
+Istanbul;20.2
+Palembang;9.6
+Bulawayo;27.0
+Roseau;24.3
+Hamburg;23.1
+St. John's;17.6
+Hamburg;15.0
+Palembang;27.1
+Bulawayo;19.6
+Palembang;6.4
+Bridgetown;13.6
+Bridgetown;3.8
+Conakry;12.1
+St. John's;15.1
+Bridgetown;20.0
+Cracow;24.7
+Bulawayo;12.3
+Istanbul;18.9
+St. John's;1.2
+St. John's;12.1
+St. John's;18.2
+Bulawayo;17.6
+Bridgetown;29.3
+Conakry;9.9
+Hamburg;20.0
+Hamburg;20.9
+St. John's;28.9
+Conakry;22.3
+Roseau;20.6
+Bridgetown;1.1
+Roseau;7.6
+Cracow;9.9
+Conakry;26.3
+Bridgetown;18.9
+Istanbul;8.1
+Cracow;5.5
+Bulawayo;28.8
+Bulawayo;28.2
+Conakry;25.8
+Bulawayo;20.2
+Roseau;27.6
+Cracow;6.5
+Conakry;24.8
+Conakry;13.2
+Roseau;15.8
+Roseau;21.4
+Hamburg;10.4
+Bridgetown;29.3
+Bridgetown;27.5
+Cracow;18.8
+Bridgetown;4.7
+Cracow;16.1
+Bridgetown;24.3
+Cracow;29.7
+Bulawayo;6.1
+Istanbul;14.1
+Bridgetown;11.1
+Bulawayo;25.1
+Hamburg;25.1
+Istanbul;10.5
+Cracow;11.0
+St. John's;28.9
+Bridgetown;28.4
+Conakry;3.3
+Bridgetown;3.5
+Bridgetown;10.9
+Bridgetown;7.5
+Bulawayo;17.0
+Hamburg;13.0
+Cracow;1.5
+Istanbul;20.8
+Palembang;5.7
+Roseau;27.9
+Conakry;10.5
+Bridgetown;12.5
+Hamburg;28.1
+Istanbul;15.7
+Cracow;17.9
+St. John's;7.2
+St. John's;9.9
+Istanbul;23.7
+St. John's;20.8
+Palembang;5.2
+Hamburg;26.2
+Roseau;15.8
+Istanbul;5.5
+Hamburg;22.1
+Hamburg;25.2
+Roseau;12.2
+St. John's;15.5
+Bridgetown;5.6
+Roseau;19.5
+Cracow;17.8
+Istanbul;12.9
+Conakry;22.1
+Roseau;2.9
+Palembang;19.6
+Palembang;16.0
+Cracow;16.8
+Cracow;20.5
+Palembang;9.7
+St. John's;28.7
+Bridgetown;17.1
+Istanbul;9.2
+Bridgetown;20.0
+Istanbul;8.7
+Bridgetown;20.8
+St. John's;0.2
+Hamburg;24.2
+Palembang;20.1
+Conakry;0.2
+St. John's;15.8
+Istanbul;23.5
+Conakry;7.7
+Bulawayo;5.9
+Palembang;26.6
+Palembang;21.3
+Bulawayo;7.9
+Palembang;2.4
+Istanbul;22.8
+Hamburg;26.4
+Istanbul;12.2
+St. John's;7.3
+St. John's;10.4
+Hamburg;16.8
+Roseau;5.6
+Bulawayo;26.0
+Bulawayo;19.9
+St. John's;20.8
+Hamburg;12.0
+Hamburg;12.8
+Hamburg;6.1
+Conakry;16.4
+Bridgetown;1.5
+Bridgetown;15.1
+Bulawayo;23.3
+Bulawayo;4.8
+Conakry;12.5
+Palembang;25.8
+Conakry;26.2
+Hamburg;18.3
+Istanbul;0.1
+Bulawayo;5.0
+Hamburg;25.7
+Bulawayo;2.5
+Roseau;5.7
+Hamburg;6.1
+Hamburg;16.1
+Bulawayo;4.8
+Bulawayo;24.6
+Hamburg;9.5
+Palembang;27.1
+Hamburg;13.0
+Cracow;12.7
+Cracow;18.2
+Bulawayo;2.7
+Cracow;19.5
+Roseau;28.7
+Palembang;0.7
+St. John's;20.6
+Cracow;23.9
+Bridgetown;4.9
+Roseau;12.6
+Palembang;1.3
+Cracow;10.1
+St. John's;2.4
+Palembang;25.6
+Bridgetown;8.5
+Cracow;29.5
+Conakry;28.2
+Conakry;6.1
+Bridgetown;24.1
+Hamburg;27.5
+Conakry;4.4
+Conakry;5.7
+Roseau;22.6
+St. John's;24.7
+Hamburg;18.5
+Cracow;14.9
+Hamburg;9.1
+Istanbul;22.3
+Cracow;13.7
+Cracow;29.8
+Palembang;2.5
+Bulawayo;23.0
+Conakry;5.8
+Roseau;3.2
+Palembang;12.2
+St. John's;2.4
+Bulawayo;26.9
+Palembang;4.0
+Bridgetown;16.0
+Hamburg;0.8
+St. John's;2.1
+Palembang;26.2
+Bridgetown;14.3
+Bridgetown;11.7
+Bulawayo;22.7
+Palembang;26.7
+Istanbul;26.0
+Cracow;7.3
+Bridgetown;27.9
+Bridgetown;27.8
+Cracow;21.2
+Hamburg;18.9
+Bulawayo;15.7
+Cracow;0.3
+St. John's;1.0
+Istanbul;21.0
+Palembang;13.2
+Hamburg;21.2
+Bridgetown;20.5
+St. John's;10.9
+Bulawayo;3.8
+Palembang;12.0
+Hamburg;17.8
+Palembang;27.3
+Cracow;5.1
+Hamburg;9.7
+St. John's;20.1
+Conakry;20.7
+Hamburg;25.8
+Conakry;22.1
+Istanbul;26.0
+Roseau;16.4
+Palembang;13.3
+Hamburg;12.0
+Palembang;19.0
+Istanbul;26.1
+Bulawayo;25.2
+Cracow;12.0
+Hamburg;26.7
+Palembang;12.1
+Bridgetown;7.4
+St. John's;12.8
+Roseau;10.9
+Istanbul;21.9
+Bridgetown;11.0
+St. John's;13.8
+Cracow;22.5
+Conakry;0.4
+Roseau;1.1
+Istanbul;18.1
+Hamburg;21.9
+St. John's;19.2
+Istanbul;16.1
+Hamburg;7.7
+Roseau;16.4
+Conakry;13.1
+Cracow;21.8
+Cracow;20.1
+St. John's;9.7
+St. John's;21.6
+Hamburg;25.6
+Bridgetown;13.7
+Bulawayo;17.8
+St. John's;3.4
+Conakry;25.4
+St. John's;17.0
+Hamburg;29.3
+Roseau;2.2
+Istanbul;19.5
+Bulawayo;1.5
+St. John's;29.9
+St. John's;14.2
+Conakry;11.4
+Istanbul;25.7
+Istanbul;10.2
+Conakry;22.4
+Cracow;11.9
+Bridgetown;13.5
+Bridgetown;1.6
+Cracow;8.8
+Palembang;9.0
+St. John's;1.3
+Bridgetown;15.5
+Palembang;24.2
+Hamburg;20.5
+Bulawayo;1.4
+Conakry;20.4
+Roseau;8.2
+Istanbul;28.1
+Conakry;18.1
+St. John's;4.3
+Palembang;17.1
+Istanbul;27.0
+Roseau;6.5
+Bulawayo;24.1
+Conakry;10.6
+St. John's;25.9
+Hamburg;18.2
+Roseau;20.3
+Palembang;7.3
+Hamburg;14.1
+Bridgetown;1.2
+Hamburg;10.1
+Hamburg;0.6
+Bridgetown;20.6
+St. John's;4.3
+Palembang;20.1
+Istanbul;19.2
+Bridgetown;2.1
+Bulawayo;19.5
+Bulawayo;17.9
+Istanbul;4.4
+Istanbul;17.1
+Conakry;18.4
+Palembang;24.2
+Palembang;0.3
+Conakry;9.6
+Palembang;28.1
+St. John's;21.1
+Palembang;10.1
+Cracow;29.6
+Conakry;23.6
+Bridgetown;24.5
+Bulawayo;4.2
+Conakry;3.1
+Conakry;2.3
+Bridgetown;8.2
+Istanbul;0.8
+Bulawayo;27.1
+Bulawayo;23.0
+Istanbul;1.1
+Bridgetown;15.0
+Conakry;2.5
+St. John's;14.3
+Bulawayo;14.3
+Bridgetown;2.0
+Bulawayo;18.5
+Hamburg;1.1
+Palembang;29.6
+Conakry;16.2
+St. John's;21.2
+Conakry;4.8
+Bridgetown;6.2
+Roseau;14.5
+Conakry;23.5
+Palembang;10.6
+Conakry;17.7
+Palembang;9.9
+Cracow;4.8
+Bulawayo;2.7
+Istanbul;12.3
+Hamburg;25.9
+Bulawayo;25.5
+Bulawayo;10.8
+Bulawayo;7.3
+St. John's;12.5
+Cracow;16.4
+Conakry;24.7
+Cracow;29.5
+Conakry;24.0
+Roseau;7.4
+St. John's;5.1
+Cracow;0.8
+Bulawayo;11.3
+Roseau;6.2
+St. John's;1.3
+Palembang;13.3
+Bulawayo;16.6
+Hamburg;1.6
+Bulawayo;12.7
+Palembang;15.1
+Conakry;13.6
+Hamburg;16.3
+Istanbul;2.5
+Conakry;3.8
+Cracow;8.7
+Conakry;22.0
+Conakry;25.4
+St. John's;16.8
+Conakry;20.3
+Palembang;19.3
+St. John's;9.7
+Palembang;1.5
+Palembang;21.9
+Roseau;15.5
+Hamburg;8.9
+Bulawayo;12.4
+Cracow;7.0
+Bulawayo;17.2
+Istanbul;6.1
+Palembang;0.7
+Cracow;2.6
+Roseau;25.0
+Bridgetown;0.5
+Bridgetown;10.8
+Conakry;29.9
+Hamburg;5.2
+Istanbul;4.2
+Hamburg;3.1
+Cracow;16.8
+Bulawayo;12.4
+Bridgetown;15.7
+Bridgetown;29.3
+Bridgetown;4.0
+Istanbul;4.6
+Bulawayo;3.4
+Cracow;2.2
+Palembang;30.0
+Cracow;3.6
+Bulawayo;7.3
+Conakry;0.6
+Istanbul;15.2
+Bulawayo;28.3
+Palembang;21.8
+Conakry;12.2
+Istanbul;27.3
+Hamburg;7.8
+Istanbul;12.6
+Bulawayo;0.5
+Bulawayo;5.8
+Hamburg;22.1
+Hamburg;0.2
+Hamburg;24.7
+Hamburg;13.4
+Cracow;24.7
+Bulawayo;24.8
+Palembang;24.5
+Bridgetown;8.2
+Bridgetown;25.1
+Bridgetown;1.8
+Hamburg;6.3
+Palembang;18.3
+Palembang;18.5
+St. John's;27.7
+Cracow;29.3
+Palembang;9.7
+Palembang;14.8
+St. John's;19.7
+Bulawayo;19.7
+Hamburg;4.9
+Istanbul;9.7
+Conakry;2.3
+Cracow;6.3
+Conakry;7.5
+Palembang;3.7
+Roseau;25.1
+Bridgetown;22.8
+Bridgetown;28.0
+Istanbul;13.1
+Conakry;14.0
+Istanbul;23.6
+Roseau;10.8
+Roseau;17.2
+Bridgetown;12.8
+Hamburg;19.3
+Bridgetown;25.9
+Palembang;19.1
+Roseau;3.1
+Bridgetown;15.2
+Cracow;28.8
+Roseau;25.8
+Roseau;15.4
+Cracow;17.6
+Bulawayo;25.2
+Conakry;11.9
+Bulawayo;29.8
+St. John's;22.1
+Bridgetown;12.5
+Conakry;11.4
+Istanbul;23.4
+Hamburg;4.7
+Bridgetown;24.2
+St. John's;18.7
+St. John's;20.9
+Bulawayo;18.4
+Bulawayo;7.4
+Bulawayo;22.0
+Hamburg;7.9
+Conakry;14.5
+Palembang;1.9
+Bulawayo;12.1
+Hamburg;11.7
+Bridgetown;17.7
+Roseau;11.3
+Istanbul;5.3
+St. John's;9.5
+Bulawayo;29.2
+Bulawayo;23.2
+Palembang;3.1
+Conakry;18.2
+Conakry;11.7
+Bulawayo;21.2
+Palembang;6.6
+Palembang;3.5
+Istanbul;27.4
+Bridgetown;23.9
+Roseau;18.4
+Conakry;25.8
+Cracow;10.8
+Bridgetown;8.9
+Istanbul;12.1
+Roseau;16.1
+Bridgetown;5.6
+Palembang;11.3
+St. John's;1.1
+Roseau;16.9
+Bridgetown;24.3
+Palembang;23.0
+Conakry;14.7
+Istanbul;18.1
+Roseau;0.0
+Roseau;28.7
+Bridgetown;2.3
+Bridgetown;10.9
+Hamburg;24.0
+Roseau;5.9
+Bulawayo;29.3
+Bulawayo;10.2
+St. John's;9.7
+Hamburg;5.0
+St. John's;24.4
+St. John's;14.0
+Conakry;23.5
+Conakry;6.4
+Conakry;7.3
+Cracow;2.7
+Palembang;27.6
+Istanbul;8.9
+St. John's;11.3
+Cracow;26.3
+Istanbul;18.3
+Hamburg;16.9
+St. John's;13.1
+Istanbul;28.0
+Palembang;5.7
+St. John's;7.5
+St. John's;4.3
+Conakry;24.5
+Bridgetown;26.4
+Hamburg;4.5
+Cracow;5.9
+Roseau;20.6
+Palembang;9.7
+Palembang;1.7
+Roseau;18.2
+Hamburg;25.0
+Bulawayo;18.7
+Bridgetown;18.5
+St. John's;13.4
+Istanbul;16.5
+Cracow;28.7
+Bridgetown;4.0
+Istanbul;7.5
+Bridgetown;8.9
+Istanbul;13.8
+Roseau;15.2
+Hamburg;20.3
+Roseau;29.9
+Bridgetown;25.4
+St. John's;8.3
+Palembang;7.2
+Cracow;9.5
+Cracow;28.5
+Bridgetown;10.0
+St. John's;12.1
+Roseau;14.1
+Cracow;10.4
+Bulawayo;6.4
+Hamburg;8.9
+Conakry;19.3
+Cracow;2.3
+Conakry;10.6
+Bridgetown;23.9
+Istanbul;14.9
+Bridgetown;10.2
+Bulawayo;24.8
+Cracow;21.6
+St. John's;14.2
+Hamburg;15.7
+Conakry;6.5
+St. John's;29.0
+Bridgetown;13.1
+Hamburg;29.3
+Roseau;2.8
+Roseau;6.2
+Bridgetown;14.6
+Hamburg;14.6
+Istanbul;25.1
+Conakry;9.5
+Conakry;3.8
+Bulawayo;4.2
+Bridgetown;15.1
+St. John's;1.7
+Bridgetown;4.5
+Conakry;24.2
+Bulawayo;18.3
+Bulawayo;3.8
+Conakry;20.9
+Hamburg;12.5
+St. John's;25.0
+Bridgetown;10.4
+Palembang;6.4
+Conakry;5.6
+Conakry;29.8
+Palembang;16.4
+St. John's;22.1
+St. John's;16.1
+Palembang;27.5
+Hamburg;8.9
+Istanbul;24.7
+Cracow;21.5
+Cracow;16.8
+Istanbul;5.1
+Conakry;13.0
+Hamburg;5.0
+Palembang;1.1
+Conakry;0.9
+Conakry;14.4
+Hamburg;10.2
+Istanbul;7.4
+Cracow;1.7
+Palembang;8.0
+Istanbul;24.7
+Roseau;19.5
+Bulawayo;22.4
+Bridgetown;26.9
+Palembang;5.2
+Bulawayo;29.8
+Istanbul;29.1
+Bridgetown;27.9
+Bulawayo;15.2
+Bulawayo;14.5
+Roseau;8.7
+Cracow;20.2
+Istanbul;20.1
+Istanbul;20.4
+St. John's;28.0
+Istanbul;25.9
+Hamburg;15.5
+Hamburg;27.7
+Palembang;16.6
+St. John's;4.6
+Palembang;15.5
+St. John's;26.2
+Bridgetown;26.8
+Bulawayo;27.6
+Hamburg;24.7
+St. John's;9.1
+Roseau;16.4
+St. John's;27.5
+Bulawayo;14.8
+Bulawayo;13.6
+Cracow;21.1
+Bulawayo;23.5
+Hamburg;7.7
+Istanbul;21.0
+Bulawayo;14.4
+Istanbul;1.2
+Palembang;15.9
+Hamburg;19.7
+Roseau;12.9
+St. John's;29.2
+Roseau;2.5
+Bulawayo;21.7
+St. John's;28.0
+Cracow;21.6
+Bulawayo;23.8
+Hamburg;18.8
+Conakry;14.6
+Conakry;23.8
+Bulawayo;3.2
+Bulawayo;22.5
+St. John's;27.7
+Conakry;27.5
+Roseau;8.5
+Bridgetown;16.4
+Roseau;11.4
+Palembang;13.9
+Bridgetown;18.0
+Bridgetown;7.3
+St. John's;8.0
+Hamburg;25.8
+Palembang;17.3
+St. John's;3.1
+Bulawayo;4.6
+Hamburg;26.4
+St. John's;26.4
+Roseau;22.1
+Cracow;5.8
+St. John's;4.1
+Palembang;16.7
+Istanbul;10.0
+Palembang;3.3
+Bridgetown;3.0
+Conakry;18.5
+Istanbul;7.0
+Cracow;25.9
+Hamburg;7.2
+Bridgetown;11.2
+Cracow;3.9
+Istanbul;4.2
+Bulawayo;0.4
+Bulawayo;7.6
+St. John's;29.8
+Conakry;7.9
+Bridgetown;23.7
+Istanbul;9.5
+Palembang;25.5
+Istanbul;23.8
+Istanbul;15.5
+Conakry;3.2
+Bridgetown;24.7
+Bulawayo;29.3
+St. John's;15.8
+Cracow;7.2
+Bulawayo;22.1
+St. John's;1.7
+Roseau;20.5
+Palembang;10.4
+Conakry;12.6
+Hamburg;7.3
+Conakry;15.5
+Bulawayo;19.0
+Bridgetown;29.0
+Roseau;11.3
+St. John's;16.7
+Hamburg;21.4
+Bridgetown;11.4
+Hamburg;29.6
+Bulawayo;22.0
+Cracow;28.7
+Palembang;3.9
+Palembang;10.5
+Istanbul;2.4
+Roseau;4.3
+Bulawayo;22.6
+Palembang;22.4
+Hamburg;5.0
+Conakry;11.5
+Roseau;16.5
+Cracow;14.1
+Istanbul;30.0
+Conakry;4.3
+Bridgetown;26.4
+Hamburg;9.4
+St. John's;25.5
+Conakry;20.3
+Hamburg;23.9
+Cracow;19.4
+Palembang;8.0
+Palembang;3.8
+Cracow;2.7
+St. John's;15.6
+Roseau;10.8
+Istanbul;13.0
+Cracow;4.0
+Conakry;3.8
+Conakry;0.6
+Istanbul;11.2
+Bridgetown;21.2
+Palembang;25.2
+Bridgetown;13.3
+Istanbul;11.9
+Hamburg;3.8
+Cracow;4.2
+Roseau;20.7
+Cracow;22.6
+Hamburg;3.1
+Cracow;10.0
+Bulawayo;28.9
+Hamburg;4.5
+St. John's;3.0
+Roseau;29.9
+Bulawayo;26.6
+Roseau;19.6
+Palembang;13.4
+Bridgetown;25.6
+Hamburg;10.4
+Palembang;3.6
+Conakry;25.7
+Istanbul;16.7
+Roseau;21.4
+Istanbul;19.9
+Bulawayo;4.1
+Cracow;1.4
+Hamburg;21.1
+Bridgetown;4.3
+Hamburg;13.5
+Palembang;4.5
+Bridgetown;9.7
+Hamburg;28.6
+Palembang;6.2
+Bridgetown;1.4
+St. John's;16.8
+Istanbul;3.0
+St. John's;13.9
+Conakry;10.9
+Roseau;18.1
+Istanbul;25.9
+Istanbul;27.7
+Istanbul;15.2
+Roseau;11.9
+Bulawayo;12.9
+Istanbul;19.4
+Istanbul;7.3
+Palembang;19.7
+Conakry;22.4
+Conakry;2.4
+Bridgetown;6.2
+Bridgetown;26.5
+Istanbul;21.7
+St. John's;17.8
+Bridgetown;3.7
+Cracow;28.9
+Bulawayo;6.6
+Palembang;5.9
+Istanbul;11.7
+Istanbul;28.7
+Cracow;19.3
+Hamburg;16.0
+Roseau;23.0
+Conakry;4.7
+Cracow;3.0
+Istanbul;0.8
+Bridgetown;4.9
+Roseau;3.0
+Conakry;28.8
+Cracow;27.2
+Hamburg;10.5
+St. John's;6.1
+Conakry;12.1
+Istanbul;27.0
+Conakry;5.0
+Roseau;21.1
+Roseau;7.0
+Palembang;21.9
+Palembang;4.1
+Bulawayo;28.4
+Roseau;27.5
+Hamburg;7.8
+Palembang;15.6
+Istanbul;24.2
+Conakry;14.7
+Bulawayo;6.2
+Cracow;15.3
+Palembang;17.4
+Hamburg;13.2
+Conakry;4.5
+Cracow;6.0
+St. John's;18.4
+Istanbul;19.3
+Palembang;19.7
+Hamburg;11.1
+Istanbul;6.6
+Palembang;23.5
+Roseau;24.1
+Bulawayo;10.0
+Hamburg;14.4
+Conakry;14.2
+Hamburg;1.5
+Cracow;22.1
+Istanbul;19.1
+Cracow;11.6
+Bulawayo;17.7
+Bridgetown;27.6
+Conakry;14.9
+Hamburg;15.7
+Bridgetown;3.1
+Bulawayo;16.9
+Bulawayo;21.7
+St. John's;28.3
+Hamburg;18.9
+Hamburg;14.4
+Istanbul;8.1
+St. John's;18.9
+Istanbul;4.2
+Hamburg;9.6
+Cracow;11.5
+Conakry;2.2
+St. John's;8.4
+Bulawayo;5.8
+Roseau;19.5
+Istanbul;9.7
+Palembang;24.8
+Istanbul;1.7
+Hamburg;2.4
+St. John's;23.4
+St. John's;26.9
+St. John's;16.5
+Bridgetown;27.0
+Hamburg;29.8
+Cracow;24.0
+Bridgetown;14.7
+Hamburg;7.0
+Hamburg;0.6
+St. John's;21.3
+Bridgetown;29.6
+Bulawayo;3.4
+Istanbul;21.6
+Hamburg;19.9
+Conakry;9.3
+Bridgetown;11.0
+Hamburg;27.0
+Cracow;16.8
+Bridgetown;15.3
+Palembang;0.6
+Cracow;28.5
+Palembang;5.0
+Cracow;2.0
+St. John's;11.9
+Hamburg;9.1
+Hamburg;22.4
+Bridgetown;23.7
+Istanbul;16.7
+St. John's;26.9
+St. John's;22.2
+Cracow;15.9
+Bridgetown;5.5
+Bulawayo;5.9
+Palembang;23.8
+Roseau;5.9
+St. John's;24.1
+St. John's;26.1
+Hamburg;28.1
+Cracow;8.7
+Istanbul;15.4
+Cracow;29.0
+Roseau;18.0
+St. John's;18.5
+St. John's;11.0
+Palembang;8.1
+Conakry;13.5
+Hamburg;14.1
+Bulawayo;1.8
+Bulawayo;16.8
+Bulawayo;5.4
+Conakry;21.7
+Hamburg;17.9
+Istanbul;13.5
+Bulawayo;12.5
+Bulawayo;23.7
+Bulawayo;2.0
+Bridgetown;16.4
+Bulawayo;25.2
+Bulawayo;10.8
+Bulawayo;3.4
+Palembang;24.1
+Cracow;10.1
+Conakry;4.0
+Bridgetown;27.4
+Conakry;20.1
+Bulawayo;22.1
+Palembang;3.0
+Conakry;13.5
+Bridgetown;20.7
+Cracow;27.2
+Hamburg;28.7
+Palembang;17.0
+Hamburg;27.9
+Bridgetown;17.4
+Cracow;13.8
+Bridgetown;4.4
+Palembang;8.2
+Roseau;28.0
+St. John's;26.1
+Conakry;16.1
+Cracow;23.8
+Hamburg;0.4
+Roseau;25.6
+Cracow;4.7
+Conakry;28.0
+Hamburg;27.9
+Palembang;5.1
+St. John's;21.6
+Conakry;5.2
+St. John's;9.7
+Roseau;26.9
+Bulawayo;22.3
+Bridgetown;17.3
+Bridgetown;1.7
+Roseau;19.6
+Hamburg;24.7
+Cracow;25.4
+Hamburg;7.1
+Conakry;27.5
+Bulawayo;9.9
+Conakry;3.4
+Bulawayo;24.2
+Istanbul;6.0
+Bridgetown;1.4
+Cracow;25.5
+Istanbul;6.6
+Bridgetown;5.5
+Bulawayo;20.1
+Istanbul;17.3
+Bridgetown;19.6
+Conakry;24.7
+St. John's;20.0
+Bulawayo;9.0
+Hamburg;5.5
+Hamburg;14.3
+Roseau;2.1
+Bulawayo;19.5
+Roseau;10.6
+Bridgetown;11.3
+Hamburg;24.8
+Istanbul;21.3
+Bulawayo;10.3
+Bridgetown;28.9
+Istanbul;22.3
+Roseau;22.7
+Bridgetown;27.8
+Bulawayo;2.2
+Hamburg;4.7
+Cracow;20.9
+St. John's;10.8
+Conakry;3.9
+Istanbul;6.2
+Cracow;8.5
+Conakry;22.4
+Bridgetown;27.5
+Bulawayo;23.8
+Hamburg;15.3
+Bridgetown;22.4
+Hamburg;28.5
+Hamburg;26.5
+Roseau;23.3
+St. John's;13.6
+Bridgetown;8.9
+St. John's;20.7
+Bulawayo;19.3
+Bridgetown;6.2
+St. John's;26.7
+Bridgetown;4.6
+St. John's;7.1
+Palembang;27.0
+Bulawayo;21.3
+Bridgetown;3.7
+Roseau;27.5
+Bridgetown;0.7
+Roseau;21.1
+Bridgetown;28.3
+Conakry;21.5
+Bulawayo;19.8
+Hamburg;0.7
+Bulawayo;11.7
+Istanbul;3.1
+Bridgetown;8.9
+Cracow;23.5
+Hamburg;16.1
+St. John's;16.0
+Bulawayo;14.9
+St. John's;27.3
+Palembang;3.2
+Hamburg;15.5
+Hamburg;16.4
+Cracow;13.9
+Bridgetown;10.5
+St. John's;3.7
+Cracow;5.3
+Cracow;7.0
+Conakry;19.0
+Cracow;17.4
+Roseau;27.8
+Istanbul;26.3
+Conakry;0.2
+Hamburg;14.3
+Hamburg;20.1
+Palembang;19.0
+Istanbul;15.4
+Conakry;0.2
+Bridgetown;29.7
+Bridgetown;25.0
+Hamburg;14.7
+St. John's;22.8
+Bridgetown;1.7
+St. John's;4.5
+Roseau;7.7
+Bulawayo;5.6
+Palembang;7.9
+Bulawayo;0.3
+Roseau;1.6
+Hamburg;8.1
+Hamburg;27.4
+Bridgetown;27.3
+Palembang;7.9
+Cracow;5.2
+Cracow;8.8
+Hamburg;20.2
+Cracow;28.0
+Roseau;17.7
+Istanbul;5.9
+Cracow;29.3
+Istanbul;22.5
+Palembang;15.7
+Bulawayo;12.1
+Palembang;7.7
+Istanbul;1.2
+Bridgetown;14.6
+St. John's;4.4
+Conakry;21.7
+Palembang;25.5
+Istanbul;28.5
+Bridgetown;11.2
+Roseau;17.0
+Hamburg;19.7
+Bulawayo;0.7
+Istanbul;3.8
+Bulawayo;11.2
+Istanbul;21.3
+Bridgetown;6.4
+Istanbul;16.0
+Hamburg;0.1
+Conakry;11.4
+Conakry;19.5
+Palembang;25.6
+Bulawayo;5.8
+Hamburg;21.5
+Bulawayo;21.8
+Roseau;12.9
+Conakry;2.6
+Cracow;2.2
+St. John's;26.6
+Palembang;6.9
+Hamburg;14.0
+Palembang;21.2
+Bulawayo;19.1
+Palembang;21.8
+Istanbul;29.7
+Hamburg;17.8
+Conakry;1.9
+Roseau;18.3
+Bulawayo;8.9
+Bulawayo;19.5
+Istanbul;0.6
+Hamburg;8.0
+Hamburg;20.6
+Bridgetown;28.9
+St. John's;18.8
+Bridgetown;21.0
+Istanbul;13.8
+Roseau;7.5
+Hamburg;22.1
+St. John's;22.2
+Roseau;23.9
+Conakry;21.4
+Bulawayo;23.4
+Palembang;3.9
+Bridgetown;29.9
+Cracow;13.9
+Bulawayo;19.8
+Roseau;12.0
+Cracow;7.7
+Roseau;14.8
+Roseau;6.5
+Istanbul;28.0
+Palembang;1.4
+Hamburg;13.8
+St. John's;16.2
+Cracow;27.5
+Cracow;24.2
+Hamburg;9.8
+St. John's;2.1
+Bridgetown;28.2
+Conakry;8.8
+Hamburg;19.1
+Cracow;20.5
+Palembang;22.1
+Cracow;29.1
+Hamburg;13.3
+St. John's;1.4
+Bulawayo;22.1
+Bulawayo;8.0
+St. John's;10.3
+Hamburg;28.4
+Hamburg;8.8
+Cracow;21.3
+Cracow;5.6
+St. John's;12.3
+Conakry;24.4
+St. John's;15.4
+Cracow;24.8
+Palembang;19.4
+Conakry;3.8
+Hamburg;13.5
+Bridgetown;0.6
+Bulawayo;28.6
+St. John's;19.1
+Bridgetown;1.0
+Palembang;24.0
+St. John's;29.7
+Istanbul;27.8
+Cracow;23.0
+Bulawayo;2.2
+Conakry;1.9
+Conakry;9.3
+Palembang;6.1
+Bulawayo;12.2
+Cracow;20.7
+Bulawayo;21.3
+St. John's;20.1
+Hamburg;10.8
+Bridgetown;4.4
+Palembang;22.8
+Conakry;11.8
+St. John's;11.5
+Roseau;28.5
+Conakry;4.7
+Bulawayo;11.3
+Roseau;28.7
+Hamburg;13.5
+Bulawayo;27.8
+Bulawayo;6.4
+St. John's;23.9
+Conakry;14.6
+Conakry;4.0
+Palembang;24.3
+Palembang;17.7
+St. John's;4.0
+Hamburg;8.6
+Istanbul;9.0
+Conakry;28.7
+Bulawayo;21.0
+Palembang;1.7
+Bulawayo;26.8
+Palembang;15.4
+Istanbul;3.0
+Cracow;29.8
+Roseau;5.2
+Palembang;5.7
+Bridgetown;16.3
+Bulawayo;7.2
+Istanbul;2.9
+Conakry;17.4
+Conakry;0.9
+Istanbul;15.0
+Hamburg;17.5
+Hamburg;13.3
+Bridgetown;22.2
+Roseau;13.1
+Bulawayo;21.9
+Conakry;6.1
+Bulawayo;21.7
+Palembang;27.7
+Conakry;5.4
+Roseau;22.3
+Roseau;11.1
+Bridgetown;22.8
+Cracow;14.6
+St. John's;22.6
+Bulawayo;21.9
+Istanbul;2.8
+Roseau;22.5
+Conakry;2.8
+Bridgetown;1.9
+Bridgetown;1.3
+Conakry;18.1
+Istanbul;15.3
+Hamburg;2.3
+Palembang;14.6
+Istanbul;21.2
+Palembang;17.2
+Conakry;12.6
+Bulawayo;1.4
+Palembang;12.6
+Istanbul;6.0
+Bridgetown;3.7
+Bulawayo;29.9
+Palembang;19.9
+Palembang;23.9
+Bridgetown;18.3
+Palembang;10.8
+St. John's;10.4
+Conakry;4.3
+Hamburg;0.4
+St. John's;20.7
+Roseau;18.9
+St. John's;25.2
+Palembang;5.1
+Conakry;15.3
+St. John's;14.0
+St. John's;23.0
+Roseau;22.0
+Palembang;3.0
+Hamburg;23.6
+Istanbul;26.6
+Bulawayo;8.3
+Istanbul;20.3
+Istanbul;24.6
+Conakry;2.2
+Palembang;28.5
+Conakry;6.6
+Bulawayo;7.4
+Palembang;23.0
+Conakry;11.5
+Roseau;8.3
+Roseau;18.1
+Cracow;15.9
+Bulawayo;20.7
+Bridgetown;13.6
+Bridgetown;25.9
+Hamburg;14.5
+Conakry;9.4
+Bulawayo;22.8
+Roseau;19.1
+Bridgetown;21.9
+St. John's;10.3
+Bridgetown;1.2
+Istanbul;23.5
+Roseau;3.0
+Istanbul;7.7
+Cracow;2.0
+Bulawayo;14.4
+Palembang;28.0
+Bridgetown;2.3
+Istanbul;10.0
+Hamburg;7.6
+St. John's;23.5
+Palembang;7.9
+Bulawayo;2.4
+Istanbul;20.8
+Bridgetown;25.9
+Bridgetown;6.2
+St. John's;18.1
+Palembang;1.3
+Roseau;18.4
+Bridgetown;17.0
+Conakry;12.9
+Hamburg;22.1
+Istanbul;0.2
+Conakry;2.0
+St. John's;4.6
+Hamburg;3.0
+Bulawayo;19.3
+Roseau;25.7
+Cracow;25.2
+Roseau;0.1
+Bridgetown;28.2
+Bulawayo;7.0
+Bridgetown;16.4
+Cracow;16.5
+Palembang;21.6
+St. John's;22.5
+Conakry;11.4
+Bulawayo;1.7
+St. John's;18.3
+Bulawayo;29.0
+Bulawayo;19.2
+Cracow;6.4
+Bulawayo;19.6
+Bulawayo;6.4
+Palembang;2.8
+Hamburg;5.2
+Palembang;19.5
+St. John's;11.8
+Roseau;10.5
+Bulawayo;25.4
+Bridgetown;16.4
+Bulawayo;11.7
+Roseau;3.2
+Conakry;11.5
+Hamburg;23.6
+Conakry;16.5
+St. John's;20.8
+Roseau;10.0
+Hamburg;4.7
+Conakry;26.5
+Conakry;0.3
+Bridgetown;22.5
+Bridgetown;11.7
+Bridgetown;9.4
+Hamburg;24.5
+Bulawayo;26.2
+Istanbul;1.0
+Hamburg;28.0
+Istanbul;18.2
+St. John's;19.7
+Conakry;13.0
+Bulawayo;16.2
+Palembang;13.3
+Cracow;2.4
+Bulawayo;23.3
+Conakry;21.2
+Hamburg;11.6
+Istanbul;11.4
+St. John's;29.1
+St. John's;3.1
+Bridgetown;29.0
+Istanbul;1.2
+Bridgetown;6.8
+Palembang;15.3
+Roseau;15.8
+Palembang;29.4
+Conakry;13.0
+Roseau;11.4
+Cracow;26.9
+St. John's;12.7
+Roseau;16.3
+Bridgetown;5.7
+Bridgetown;5.9
+Palembang;14.6
+Bridgetown;6.9
+Palembang;18.5
+Bridgetown;7.2
+Cracow;21.0
+Cracow;16.4
+Conakry;10.0
+Istanbul;3.0
+Palembang;21.3
+Hamburg;0.7
+Istanbul;27.1
+Bulawayo;14.3
+Roseau;6.5
+Bridgetown;16.8
+Istanbul;16.1
+Cracow;16.6
+Istanbul;29.4
+Bulawayo;7.0
+St. John's;9.8
+St. John's;22.2
+Palembang;1.6
+Roseau;1.5
+St. John's;4.2
+Istanbul;22.8
+Bridgetown;23.2
+Conakry;18.3
+Hamburg;17.6
+Hamburg;18.1
+Bulawayo;10.0
+Istanbul;15.9
+Bulawayo;0.6
+Istanbul;22.7
+Bridgetown;0.9
+Conakry;4.1
+Bridgetown;3.3
+St. John's;4.7
+Roseau;20.4
+Bridgetown;1.3
+Istanbul;13.0
+Roseau;25.5
+St. John's;28.0
+Roseau;4.8
+Roseau;27.1
+Bridgetown;24.2
+Cracow;10.1
+Conakry;25.3
+St. John's;9.3
+Palembang;4.0
+Bridgetown;24.7
+Bridgetown;20.7
+Cracow;22.7
+Bridgetown;13.2
+Conakry;8.8
+Conakry;22.0
+Bridgetown;8.6
+Hamburg;8.9
+Bulawayo;28.6
+Bulawayo;3.8
+Bulawayo;28.7
+Roseau;26.0
+Bridgetown;1.9
+St. John's;22.6
+Cracow;6.1
+Roseau;9.0
+St. John's;9.3
+Istanbul;15.7
+Bulawayo;21.9
+Roseau;12.2
+Cracow;13.7
+Bridgetown;20.9
+Hamburg;20.8
+Bulawayo;1.0
+St. John's;20.1
+Palembang;5.9
+Bulawayo;15.9
+Istanbul;19.8
+Roseau;7.9
+Hamburg;20.8
+Bridgetown;21.9
+Conakry;13.5
+Hamburg;2.2
+Conakry;10.8
+Palembang;9.5
+St. John's;21.3
+Bulawayo;3.5
+Cracow;27.8
+Cracow;1.8
+St. John's;25.3
+Istanbul;29.7
+Roseau;6.7
+Palembang;20.4
+St. John's;10.4
+Conakry;1.4
+Palembang;26.6
+Hamburg;7.7
+Roseau;16.1
+Istanbul;19.9
+St. John's;27.0
+Hamburg;27.9
+Roseau;2.4
+Conakry;22.8
+Roseau;1.3
+St. John's;7.5
+St. John's;24.5
+Roseau;12.3
+St. John's;18.4
+Roseau;16.1
+Roseau;17.0
+Cracow;23.9
+Roseau;7.7
+Hamburg;29.8
+St. John's;20.4
+Roseau;9.2
+Hamburg;11.0
+Palembang;6.9
+Istanbul;27.9
+Hamburg;26.0
+Hamburg;14.2
+Bridgetown;4.8
+St. John's;0.6
+Bulawayo;3.2
+Cracow;15.4
+Roseau;18.1
+Hamburg;15.0
+Bridgetown;17.2
+Istanbul;28.1
+Conakry;6.5
+Istanbul;26.5
+St. John's;24.5
+Hamburg;20.3
+Palembang;18.7
+Conakry;28.1
+Bridgetown;1.0
+Cracow;1.3
+Hamburg;2.1
+St. John's;2.9
+Istanbul;28.4
+Roseau;19.7
+Roseau;21.1
+Cracow;4.8
+Roseau;25.4
+Hamburg;18.4
+Palembang;5.7
+Bridgetown;12.2
+St. John's;20.0
+Conakry;13.3
+Hamburg;5.0
+Conakry;27.1
+Conakry;12.7
+Palembang;13.8
+Roseau;6.5
+Bulawayo;11.8
+St. John's;2.3
+Cracow;3.7
+Istanbul;25.9
+Istanbul;22.9
+Hamburg;15.5
+Palembang;0.7
+Cracow;17.4
+Hamburg;26.7
+Conakry;23.3
+Bridgetown;4.0
+Istanbul;22.1
+Bulawayo;24.2
+St. John's;13.7
+Conakry;16.9
+Cracow;17.0
+Conakry;19.5
+Bridgetown;5.2
+Istanbul;5.8
+Istanbul;29.9
+Istanbul;5.4
+St. John's;14.1
+Bridgetown;0.1
+Cracow;6.0
+Bulawayo;23.9
+St. John's;9.4
+Conakry;3.6
+Palembang;8.9
+Conakry;28.2
+Bulawayo;22.7
+Roseau;24.2
+Bridgetown;22.5
+Palembang;23.9
+Palembang;9.8
+Istanbul;10.9
+Palembang;13.5
+Bulawayo;29.8
+Istanbul;21.6
+Palembang;20.7
+Hamburg;28.1
+St. John's;7.8
+Istanbul;21.2
+St. John's;0.1
+St. John's;21.9
+Palembang;9.1
+St. John's;4.5
+Palembang;1.7
+Istanbul;10.8
+Roseau;27.6
+Cracow;20.3
+Conakry;5.8
+Bulawayo;20.9
+Cracow;18.8
+Istanbul;25.3
+Roseau;4.0
+Palembang;17.1
+Bridgetown;8.4
+Roseau;3.1
+Palembang;18.1
+Hamburg;18.0
+St. John's;18.0
+St. John's;20.9
+Conakry;5.0
+Conakry;19.0
+Istanbul;18.2
+Hamburg;17.4
+Roseau;1.1
+Hamburg;16.2
+Hamburg;1.6
+Hamburg;13.8
+Conakry;23.9
+Roseau;20.4
+Cracow;11.2
+Cracow;6.9
+Bridgetown;1.8
+Cracow;6.7
+Hamburg;17.3
+Bridgetown;3.0
+Hamburg;28.0
+Conakry;12.3
+St. John's;18.9
+Bulawayo;20.1
+Roseau;8.3
+Cracow;23.4
+St. John's;21.4
+Bulawayo;20.4
+Conakry;19.4
+Cracow;29.7
+Hamburg;23.9
+Istanbul;9.1
+Bridgetown;1.0
+Cracow;29.8
+Bulawayo;19.7
+Bulawayo;5.5
+Conakry;9.0
+Conakry;7.0
+Bulawayo;8.4
+Cracow;18.9
+St. John's;29.3
+Hamburg;26.5
+Cracow;15.1
+Bulawayo;6.6
+Palembang;16.7
+St. John's;15.9
+St. John's;2.5
+St. John's;15.9
+Roseau;19.4
+Conakry;13.6
+Bulawayo;5.8
+Cracow;27.6
+Hamburg;27.5
+Conakry;14.5
+Conakry;16.5
+St. John's;18.6
+Hamburg;13.2
+Palembang;19.1
+Istanbul;3.8
+Hamburg;14.7
+Roseau;5.3
+Istanbul;26.5
+Palembang;13.3
+Istanbul;17.5
+Roseau;4.4
+Bridgetown;5.7
+Cracow;25.4
+Istanbul;7.6
+Hamburg;0.3
+Roseau;13.0
+Conakry;28.5
+Hamburg;5.2
+St. John's;14.2
+Conakry;8.2
+Hamburg;0.9
+Roseau;8.8
+Bulawayo;26.0
+Hamburg;17.8
+Conakry;17.1
+Bridgetown;17.8
+Cracow;4.7
+Bulawayo;25.8
+Bulawayo;2.5
+Cracow;13.7
+Bridgetown;26.6
+Roseau;3.6
+Istanbul;24.8
+St. John's;15.7
+Conakry;7.3
+Bulawayo;2.7
+Bulawayo;23.8
+Hamburg;12.9
+St. John's;15.3
+Conakry;6.4
+Istanbul;12.7
+Istanbul;16.3
+St. John's;29.9
+Roseau;21.7
+Palembang;22.4
+St. John's;13.2
+Cracow;29.1
+St. John's;28.4
+Conakry;0.6
+St. John's;23.1
+Palembang;3.6
+Palembang;14.8
+Bridgetown;5.4
+Hamburg;0.8
+Palembang;1.6
+Bridgetown;10.1
+Conakry;18.4
+Palembang;28.2
+St. John's;24.9
+Istanbul;29.1
+St. John's;15.5
+Conakry;20.2
+Palembang;29.5
+Conakry;7.9
+Bulawayo;27.7
+Hamburg;28.4
+Roseau;18.2
+Conakry;28.9
+Bulawayo;17.6
+Roseau;25.4
+St. John's;23.7
+Bulawayo;29.2
+Palembang;22.5
+St. John's;7.0
+Palembang;3.4
+St. John's;7.1
+Conakry;22.1
+Bridgetown;17.8
+Roseau;15.1
+St. John's;0.2
+Bridgetown;4.2
+Conakry;12.8
+Bridgetown;6.7
+Cracow;6.6
+Roseau;16.8
+Istanbul;25.8
+Bridgetown;21.5
+Conakry;27.4
+Istanbul;18.3
+St. John's;11.3
+Palembang;10.1
+Conakry;10.0
+Bulawayo;19.3
+Hamburg;19.0
+Bridgetown;1.5
+Conakry;24.9
+Hamburg;6.7
+Cracow;26.2
+St. John's;16.5
+Bridgetown;14.0
+Bridgetown;27.9
+Hamburg;25.7
+Conakry;2.0
+Palembang;28.0
+Bridgetown;1.3
+Conakry;10.1
+Istanbul;20.2
+Bulawayo;2.6
+Istanbul;14.3
+Bulawayo;14.2
+Istanbul;0.8
+Palembang;26.1
+Bridgetown;8.4
+Roseau;27.2
+Roseau;28.5
+Istanbul;25.6
+Bulawayo;25.3
+Bulawayo;2.5
+Bulawayo;16.9
+Istanbul;25.4
+Roseau;7.1
+Hamburg;15.3
+St. John's;7.6
+Hamburg;9.9
+Cracow;26.9
+Roseau;27.4
+Roseau;14.9
+Roseau;2.9
+Palembang;28.2
+Hamburg;3.3
+St. John's;5.8
+Palembang;15.4
+Conakry;7.7
+Istanbul;18.3
+Bridgetown;16.1
+Istanbul;0.2
+Bridgetown;3.6
+Bridgetown;0.7
+St. John's;27.9
+Conakry;10.6
+Istanbul;29.1
+St. John's;28.6
+Bridgetown;4.5
+Hamburg;29.6
+Roseau;25.3
+Palembang;25.0
+Cracow;9.9
+St. John's;29.1
+Istanbul;24.8
+Bridgetown;13.7
+St. John's;15.2
+Bulawayo;24.5
+St. John's;20.0
+Hamburg;28.3
+Bulawayo;24.4
+Conakry;15.7
+Conakry;4.1
+St. John's;28.8
+Hamburg;12.7
+Bridgetown;24.1
+Conakry;22.0
+Conakry;26.4
+Bulawayo;18.3
+Roseau;21.2
+Bridgetown;13.0
+Hamburg;25.2
+St. John's;10.2
+Istanbul;30.0
+Conakry;4.5
+Hamburg;5.0
+Bulawayo;12.8
+Cracow;1.3
+St. John's;14.9
+St. John's;1.1
+Bridgetown;29.1
+Bulawayo;12.2
+Hamburg;8.8
+St. John's;5.0
+Bridgetown;8.0
+Istanbul;0.6
+Cracow;1.8
+Bulawayo;26.8
+Conakry;7.6
+Bulawayo;9.9
+Roseau;29.7
+Palembang;8.9
+Palembang;19.7
+St. John's;16.0
+Bridgetown;25.9
+St. John's;8.0
+Bulawayo;18.6
+Roseau;19.8
+Bulawayo;12.1
+Istanbul;14.1
+Roseau;3.9
+Hamburg;28.9
+St. John's;10.6
+Palembang;29.8
+Bulawayo;8.2
+St. John's;3.6
+Hamburg;29.7
+Roseau;0.6
+Istanbul;23.3
+Hamburg;15.9
+St. John's;21.3
+Bridgetown;20.9
+Conakry;5.1
+Bulawayo;22.3
+Cracow;18.3
+Palembang;27.2
+Hamburg;12.5
+St. John's;20.8
+Conakry;12.8
+Cracow;7.7
+Roseau;25.2
+Istanbul;18.5
+Istanbul;19.9
+Cracow;3.9
+Bridgetown;25.3
+St. John's;22.0
+Bridgetown;13.6
+Cracow;19.5
+Hamburg;3.4
+St. John's;21.3
+Hamburg;0.8
+Hamburg;15.8
+Bridgetown;3.3
+St. John's;12.5
+St. John's;18.1
+Palembang;6.2
+Bridgetown;9.2
+St. John's;4.0
+St. John's;8.8
+Hamburg;13.3
+Istanbul;5.6
+Hamburg;9.2
+Istanbul;12.7
+Hamburg;3.4
+Bulawayo;5.9
+Conakry;22.6
+St. John's;16.5
+Palembang;3.1
+Conakry;23.5
+Bridgetown;22.0
+Bulawayo;11.1
+Istanbul;23.7
+Conakry;29.1
+St. John's;5.4
+Bulawayo;13.6
+Bridgetown;15.8
+Bridgetown;26.0
+Istanbul;20.8
+Bulawayo;29.7
+Palembang;29.4
+Bridgetown;24.7
+Bridgetown;10.8
+Istanbul;14.6
+Istanbul;24.1
+Palembang;12.8
+Bridgetown;3.8
+Roseau;24.8
+Bulawayo;15.1
+Bridgetown;8.2
+Cracow;24.8
+Bulawayo;17.0
+Conakry;19.5
+Istanbul;21.1
+Cracow;8.3
+Cracow;17.5
+Bulawayo;1.7
+Palembang;21.5
+Istanbul;14.2
+Roseau;9.6
+Bridgetown;5.9
+Hamburg;18.5
+Palembang;2.5
+Roseau;7.2
+Cracow;25.4
+Cracow;21.2
+Cracow;24.0
+Conakry;5.6
+Roseau;16.5
+St. John's;19.0
+Cracow;27.3
+Bulawayo;10.7
+Bulawayo;20.0
+Istanbul;22.9
+Bulawayo;29.8
+Roseau;28.9
+Cracow;25.3
+Conakry;6.7
+Bridgetown;6.1
+Palembang;7.1
+Roseau;0.5
+Istanbul;6.7
+Istanbul;17.6
+Cracow;28.2
+Bridgetown;22.9
+Bridgetown;13.6
+Hamburg;19.1
+Bridgetown;5.7
+Cracow;16.1
+Palembang;23.1
+Conakry;19.1
+Palembang;27.3
+Bulawayo;8.4
+Cracow;13.2
+Cracow;10.9
+Istanbul;17.1
+Roseau;24.1
+Conakry;14.1
+Bulawayo;29.5
+Palembang;1.5
+Cracow;12.6
+Conakry;2.4
+Conakry;2.1
+St. John's;12.8
+Bulawayo;6.1
+Cracow;16.7
+Bridgetown;24.0
+Palembang;18.6
+Bridgetown;19.9
+Bridgetown;9.7
+Bulawayo;1.6
+Palembang;15.7
+Bulawayo;21.4
+Hamburg;18.3
+Roseau;23.2
+Istanbul;23.3
+Istanbul;15.2
+Istanbul;23.6
+Palembang;7.0
+Istanbul;19.7
+Bulawayo;4.7
+Bridgetown;8.3
+Cracow;19.1
+Roseau;22.6
+Conakry;21.9
+Istanbul;14.6
+St. John's;27.7
+Cracow;9.0
+Bridgetown;19.6
+Istanbul;6.8
+Palembang;9.0
+Roseau;4.7
+Roseau;5.2
+Roseau;10.2
+Palembang;19.1
+Conakry;10.6
+Roseau;28.8
+St. John's;17.8
+Bulawayo;10.0
+Hamburg;18.1
+Hamburg;9.5
+Istanbul;18.3
+Istanbul;16.8
+Palembang;10.5
+Istanbul;21.1
+Cracow;13.3
+St. John's;13.4
+Roseau;10.7
+Hamburg;17.8
+Conakry;18.5
+Roseau;13.1
+St. John's;26.9
+St. John's;19.7
+Bridgetown;15.3
+Roseau;25.8
+Bridgetown;12.8
+Roseau;11.5
+Bulawayo;12.6
+Cracow;11.3
+Conakry;1.4
+Cracow;17.6
+Conakry;17.0
+Palembang;4.8
+Bridgetown;17.4
+Roseau;6.3
+Hamburg;21.2
+Cracow;7.0
+Hamburg;3.1
+Roseau;12.1
+Palembang;22.8
+Bridgetown;2.4
+Cracow;3.2
+Hamburg;21.1
+Hamburg;16.1
+St. John's;13.1
+Roseau;7.1
+Cracow;23.1
+Conakry;14.5
+Bridgetown;19.0
+Palembang;6.8
+Istanbul;22.3
+Hamburg;5.1
+Palembang;6.1
+Bulawayo;3.0
+Conakry;28.7
+Roseau;24.8
+St. John's;29.7
+St. John's;6.1
+St. John's;9.0
+Istanbul;0.2
+Istanbul;1.3
+Roseau;11.9
+Bridgetown;7.6
+Conakry;19.1
+Roseau;13.4
+St. John's;8.9
+Palembang;8.1
+Bulawayo;4.3
+St. John's;16.3
+Roseau;27.4
+Istanbul;13.0
+Bridgetown;1.5
+Conakry;14.2
+Conakry;14.2
+Istanbul;11.7
+Palembang;0.9
+Cracow;4.0
+Roseau;5.9
+Bulawayo;18.0
+St. John's;23.4
+Bulawayo;17.3
+Hamburg;22.3
+Bulawayo;25.5
+Conakry;19.8
+Bridgetown;8.1
+Istanbul;28.3
+Hamburg;8.8
+Hamburg;4.3
+Hamburg;13.6
+Cracow;3.2
+Palembang;2.1
+Bridgetown;11.5
+Bridgetown;20.8
+Hamburg;16.4
+Cracow;1.0
+Palembang;11.1
+Hamburg;4.0
+St. John's;7.3
+Bridgetown;29.9
+Palembang;18.0
+Palembang;27.1
+Palembang;10.4
+Palembang;21.9
+Bulawayo;17.4
+Bulawayo;26.8
+Istanbul;24.4
+Roseau;1.3
+Bulawayo;17.4
+Cracow;2.5
+Hamburg;23.3
+Conakry;2.1
+Palembang;4.2
+Roseau;25.0
+Hamburg;20.9
+Hamburg;28.1
+St. John's;28.4
+St. John's;13.1
+Palembang;17.7
+Bridgetown;3.9
+Bridgetown;12.1
+Hamburg;27.7
+Istanbul;25.9
+St. John's;1.0
+Conakry;11.9
+Bridgetown;1.2
+Hamburg;12.4
+Palembang;7.0
+Hamburg;6.8
+Hamburg;26.3
+Istanbul;0.0
+Palembang;0.9
+Istanbul;25.2
+Hamburg;20.9
+Bridgetown;14.9
+Bridgetown;19.3
+Roseau;26.6
+Cracow;3.2
+Hamburg;27.4
+Palembang;6.3
+Bridgetown;19.9
+Istanbul;13.6
+Conakry;11.5
+Bridgetown;23.9
+Bulawayo;7.8
+Palembang;30.0
+Cracow;20.7
+Bulawayo;26.8
+Bulawayo;27.2
+Roseau;19.6
+Conakry;29.0
+Hamburg;9.6
+Bulawayo;2.0
+Cracow;20.6
+Conakry;2.2
+Cracow;0.2
+Palembang;16.3
+St. John's;29.4
+Cracow;11.7
+Cracow;22.8
+Istanbul;21.2
+Bridgetown;8.2
+Istanbul;20.4
+Palembang;24.2
+St. John's;13.5
+Bulawayo;1.5
+Istanbul;22.6
+Palembang;19.3
+Hamburg;2.4
+Roseau;2.6
+Cracow;9.2
+Bulawayo;21.7
+Hamburg;5.1
+Hamburg;12.9
+Bridgetown;4.1
+Istanbul;19.6
+Palembang;16.9
+Roseau;25.8
+Cracow;24.2
+Palembang;8.2
+Cracow;11.0
+Bulawayo;29.2
+Roseau;15.0
+Cracow;0.9
+Istanbul;5.0
+Istanbul;27.9
+Hamburg;16.8
+Conakry;12.5
+St. John's;8.8
+Palembang;11.8
+Hamburg;7.3
+Bulawayo;28.9
+Bridgetown;9.0
+Roseau;14.3
+Istanbul;19.0
+Istanbul;28.4
+Bulawayo;23.8
+Palembang;7.4
+Hamburg;24.4
+Bulawayo;22.3
+Palembang;16.3
+Roseau;27.5
+St. John's;25.5
+Cracow;6.9
+Hamburg;0.6
+Istanbul;15.2
+Palembang;13.3
+Roseau;3.5
+Palembang;20.6
+Bulawayo;0.2
+St. John's;4.3
+Istanbul;11.4
+Bulawayo;3.1
+Palembang;16.4
+Istanbul;6.0
+St. John's;12.4
+Hamburg;5.3
+St. John's;11.3
+Istanbul;6.6
+Bulawayo;14.5
+Conakry;25.4
+Istanbul;22.6
+St. John's;15.6
+Istanbul;2.1
+St. John's;3.6
+St. John's;25.9
+Hamburg;1.5
+Roseau;27.2
+Istanbul;2.6
+Conakry;18.6
+Bridgetown;21.3
+Bridgetown;1.4
+Palembang;21.9
+Conakry;27.4
+Conakry;1.6
+Bulawayo;7.4
+Roseau;5.9
+Bridgetown;2.2
+Hamburg;11.5
+Roseau;25.4
+Conakry;22.0
+Bulawayo;13.1
+Istanbul;25.0
+Cracow;21.0
+St. John's;6.5
+Bulawayo;18.8
+Bulawayo;7.2
+Conakry;5.7
+Hamburg;24.9
+Roseau;29.9
+Conakry;22.0
+Palembang;8.7
+St. John's;5.6
+Istanbul;9.5
+Cracow;6.8
+Bridgetown;8.1
+St. John's;2.5
+Istanbul;29.3
+Roseau;6.2
+Roseau;6.8
+Bulawayo;24.0
+Cracow;8.0
+Hamburg;21.4
+Bulawayo;24.7
+Hamburg;7.8
+Palembang;14.2
+Istanbul;16.8
+Conakry;6.5
+Cracow;3.2
+Conakry;7.9
+Palembang;18.7
+Palembang;9.6
+Conakry;26.2
+Palembang;13.4
+St. John's;2.4
+Roseau;26.3
+Istanbul;11.1
+Cracow;5.3
+Cracow;6.3
+Conakry;20.6
+Bridgetown;0.5
+Palembang;17.2
+Cracow;21.1
+Cracow;9.8
+Roseau;22.8
+St. John's;7.4
+Conakry;6.7
+Cracow;15.9
+Roseau;2.5
+Istanbul;24.2
+St. John's;4.4
+St. John's;1.8
+Istanbul;5.0
+Hamburg;16.9
+Bridgetown;23.9
+Cracow;4.9
+Bulawayo;29.2
+Istanbul;7.1
+Bridgetown;23.9
+Roseau;8.0
+Palembang;21.4
+Bridgetown;8.7
+Hamburg;24.2
+Bulawayo;26.6
+Bulawayo;5.2
+Roseau;28.8
+Bulawayo;13.4
+St. John's;1.4
+Conakry;0.9
+Palembang;4.1
+Bulawayo;11.8
+Istanbul;23.1
+Istanbul;10.7
+Istanbul;19.2
+Hamburg;16.6
+Bulawayo;8.8
+St. John's;20.8
+Bridgetown;24.5
+Conakry;25.9
+Conakry;4.2
+Bridgetown;17.1
+Cracow;6.3
+Hamburg;8.8
+Istanbul;9.4
+Bulawayo;6.0
+Hamburg;4.7
+Palembang;4.1
+Palembang;10.2
+Palembang;26.1
+Conakry;20.8
+Conakry;6.4
+Bulawayo;29.3
+Conakry;11.6
+Istanbul;16.3
+Bridgetown;13.4
+Bulawayo;2.5
+Bridgetown;11.0
+Cracow;0.0
+Conakry;9.5
+Conakry;27.7
+Roseau;23.4
+Conakry;3.3
+Bridgetown;13.6
+Conakry;1.6
+Bulawayo;14.0
+Hamburg;11.4
+Palembang;2.8
+Conakry;3.3
+Bridgetown;29.4
+Bridgetown;16.7
+Bulawayo;8.5
+Hamburg;8.8
+Palembang;21.5
+Hamburg;25.8
+Hamburg;11.9
+Bulawayo;28.7
+Bulawayo;29.5
+Roseau;10.5
+Hamburg;8.6
+St. John's;20.4
+Roseau;1.0
+Bulawayo;9.9
+St. John's;24.1
+Hamburg;21.9
+Istanbul;11.7
+Bulawayo;21.7
+Palembang;2.3
+Istanbul;13.6
+Bulawayo;25.8
+St. John's;6.8
+Cracow;10.3
+St. John's;23.7
+Cracow;4.4
+Bridgetown;11.8
+Conakry;5.8
+St. John's;17.1
+Istanbul;10.7
+Hamburg;0.8
+St. John's;23.0
+Istanbul;18.1
+Palembang;13.6
+Bulawayo;1.9
+Bridgetown;6.6
+Bridgetown;10.8
+Palembang;6.8
+Roseau;3.1
+Istanbul;4.6
+Hamburg;7.8
+Istanbul;16.5
+Bulawayo;10.9
+Roseau;20.0
+Roseau;28.0
+St. John's;4.1
+Hamburg;22.5
+Conakry;21.0
+Bulawayo;7.6
+Conakry;15.2
+Istanbul;16.6
+Cracow;22.3
+Istanbul;13.4
+Istanbul;6.6
+Conakry;8.9
+Istanbul;26.8
+Palembang;15.9
+Conakry;26.8
+St. John's;12.8
+Roseau;24.3
+St. John's;19.9
+Istanbul;24.5
+Roseau;7.3
+Hamburg;0.8
+Istanbul;7.5
+Cracow;1.4
+Roseau;4.2
+Cracow;13.3
+Istanbul;29.2
+Hamburg;4.1
+Conakry;14.9
+Conakry;16.1
+Roseau;21.2
+St. John's;25.4
+St. John's;21.4
+Hamburg;8.4
+Bulawayo;27.1
+Bridgetown;18.8
+Bulawayo;0.3
+Palembang;8.0
+Roseau;4.0
+Cracow;23.1
+Bulawayo;6.4
+Cracow;17.2
+Conakry;18.9
+Conakry;12.2
+Conakry;2.2
+Bridgetown;1.5
+Bridgetown;10.6
+Cracow;19.5
+Hamburg;1.0
+Cracow;22.9
+Palembang;23.6
+Cracow;17.2
+Conakry;4.5
+Istanbul;2.0
+Istanbul;7.6
+Hamburg;16.3
+St. John's;13.8
+Conakry;25.4
+Conakry;15.0
+Palembang;10.9
+Hamburg;18.4
+Conakry;22.3
+St. John's;13.1
+Palembang;23.1
+Conakry;15.1
+Hamburg;19.5
+Bulawayo;29.6
+St. John's;24.3
+St. John's;6.6
+Conakry;5.7
+Bridgetown;29.8
+Conakry;12.2
+Cracow;8.1
+Bridgetown;8.7
+Roseau;29.7
+Palembang;19.8
+Istanbul;23.3
+Istanbul;22.7
+St. John's;25.0
+Hamburg;27.5
+Istanbul;10.4
+Bridgetown;3.6
+Palembang;13.6
+Cracow;5.1
+Roseau;6.2
+Roseau;5.1
+Istanbul;20.1
+Roseau;24.5
+Hamburg;8.5
+Cracow;21.1
+Palembang;21.9
+Bridgetown;16.7
+Bulawayo;29.9
+Cracow;13.0
+Palembang;21.2
+Bridgetown;25.6
+Istanbul;14.8
+St. John's;28.8
+Cracow;28.9
+Bridgetown;28.5
+Bulawayo;1.0
+Palembang;7.3
+Cracow;23.3
+Palembang;16.8
+Hamburg;2.6
+Bridgetown;5.1
+Bulawayo;1.7
+St. John's;17.4
+Bridgetown;22.1
+Cracow;28.2
+Hamburg;12.6
+St. John's;17.8
+Istanbul;13.0
+Hamburg;18.8
+Bulawayo;5.4
+Bridgetown;18.0
+Istanbul;19.9
+Bridgetown;8.6
+Istanbul;6.1
+St. John's;11.6
+Bridgetown;12.9
+Istanbul;19.5
+Palembang;25.0
+Cracow;10.4
+Hamburg;14.2
+Bulawayo;25.6
+Hamburg;20.0
+Palembang;10.2
+Conakry;14.9
+Roseau;9.2
+Hamburg;17.9
+St. John's;23.5
+Conakry;4.6
+Cracow;6.5
+Hamburg;25.3
+Palembang;15.6
+Bulawayo;15.6
+Cracow;4.0
+Bridgetown;4.4
+Bridgetown;27.3
+Roseau;4.8
+Bulawayo;16.5
+St. John's;15.4
+Palembang;19.0
+Palembang;29.3
+St. John's;14.8
+Palembang;29.6
+Conakry;29.4
+Hamburg;15.8
+Istanbul;8.3
+Palembang;5.7
+Bridgetown;1.5
+Conakry;23.8
+Hamburg;27.1
+Istanbul;27.1
+Bulawayo;26.7
+Bulawayo;30.0
+Cracow;11.1
+Conakry;14.5
+Palembang;23.5
+Roseau;25.9
+Bulawayo;29.1
+St. John's;21.0
+Roseau;12.0
+St. John's;29.9
+Istanbul;9.8
+Istanbul;11.7
+St. John's;8.6
+Cracow;21.2
+St. John's;4.4
+Roseau;27.7
+Cracow;3.4
+Conakry;5.4
+Bridgetown;20.9
+St. John's;14.2
+Istanbul;2.3
+St. John's;2.9
+Conakry;2.1
+Cracow;18.3
+St. John's;29.1
+Cracow;19.8
+Roseau;9.7
+Cracow;23.8
+Palembang;15.4
+Bulawayo;16.1
+Istanbul;29.0
+Roseau;16.1
+St. John's;1.4
+Hamburg;0.8
+Bulawayo;5.3
+Palembang;28.2
+Hamburg;5.4
+Bulawayo;9.4
+Bridgetown;22.1
+Conakry;10.7
+Cracow;7.0
+Istanbul;17.8
+Bridgetown;24.4
+Bridgetown;4.3
+Palembang;30.0
+Hamburg;10.3
+Bridgetown;2.4
+Cracow;24.2
+Istanbul;15.0
+Bridgetown;5.9
+St. John's;16.3
+Istanbul;14.6
+Hamburg;15.0
+Cracow;25.9
+St. John's;3.1
+Cracow;19.7
+Roseau;23.3
+Istanbul;26.6
+Palembang;16.3
+Bridgetown;26.4
+Bulawayo;6.2
+Conakry;21.2
+Palembang;22.3
+Roseau;25.1
+Cracow;21.4
+Conakry;11.7
+Palembang;14.4
+Cracow;24.7
+Istanbul;28.2
+Bulawayo;10.6
+Bridgetown;13.2
+Roseau;5.8
+Cracow;5.3
+Bridgetown;20.2
+Bulawayo;15.0
+Istanbul;22.9
+Palembang;13.1
+Hamburg;5.0
+St. John's;21.4
+Hamburg;11.0
+Istanbul;7.2
+Bridgetown;3.9
+St. John's;0.0
+Hamburg;15.0
+Cracow;28.7
+Conakry;5.5
+Bulawayo;26.1
+Hamburg;14.3
+Palembang;13.9
+Bulawayo;3.1
+Conakry;17.3
+Bridgetown;13.8
+St. John's;25.8
+Bridgetown;9.9
+Hamburg;10.2
+Bridgetown;9.1
+Bulawayo;29.1
+Conakry;27.2
+Bridgetown;6.1
+Palembang;2.1
+Hamburg;15.5
+Istanbul;4.5
+Roseau;3.7
+Conakry;12.9
+St. John's;28.8
+Istanbul;16.6
+Roseau;11.9
+St. John's;4.3
+Hamburg;3.2
+Conakry;8.9
+Hamburg;13.2
+Bulawayo;25.1
+Conakry;18.5
+Hamburg;20.0
+Palembang;10.6
+Hamburg;7.7
+Istanbul;10.0
+Roseau;8.0
+Bulawayo;12.3
+Hamburg;19.8
+Cracow;8.7
+Conakry;9.7
+Istanbul;13.2
+Cracow;18.8
+Bridgetown;2.0
+Bridgetown;29.0
+Bridgetown;26.4
+Bulawayo;28.1
+Roseau;2.3
+Roseau;1.6
+Bulawayo;16.4
+Bridgetown;21.2
+Bulawayo;3.1
+Roseau;10.1
+Palembang;24.7
+Palembang;15.3
+Bulawayo;4.3
+Bridgetown;11.6
+Conakry;4.8
+Conakry;19.7
+Cracow;20.6
+Roseau;0.0
+Cracow;4.9
+Roseau;28.7
+Conakry;11.7
+Hamburg;6.2
+Bulawayo;29.7
+Roseau;20.5
+Conakry;24.2
+Palembang;13.9
+Cracow;26.7
+Palembang;28.4
+Bulawayo;12.1
+Palembang;22.6
+Bulawayo;20.3
+Bridgetown;13.9
+Bulawayo;10.4
+Hamburg;18.1
+Cracow;17.3
+Hamburg;26.8
+Palembang;25.1
+Conakry;6.5
+Palembang;21.7
+Hamburg;6.9
+Hamburg;15.7
+Cracow;10.2
+Bulawayo;12.1
+Hamburg;2.4
+Hamburg;0.8
+Hamburg;15.4
+Cracow;10.0
+Bridgetown;27.1
+Roseau;1.5
+Cracow;0.7
+Conakry;21.2
+Bridgetown;3.9
+Hamburg;20.1
+Conakry;24.1
+Istanbul;7.4
+Bulawayo;13.5
+St. John's;6.0
+St. John's;23.5
+Conakry;2.8
+Bulawayo;26.3
+Conakry;14.1
+Cracow;3.4
+Bridgetown;28.6
+Hamburg;20.1
+Bulawayo;9.4
+Cracow;4.1
+Conakry;22.8
+Bulawayo;8.2
+Bulawayo;28.2
+Bridgetown;2.6
+Bridgetown;18.0
+Conakry;22.9
+Roseau;23.1
+Istanbul;28.5
+Hamburg;0.8
+Istanbul;23.9
+Cracow;23.3
+Cracow;16.6
+Hamburg;2.9
+Roseau;4.4
+Cracow;24.9
+Istanbul;28.2
+Istanbul;29.9
+St. John's;13.7
+Roseau;18.0
+Cracow;16.5
+Hamburg;24.8
+Palembang;28.0
+Bulawayo;10.1
+Roseau;13.4
+Bridgetown;28.2
+St. John's;17.0
+Bridgetown;15.7
+Roseau;20.1
+Palembang;8.4
+St. John's;2.3
+Cracow;17.9
+Istanbul;19.0
+Palembang;3.9
+Cracow;16.6
+Bulawayo;22.1
+Conakry;2.9
+Bulawayo;17.5
+Cracow;18.9
+Bulawayo;22.3
+Hamburg;17.4
+Bulawayo;12.5
+Bridgetown;9.4
+Bulawayo;1.6
+Bridgetown;13.0
+Hamburg;12.2
+Istanbul;25.5
+Cracow;1.4
+Hamburg;5.9
+Istanbul;7.6
+Istanbul;18.7
+Roseau;19.7
+Hamburg;11.7
+Bridgetown;15.3
+St. John's;3.6
+Cracow;3.1
+Roseau;14.6
+Palembang;19.6
+Cracow;1.4
+Roseau;10.6
+Conakry;23.4
+Istanbul;24.2
+Cracow;16.2
+Conakry;1.9
+Istanbul;28.3
+St. John's;7.2
+Palembang;22.8
+St. John's;4.4
+Palembang;10.6
+St. John's;10.7
+Palembang;3.5
+St. John's;22.1
+Roseau;29.2
+Cracow;14.0
+Bridgetown;26.4
+Cracow;13.3
+St. John's;10.2
+Bulawayo;10.4
+Conakry;2.2
+Bridgetown;14.7
+Cracow;29.8
+Palembang;5.4
+Bridgetown;12.0
+Conakry;1.4
+Istanbul;4.5
+Istanbul;26.6
+Palembang;24.5
+Bulawayo;16.2
+St. John's;13.2
+Palembang;24.1
+Istanbul;18.5
+Cracow;20.5
+Roseau;28.4
+Istanbul;9.7
+Palembang;8.9
+Bulawayo;11.5
+Conakry;20.7
+Istanbul;8.4
+Bridgetown;1.3
+Bridgetown;26.9
+Bridgetown;9.4
+Conakry;11.4
+Istanbul;24.4
+Istanbul;1.2
+Bulawayo;18.4
+Palembang;22.6
+Istanbul;16.4
+Hamburg;8.6
+Cracow;7.3
+Hamburg;20.4
+Conakry;11.7
+Conakry;29.8
+Hamburg;15.6
+Bridgetown;24.6
+Roseau;21.2
+Conakry;22.1
+St. John's;21.1
+Istanbul;17.3
+Conakry;5.9
+Palembang;14.6
+Conakry;11.8
+Bridgetown;18.1
+Bridgetown;4.8
+Istanbul;18.7
+Roseau;7.4
+St. John's;13.2
+Roseau;25.9
+Istanbul;2.4
+Cracow;10.0
+St. John's;21.2
+Cracow;6.3
+Bulawayo;3.1
+Roseau;1.9
+Istanbul;12.5
+Roseau;1.0
+Roseau;29.5
+Istanbul;7.1
+Istanbul;7.1
+Istanbul;18.3
+St. John's;6.2
+Bulawayo;30.0
+Bridgetown;17.5
+Conakry;2.5
+Palembang;18.6
+Hamburg;4.0
+Bulawayo;4.3
+Cracow;21.6
+St. John's;27.5
+Bulawayo;18.0
+Palembang;5.8
+Istanbul;22.4
+Istanbul;0.6
+Roseau;18.9
+Conakry;25.8
+Cracow;6.7
+Bulawayo;0.9
+Bridgetown;19.6
+Bridgetown;5.2
+Conakry;0.6
+Istanbul;15.7
+Conakry;22.8
+Cracow;0.5
+Roseau;23.8
+St. John's;19.4
+Bulawayo;1.5
+Cracow;20.7
+Palembang;21.2
+St. John's;6.2
+Conakry;4.3
+Hamburg;9.5
+Roseau;8.0
+Hamburg;11.2
+Bridgetown;26.9
+St. John's;12.5
+Istanbul;25.5
+Conakry;24.3
+Roseau;14.8
+Cracow;17.3
+Istanbul;20.4
+Bulawayo;29.4
+Palembang;25.6
+Bulawayo;5.1
+Istanbul;7.7
+Hamburg;19.0
+Bulawayo;22.2
+Istanbul;26.4
+Bridgetown;24.2
+Cracow;7.0
+Roseau;8.9
+Palembang;6.3
+Cracow;3.3
+Conakry;3.5
+Palembang;6.1
+Cracow;13.4
+Conakry;7.6
+Bridgetown;14.7
+St. John's;29.3
+Bridgetown;25.7
+Palembang;0.2
+Cracow;5.8
+Palembang;12.0
+Cracow;27.2
+Cracow;28.2
+Roseau;28.1
+Cracow;23.0
+Conakry;4.8
+Istanbul;20.9
+Conakry;0.8
+Cracow;0.4
+Hamburg;22.5
+Hamburg;0.7
+Istanbul;1.2
+Istanbul;15.6
+St. John's;28.7
+Palembang;28.5
+Roseau;20.7
+Bulawayo;8.5
+Conakry;0.7
+Hamburg;25.0
+Conakry;17.0
+Bridgetown;8.1
+Palembang;11.3
+Palembang;0.3
+Istanbul;1.0
+Roseau;22.7
+Hamburg;8.8
+Roseau;25.7
+Hamburg;17.7
+Hamburg;13.8
+Conakry;15.7
+Bridgetown;29.3
+Bulawayo;3.0
+Istanbul;15.2
+Roseau;24.9
+Cracow;19.1
+Istanbul;2.8
+Roseau;24.3
+St. John's;23.6
+Bulawayo;26.7
+Istanbul;0.8
+Cracow;12.6
+Cracow;3.7
+St. John's;10.2
+Palembang;17.4
+Hamburg;13.8
+St. John's;25.7
+Cracow;10.7
+Istanbul;7.9
+St. John's;0.3
+Hamburg;19.4
+Conakry;25.2
+Hamburg;5.2
+Istanbul;11.2
+Cracow;15.8
+Bulawayo;18.8
+Hamburg;0.3
+Hamburg;19.5
+Bulawayo;26.1
+Istanbul;18.5
+Istanbul;21.2
+Conakry;3.6
+Conakry;18.7
+St. John's;21.7
+Conakry;14.1
+Bulawayo;19.4
+Cracow;19.5
+Conakry;8.6
+Palembang;10.1
+Roseau;18.5
+Roseau;25.5
+Conakry;12.6
+Hamburg;27.8
+Bulawayo;23.2
+Bridgetown;10.7
+Hamburg;29.2
+Conakry;22.9
+Istanbul;18.2
+St. John's;25.9
+Cracow;22.0
+Cracow;7.4
+Conakry;17.5
+Roseau;1.8
+Bridgetown;10.7
+Conakry;11.0
+Bulawayo;1.6
+St. John's;7.0
+Hamburg;12.0
+Istanbul;8.8
+Conakry;15.2
+St. John's;10.7
+Istanbul;7.6
+Istanbul;21.0
+Bulawayo;17.0
+Hamburg;16.9
+Conakry;1.2
+Roseau;2.3
+Cracow;26.2
+Conakry;10.9
+Hamburg;22.9
+St. John's;18.2
+Bridgetown;25.1
+St. John's;1.6
+Roseau;29.0
+Bridgetown;17.1
+Roseau;23.7
+Conakry;19.7
+St. John's;12.7
+Bridgetown;1.4
+Bulawayo;22.6
+Bulawayo;3.2
+Cracow;19.1
+Cracow;6.1
+Palembang;17.3
+St. John's;19.0
+Bridgetown;18.2
+St. John's;18.0
+Bridgetown;28.5
+Bulawayo;3.9
+Cracow;29.9
+Bridgetown;18.1
+Bulawayo;26.4
+St. John's;26.9
+St. John's;5.2
+Bulawayo;17.5
+Hamburg;24.7
+Conakry;22.0
+Bridgetown;7.8
+Istanbul;13.5
+Conakry;18.3
+Istanbul;7.7
+Bulawayo;3.1
+Conakry;16.7
+Cracow;22.9
+Cracow;22.5
+St. John's;17.3
+Roseau;0.3
+Cracow;13.9
+Hamburg;15.4
+Conakry;20.7
+Bulawayo;2.4
+Roseau;20.8
+Istanbul;2.3
+Istanbul;26.5
+Istanbul;19.9
+Hamburg;9.5
+Roseau;19.3
+Conakry;22.9
+Palembang;26.4
+Bulawayo;7.8
+Roseau;25.9
+Palembang;17.2
+Bulawayo;20.1
+Istanbul;28.7
+Palembang;0.8
+Bulawayo;17.1
+Bulawayo;29.8
+Bridgetown;29.0
+Bulawayo;3.8
+Cracow;23.0
+Hamburg;9.2
+Conakry;14.6
+Conakry;22.3
+Cracow;17.9
+Bridgetown;14.7
+Bridgetown;0.6
+Roseau;7.9
+St. John's;3.4
+Hamburg;24.1
+Bridgetown;2.7
+St. John's;8.3
+Hamburg;4.9
+St. John's;6.3
+Hamburg;15.3
+Hamburg;24.1
+St. John's;18.0
+Cracow;1.3
+Roseau;26.7
+Cracow;8.0
+St. John's;6.2
+Hamburg;5.8
+Hamburg;22.5
+Cracow;16.5
+Conakry;19.0
+Conakry;23.8
+Istanbul;17.4
+Cracow;25.4
+Bulawayo;25.0
+Hamburg;16.3
+Hamburg;8.7
+Palembang;17.2
+Cracow;22.0
+Conakry;10.6
+Istanbul;28.0
+Palembang;5.4
+Hamburg;6.8
+Istanbul;24.7
+Istanbul;29.4
+Cracow;17.7
+Istanbul;6.2
+St. John's;2.9
+Conakry;11.3
+Istanbul;29.1
+Cracow;5.5
+Roseau;5.5
+Palembang;25.0
+Hamburg;0.5
+Roseau;23.3
+Hamburg;6.0
+Palembang;10.0
+Cracow;23.3
+St. John's;28.7
+Cracow;18.0
+Hamburg;22.7
+Hamburg;22.7
+Istanbul;4.6
+Palembang;23.1
+Hamburg;10.2
+Cracow;0.6
+Palembang;25.3
+St. John's;6.6
+Hamburg;16.3
+Roseau;7.7
+Conakry;8.7
+Hamburg;5.4
+Conakry;23.8
+Roseau;20.9
+Cracow;28.6
+Hamburg;1.9
+Cracow;17.6
+Hamburg;17.7
+Conakry;4.7
+Bridgetown;7.9
+Istanbul;27.9
+Bulawayo;19.4
+Roseau;20.6
+St. John's;5.5
+Roseau;27.8
+Bridgetown;20.7
+Hamburg;9.8
+Istanbul;5.4
+Conakry;5.4
+Cracow;14.1
+Palembang;28.9
+Conakry;12.6
+Hamburg;10.4
+St. John's;25.2
+Roseau;16.8
+Roseau;5.9
+Conakry;19.2
+St. John's;2.0
+Bulawayo;7.7
+Bulawayo;4.9
+Conakry;24.1
+Istanbul;7.6
+Roseau;10.6
+Bulawayo;11.8
+Conakry;12.0
+Cracow;26.3
+Bridgetown;12.9
+Roseau;23.4
+Bridgetown;8.8
+Hamburg;15.7
+Cracow;17.1
+Cracow;11.2
+Cracow;3.9
+St. John's;27.1
+Roseau;9.4
+Conakry;6.6
+Cracow;1.9
+Palembang;16.3
+Bridgetown;27.5
+Istanbul;1.2
+Bulawayo;12.2
+Bulawayo;8.7
+Bridgetown;13.6
+Istanbul;21.2
+St. John's;7.5
+Conakry;27.6
+Cracow;14.7
+Cracow;22.8
+Istanbul;27.5
+Palembang;28.4
+Istanbul;25.2
+Bridgetown;18.9
+Cracow;20.1
+St. John's;20.2
+Bridgetown;26.8
+Bridgetown;29.9
+Cracow;10.0
+Palembang;6.5
+Conakry;28.0
+Palembang;8.3
+Cracow;15.9
+Bridgetown;17.2
+St. John's;9.4
+Bridgetown;27.1
+Hamburg;7.1
+Bridgetown;3.9
+Conakry;20.3
+Palembang;7.8
+Roseau;17.9
+St. John's;24.8
+St. John's;11.2
+Istanbul;27.4
+Palembang;28.9
+Hamburg;26.0
+Palembang;4.6
+Roseau;26.3
+Bulawayo;11.0
+Istanbul;2.6
+Roseau;2.4
+St. John's;10.0
+St. John's;16.4
+Hamburg;18.2
+St. John's;4.1
+Istanbul;29.2
+Roseau;19.1
+Hamburg;8.4
+Bridgetown;24.0
+Istanbul;18.3
+Roseau;1.2
+Roseau;21.7
+Bridgetown;0.5
+Bridgetown;22.4
+Bridgetown;12.6
+Cracow;23.2
+Palembang;16.7
+Bridgetown;12.4
+Conakry;26.8
+Cracow;17.2
+Cracow;28.4
+Cracow;3.5
+Palembang;11.5
+Cracow;27.7
+Palembang;28.2
+Bulawayo;14.7
+Conakry;28.2
+Istanbul;15.8
+Roseau;3.7
+Istanbul;1.0
+Bulawayo;17.9
+Hamburg;4.6
+Bridgetown;29.8
+Palembang;13.9
+Palembang;21.5
+Bridgetown;26.3
+Conakry;16.7
+Palembang;9.7
+Cracow;18.2
+Cracow;13.4
+Bridgetown;24.0
+Cracow;5.4
+Cracow;8.7
+Palembang;13.4
+Roseau;6.6
+Conakry;21.7
+Palembang;5.3
+Bridgetown;5.1
+Bulawayo;20.1
+Bridgetown;25.3
+Bulawayo;10.8
+Palembang;20.1
+Bridgetown;22.3
+St. John's;23.4
+Roseau;27.9
+Cracow;26.3
+Cracow;7.1
+Bridgetown;5.4
+Hamburg;20.7
+Istanbul;8.9
+St. John's;24.8
+Istanbul;8.6
+Hamburg;12.7
+Hamburg;29.0
+Palembang;14.5
+Hamburg;2.5
+Conakry;9.2
+Palembang;22.7
+St. John's;20.2
+Palembang;9.7
+Bulawayo;7.8
+Conakry;14.7
+Cracow;26.9
+Conakry;5.0
+Bulawayo;17.9
+Roseau;9.0
+Istanbul;29.3
+Roseau;1.2
+St. John's;24.0
+Bridgetown;15.3
+St. John's;21.3
+Cracow;28.7
+Bridgetown;4.6
+Bulawayo;20.8
+Istanbul;4.8
+St. John's;19.7
+Conakry;26.4
+Bridgetown;7.2
+Hamburg;10.4
+Istanbul;25.5
+Palembang;18.1
+Roseau;0.8
+Bulawayo;21.4
+Cracow;27.8
+Palembang;5.3
+Hamburg;13.4
+St. John's;6.6
+Bridgetown;15.5
+Palembang;28.7
+St. John's;20.0
+Bridgetown;11.6
+Conakry;1.6
+St. John's;9.8
+Bridgetown;21.3
+Bridgetown;9.7
+Bridgetown;9.3
+Istanbul;2.8
+Cracow;10.1
+Hamburg;19.4
+St. John's;25.0
+Roseau;5.0
+Bulawayo;23.1
+Conakry;12.7
+Bulawayo;30.0
+Bridgetown;8.1
+Conakry;20.8
+Palembang;2.8
+Istanbul;25.4
+Roseau;14.5
+Conakry;9.8
+Conakry;25.4
+Roseau;22.0
+Bridgetown;8.8
+Palembang;19.3
+Hamburg;21.6
+Roseau;9.1
+Cracow;4.9
+Bridgetown;25.6
+Roseau;28.3
+Palembang;24.1
+Bridgetown;25.7
+Istanbul;2.9
+St. John's;24.0
+Roseau;12.5
+Istanbul;3.2
+Hamburg;2.3
+Cracow;7.3
+Bulawayo;21.1
+St. John's;12.9
+Conakry;23.0
+Cracow;0.2
+Conakry;15.1
+Bulawayo;4.7
+Conakry;3.6
+Palembang;21.6
+Conakry;12.8
+Hamburg;6.6
+Palembang;5.0
+Bridgetown;11.3
+Cracow;2.3
+Cracow;12.9
+Roseau;14.0
+Bridgetown;16.3
+Hamburg;4.3
+Conakry;3.2
+Bulawayo;14.2
+Cracow;3.0
+Bulawayo;4.3
+Cracow;19.0
+Palembang;10.1
+Roseau;20.3
+Conakry;6.5
+Cracow;9.2
+Bulawayo;4.6
+Bridgetown;13.7
+St. John's;10.9
+Palembang;2.7
+Bulawayo;22.6
+Bulawayo;6.3
+Conakry;20.9
+Bridgetown;15.3
+Hamburg;28.0
+Hamburg;26.1
+Cracow;8.3
+Palembang;0.8
+Palembang;16.4
+Bridgetown;18.6
+Bulawayo;23.3
+Palembang;13.8
+Cracow;16.9
+Cracow;5.5
+Conakry;15.5
+Cracow;12.2
+Roseau;15.1
+Hamburg;5.3
+Bulawayo;27.6
+Hamburg;27.3
+Bulawayo;8.3
+Cracow;21.4
+Palembang;4.0
+Bridgetown;10.7
+Bridgetown;7.2
+Bridgetown;19.6
+Istanbul;5.2
+Cracow;8.4
+Roseau;25.5
+Bulawayo;22.4
+Bridgetown;7.3
+Istanbul;24.3
+Roseau;26.2
+St. John's;6.6
+Roseau;28.4
+Cracow;13.6
+Palembang;18.9
+St. John's;11.7
+Bridgetown;25.4
+Cracow;20.3
+Hamburg;22.1
+Conakry;5.1
+St. John's;4.4
+Roseau;26.0
+Istanbul;1.0
+St. John's;12.5
+Bridgetown;14.3
+Palembang;0.5
+Cracow;15.4
+Roseau;25.3
+St. John's;9.3
+Roseau;11.6
+Bulawayo;10.3
+Istanbul;5.1
+Palembang;3.3
+Bridgetown;26.5
+Istanbul;21.6
+Roseau;16.5
+Hamburg;21.4
+Conakry;19.7
+Istanbul;13.7
+Bridgetown;23.2
+Hamburg;8.4
+Bulawayo;4.4
+Conakry;6.5
+Bridgetown;6.6
+Istanbul;21.8
+St. John's;21.7
+Roseau;16.9
+St. John's;13.3
+St. John's;12.0
+Bridgetown;3.1
+Istanbul;24.4
+Roseau;26.6
+Palembang;16.2
+Roseau;4.8
+Bulawayo;27.4
+Roseau;13.9
+Conakry;22.2
+Conakry;23.7
+Conakry;2.0
+Bridgetown;13.0
+Hamburg;28.2
+Palembang;17.4
+Palembang;29.1
+Bridgetown;24.7
+Bulawayo;23.0
+Conakry;26.4
+Bulawayo;3.6
+Bulawayo;30.0
+Bulawayo;18.3
+Bridgetown;7.6
+Bulawayo;17.1
+Bulawayo;11.1
+Hamburg;26.2
+Bulawayo;4.9
+Bulawayo;2.2
+Cracow;1.2
+Cracow;4.4
+Cracow;19.8
+Cracow;9.4
+Bulawayo;0.3
+Palembang;21.4
+Roseau;28.1
+Palembang;24.2
+Bulawayo;2.4
+Istanbul;14.2
+Bulawayo;22.2
+Hamburg;23.2
+Bridgetown;6.0
+Bridgetown;5.6
+Conakry;9.2
+Istanbul;16.9
+Conakry;1.1
+St. John's;13.2
+Hamburg;25.4
+Palembang;11.2
+Bridgetown;17.5
+Hamburg;9.6
+Conakry;26.1
+Hamburg;7.0
+Bulawayo;29.3
+Palembang;7.7
+St. John's;6.8
+Cracow;2.2
+Conakry;2.9
+Cracow;3.0
+St. John's;9.7
+Hamburg;19.7
+Palembang;1.5
+Conakry;12.0
+Istanbul;9.3
+Bulawayo;10.6
+Bridgetown;28.6
+Hamburg;28.2
+Bulawayo;23.7
+St. John's;16.9
+Bulawayo;24.0
+Cracow;22.6
+Bridgetown;21.6
+Roseau;19.1
+Palembang;19.0
+Roseau;13.5
+Bulawayo;17.8
+St. John's;0.2
+Conakry;25.7
+St. John's;15.9
+St. John's;13.3
+Roseau;6.1
+Roseau;24.3
+Bulawayo;3.2
+Istanbul;0.9
+Cracow;20.1
+Istanbul;26.8
+Cracow;30.0
+Conakry;5.5
+Bulawayo;3.3
+Bridgetown;18.0
+Roseau;6.8
+Cracow;13.4
+St. John's;18.2
+Conakry;21.2
+Palembang;5.5
+Bridgetown;5.8
+Bridgetown;13.4
+Cracow;21.1
+Bulawayo;25.5
+Bulawayo;21.0
+Roseau;6.3
+Bulawayo;29.1
+Cracow;6.6
+Bridgetown;27.2
+Bridgetown;4.2
+St. John's;8.9
+Hamburg;6.5
+Roseau;13.8
+Bridgetown;15.9
+Cracow;3.7
+Palembang;21.2
+Palembang;23.2
+Palembang;27.1
+Cracow;29.4
+Istanbul;5.0
+Cracow;21.0
+Cracow;27.1
+Bulawayo;8.2
+Hamburg;22.8
+Bridgetown;16.6
+Cracow;0.2
+Palembang;10.5
+Istanbul;16.8
+Bulawayo;9.9
+Bulawayo;25.6
+Palembang;28.7
+Roseau;18.8
+Hamburg;14.1
+Hamburg;8.2
+St. John's;29.8
+Bridgetown;28.6
+Conakry;1.3
+St. John's;7.1
+Hamburg;12.3
+Conakry;14.2
+Cracow;6.9
+Palembang;13.5
+Bridgetown;19.0
+Hamburg;22.7
+Palembang;29.1
+Palembang;8.8
+Cracow;11.1
+Roseau;9.7
+Bulawayo;0.0
+Roseau;21.2
+Bulawayo;7.1
+Conakry;29.4
+Conakry;27.5
+Palembang;2.7
+St. John's;12.4
+Cracow;14.3
+Istanbul;13.9
+St. John's;0.9
+St. John's;20.1
+Hamburg;14.6
+Bridgetown;2.1
+Bridgetown;3.7
+Cracow;6.6
+Hamburg;10.0
+St. John's;26.2
+Conakry;23.1
+Hamburg;6.1
+Bridgetown;11.4
+Hamburg;17.9
+Hamburg;1.3
+Conakry;24.2
+Istanbul;24.6
+Hamburg;2.6
+Cracow;17.2
+Conakry;5.1
+Roseau;21.2
+Cracow;23.1
+Bulawayo;0.9
+Conakry;2.7
+Palembang;29.7
+Bulawayo;13.0
+St. John's;21.2
+Conakry;19.4
+Palembang;20.8
+Bulawayo;28.2
+Conakry;27.9
+Palembang;14.0
+Cracow;4.4
+Bulawayo;15.3
+St. John's;21.5
+Bridgetown;28.3
+Cracow;1.2
+Cracow;4.7
+Palembang;13.2
+Roseau;5.1
+Cracow;5.0
+Conakry;1.8
+St. John's;11.9
+Bulawayo;10.7
+Bridgetown;10.8
+St. John's;15.7
+Bulawayo;0.8
+St. John's;5.9
+Hamburg;9.1
+Cracow;26.8
+Conakry;9.6
+Cracow;21.1
+Istanbul;19.7
+Palembang;14.2
+Bridgetown;14.2
+St. John's;21.1
+Bulawayo;25.0
+Bulawayo;7.1
+Roseau;8.8
+Conakry;8.7
+St. John's;26.6
+Palembang;21.2
+Istanbul;0.2
+Roseau;22.1
+Istanbul;12.6
+Roseau;5.5
+Palembang;6.4
+Hamburg;6.3
+Istanbul;26.2
+Palembang;27.4
+Roseau;12.5
+Roseau;22.6
+Bulawayo;7.6
+Conakry;20.5
+St. John's;8.2
+Bulawayo;20.2
+Hamburg;13.3
+St. John's;24.0
+Istanbul;16.0
+Roseau;7.4
+St. John's;3.3
+Istanbul;7.2
+Conakry;20.3
+Bridgetown;6.0
+Palembang;29.3
+Cracow;21.4
+Istanbul;7.1
+St. John's;16.4
+Bridgetown;7.0
+Hamburg;11.6
+Hamburg;22.7
+St. John's;2.6
+Roseau;2.0
+Palembang;1.4
+Roseau;11.8
+Roseau;4.3
+St. John's;21.5
+Hamburg;18.4
+Istanbul;7.6
+Hamburg;26.6
+Istanbul;18.8
+Roseau;28.5
+Roseau;24.7
+Palembang;25.7
+St. John's;4.5
+Cracow;4.5
+Roseau;9.5
+Roseau;5.3
+Roseau;18.9
+Istanbul;9.9
+Istanbul;15.4
+Bulawayo;14.9
+Palembang;27.4
+Istanbul;0.4
+Cracow;24.9
+Hamburg;20.4
+Istanbul;8.9
+Hamburg;3.3
+Conakry;20.4
+Bridgetown;1.4
+Hamburg;6.1
+Istanbul;6.1
+Bridgetown;22.6
+Roseau;12.2
+Hamburg;25.4
+Roseau;3.2
+Roseau;3.3
+Bridgetown;28.8
+Bridgetown;26.6
+Hamburg;9.2
+St. John's;15.7
+Roseau;13.1
+Conakry;13.2
+Palembang;25.1
+Roseau;13.6
+Hamburg;27.6
+Cracow;12.5
+Bulawayo;9.5
+Hamburg;8.9
+Conakry;28.7
+Conakry;24.0
+Hamburg;3.6
+Palembang;15.2
+St. John's;16.7
+Bridgetown;15.5
+Cracow;6.6
+Bridgetown;18.3
+Cracow;15.8
+Roseau;15.4
+Cracow;12.4
+Palembang;12.8
+Palembang;12.0
+Bulawayo;11.8
+Conakry;20.8
+Cracow;28.3
+Roseau;6.5
+Bulawayo;0.7
+Cracow;4.1
+Hamburg;21.6
+Roseau;15.1
+Cracow;23.6
+Cracow;4.6
+Roseau;18.8
+Conakry;20.0
+Conakry;10.7
+St. John's;3.4
+St. John's;10.6
+Roseau;16.4
+Palembang;4.2
+Roseau;6.4
+Bridgetown;27.2
+Hamburg;8.2
+Bridgetown;8.7
+Cracow;24.6
+Istanbul;22.2
+St. John's;5.4
+Hamburg;15.3
+Cracow;8.1
+Bridgetown;17.3
+Roseau;24.7
+Hamburg;27.0
+Istanbul;24.4
+St. John's;2.5
+Roseau;9.9
+St. John's;24.1
+Roseau;1.1
+Bulawayo;26.2
+Bridgetown;6.5
+Roseau;2.1
+Roseau;1.0
+Palembang;29.4
+Bulawayo;14.3
+Istanbul;23.8
+Istanbul;1.4
+Istanbul;1.4
+Hamburg;23.2
+Conakry;6.2
+Conakry;12.2
+Cracow;10.1
+Cracow;16.6
+Bulawayo;15.4
+Cracow;29.5
+Hamburg;0.1
+Bulawayo;4.9
+Palembang;16.4
+Cracow;7.3
+Hamburg;28.4
+Bridgetown;30.0
+Hamburg;11.8
+Conakry;11.5
+Palembang;23.2
+Roseau;7.2
+Roseau;22.1
+Bulawayo;5.3
+Palembang;13.4
+Bulawayo;19.0
+Hamburg;21.4
+Bulawayo;15.8
+Cracow;24.7
+Conakry;22.9
+Bridgetown;29.2
+Cracow;18.6
+Bulawayo;27.6
+Palembang;25.2
+Palembang;8.3
+Bulawayo;22.3
+Cracow;22.7
+Bulawayo;25.0
+Palembang;26.2
+Conakry;29.2
+Istanbul;3.3
+Cracow;18.0
+St. John's;16.4
+Bridgetown;8.6
+Palembang;24.2
+Roseau;22.6
+Istanbul;29.4
+Roseau;4.4
+Istanbul;27.2
+Roseau;15.5
+Istanbul;8.5
+Bulawayo;21.4
+Bridgetown;8.2
+Istanbul;19.1
+Palembang;13.4
+Palembang;22.0
+Roseau;23.5
+Cracow;3.3
+Roseau;28.5
+Palembang;7.2
+Bridgetown;10.5
+Istanbul;14.8
+Palembang;15.4
+St. John's;1.6
+St. John's;11.5
+Conakry;14.3
+Hamburg;7.5
+Roseau;3.3
+Bridgetown;14.6
+St. John's;20.3
+Bridgetown;24.1
+Palembang;11.1
+Istanbul;7.7
+Palembang;29.6
+Bridgetown;23.1
+St. John's;10.4
+Bridgetown;29.3
+Hamburg;23.0
+Palembang;14.7
+Hamburg;9.8
+Istanbul;20.0
+Hamburg;6.5
+St. John's;5.9
+Bulawayo;8.7
+Istanbul;16.7
+Cracow;23.0
+Bridgetown;24.2
+Roseau;17.5
+Istanbul;21.8
+Istanbul;11.4
+Cracow;25.4
+Hamburg;4.4
+Conakry;5.1
+Bulawayo;9.0
+Hamburg;18.4
+Bulawayo;4.0
+Roseau;10.7
+Palembang;11.7
+Conakry;16.9
+Roseau;4.5
+Roseau;20.1
+Bridgetown;27.6
+Palembang;25.4
+Roseau;20.3
+Cracow;12.7
+St. John's;22.2
+Hamburg;29.2
+Hamburg;4.5
+Roseau;13.8
+Roseau;9.0
+Conakry;18.7
+Roseau;4.0
+Bulawayo;14.7
+St. John's;2.3
+Istanbul;10.3
+Istanbul;24.2
+Cracow;1.0
+Palembang;20.7
+St. John's;10.4
+Cracow;1.7
+St. John's;5.9
+Bulawayo;4.8
+Cracow;1.9
+Palembang;24.8
+Cracow;0.3
+Roseau;29.0
+St. John's;21.4
+Hamburg;2.5
+Roseau;20.7
+Hamburg;18.5
+Bulawayo;25.1
+Roseau;0.1
+Istanbul;2.2
+Hamburg;29.1
+Cracow;27.6
+Roseau;24.2
+St. John's;0.1
+Istanbul;20.9
+Hamburg;1.1
+Cracow;2.1
+St. John's;13.1
+Palembang;10.0
+Istanbul;29.4
+Cracow;3.5
+Palembang;10.8
+Hamburg;21.5
+Roseau;0.2
+Hamburg;7.9
+Hamburg;6.0
+Bridgetown;7.7
+Conakry;8.3
+Roseau;10.6
+Bulawayo;7.5
+St. John's;12.1
+Bridgetown;10.6
+Conakry;14.5
+Cracow;14.8
+Cracow;12.7
+Bulawayo;26.7
+Istanbul;29.4
+Cracow;2.2
+Istanbul;14.0
+St. John's;4.4
+Roseau;10.1
+Istanbul;11.2
+Bulawayo;8.2
+Palembang;19.4
+Palembang;8.4
+Istanbul;27.0
+Istanbul;23.7
+Conakry;29.9
+Conakry;22.5
+Cracow;23.4
+Bridgetown;10.5
+St. John's;17.4
+Hamburg;18.7
+Roseau;9.5
+Conakry;0.1
+Conakry;23.0
+Palembang;3.2
+St. John's;18.9
+Istanbul;2.7
+Conakry;17.7
+Conakry;1.4
+St. John's;3.8
+St. John's;10.6
+Bulawayo;9.2
+Cracow;15.8
+Istanbul;26.3
+Istanbul;12.2
+Palembang;10.8
+St. John's;10.6
+Istanbul;3.5
+Palembang;15.1
+Bulawayo;2.7
+Bulawayo;10.2
+Bulawayo;1.7
+Conakry;15.2
+Istanbul;4.6
+Istanbul;1.7
+Bridgetown;9.7
+St. John's;8.0
+Istanbul;5.0
+Bridgetown;25.7
+Roseau;5.7
+Cracow;29.0
+Cracow;20.7
+Hamburg;21.6
+St. John's;21.7
+Bulawayo;16.1
+St. John's;7.3
+St. John's;11.1
+Bridgetown;7.8
+Palembang;15.7
+Istanbul;18.4
+Roseau;11.8
+Roseau;22.1
+Palembang;29.8
+Hamburg;8.2
+Cracow;14.9
+Roseau;4.3
+Conakry;23.0
+Bridgetown;12.6
+Conakry;5.9
+Palembang;24.1
+Cracow;5.1
+St. John's;20.1
+St. John's;15.5
+St. John's;24.1
+Bridgetown;25.1
+Cracow;20.0
+Bulawayo;1.3
+St. John's;15.7
+Cracow;26.7
+Hamburg;6.2
+Conakry;24.3
+Istanbul;25.6
+Cracow;8.3
+Bridgetown;26.0
+St. John's;17.8
+Hamburg;25.3
+Roseau;24.5
+Cracow;2.9
+Palembang;28.9
+St. John's;25.0
+Istanbul;8.6
+Bridgetown;14.9
+Cracow;20.7
+Istanbul;14.9
+Bulawayo;29.2
+Palembang;2.2
+Istanbul;22.9
+Hamburg;26.1
+Conakry;8.7
+Conakry;23.2
+Hamburg;6.1
+Hamburg;27.9
+Bridgetown;10.7
+Conakry;5.8
+Bulawayo;7.6
+Roseau;29.0
+Conakry;19.2
+Bridgetown;4.9
+Palembang;20.7
+Hamburg;14.3
+Bridgetown;15.9
+Hamburg;29.2
+Conakry;29.0
+Istanbul;4.0
+Palembang;20.6
+St. John's;19.6
+St. John's;13.8
+Cracow;6.3
+Bridgetown;20.5
+Bulawayo;27.4
+Hamburg;10.3
+Palembang;18.4
+Istanbul;11.9
+St. John's;26.0
+Bulawayo;29.9
+Roseau;21.7
+Palembang;19.5
+Palembang;15.9
+Bridgetown;3.0
+Bridgetown;8.3
+St. John's;3.7
+St. John's;19.4
+St. John's;0.4
+Roseau;27.7
+Hamburg;6.7
+Istanbul;24.4
+Bulawayo;6.2
+Roseau;8.0
+Cracow;23.3
+Hamburg;2.3
+Roseau;0.4
+Roseau;29.8
+St. John's;11.5
+Roseau;18.1
+Roseau;26.9
+Hamburg;11.0
+Palembang;25.6
+Cracow;29.3
+Bulawayo;6.5
+Bulawayo;21.8
+Bulawayo;12.9
+Bulawayo;15.2
+Bridgetown;1.4
+Bulawayo;25.0
+Conakry;1.1
+Bridgetown;11.3
+Cracow;5.0
+Cracow;12.2
+Istanbul;10.0
+Hamburg;7.2
+Bridgetown;25.2
+Cracow;1.6
+Hamburg;7.3
+Conakry;0.4
+Cracow;19.1
+Roseau;7.6
+Roseau;6.2
+Cracow;2.7
+St. John's;8.2
+Bridgetown;28.7
+St. John's;26.3
+Hamburg;17.2
+St. John's;17.2
+Istanbul;24.0
+Bulawayo;29.1
+Bridgetown;22.2
+Palembang;3.4
+Cracow;17.6
+Palembang;19.0
+St. John's;2.7
+Cracow;21.0
+Bridgetown;9.4
+Palembang;9.1
+St. John's;27.1
+Conakry;12.1
+Conakry;1.7
+Roseau;9.5
+Bulawayo;5.4
+Cracow;22.7
+Cracow;11.7
+Hamburg;8.1
+Cracow;28.3
+Palembang;20.7
+Roseau;4.9
+Roseau;1.0
+Roseau;2.9
+St. John's;18.2
+Bulawayo;10.3
+St. John's;18.8
+Conakry;0.2
+St. John's;22.3
+Bulawayo;11.4
+Conakry;4.4
+Hamburg;10.5
+Cracow;10.3
+St. John's;6.2
+Hamburg;12.0
+Cracow;17.6
+Conakry;14.4
+Roseau;9.3
+Bridgetown;2.6
+St. John's;4.0
+Cracow;5.2
+St. John's;15.8
+Palembang;22.6
+Conakry;28.0
+Conakry;1.2
+Bridgetown;22.4
+Bulawayo;21.3
+Hamburg;4.7
+Cracow;5.9
+St. John's;15.4
+Istanbul;21.1
+St. John's;21.9
+Palembang;29.4
+Bulawayo;17.8
+Bulawayo;26.3
+Bridgetown;27.6
+Palembang;15.6
+Conakry;5.8
+St. John's;4.9
+Bulawayo;27.1
+Cracow;5.1
+St. John's;22.9
+Palembang;9.9
+Istanbul;6.2
+Bulawayo;2.4
+Cracow;28.2
+Bulawayo;19.3
+Roseau;21.1
+Istanbul;22.2
+St. John's;25.4
+Hamburg;5.9
+Bridgetown;16.7
+Conakry;14.5
+Conakry;18.6
+Cracow;18.1
+Bridgetown;10.2
+Bridgetown;22.0
+St. John's;23.3
+St. John's;0.8
+Bridgetown;24.7
+Istanbul;3.2
+Bulawayo;2.7
+Cracow;9.8
+Bulawayo;24.7
+Istanbul;10.5
+Hamburg;25.6
+St. John's;3.7
+St. John's;21.5
+Palembang;1.1
+Bulawayo;27.0
+Roseau;2.3
+Palembang;9.9
+Conakry;10.8
+Cracow;16.4
+Conakry;15.3
+Roseau;22.7
+St. John's;20.9
+Palembang;25.1
+Conakry;22.9
+Bridgetown;17.6
+Bridgetown;27.8
+Hamburg;5.8
+Bridgetown;9.1
+Bulawayo;28.8
+Istanbul;18.7
+Bridgetown;26.6
+Hamburg;10.0
+Istanbul;1.7
+Bulawayo;23.6
+Palembang;5.4
+Cracow;9.5
+Hamburg;18.0
+Bulawayo;16.4
+Bulawayo;15.1
+Cracow;7.3
+Hamburg;15.5
+Hamburg;19.9
+Bridgetown;17.2
+St. John's;10.2
+St. John's;19.8
+Bulawayo;23.1
+St. John's;25.7
+Palembang;7.7
+Bridgetown;17.7
+Roseau;13.4
+Bridgetown;8.6
+Palembang;4.9
+Roseau;2.8
+Istanbul;28.8
+Conakry;23.4
+Istanbul;8.4
+Istanbul;28.3
+Cracow;9.4
+Bulawayo;26.2
+Hamburg;12.5
+Roseau;4.3
+Roseau;21.8
+St. John's;18.2
+Palembang;27.9
+Hamburg;8.2
+Bulawayo;14.0
+Bridgetown;3.8
+Cracow;26.5
+St. John's;10.1
+Palembang;16.0
+Roseau;0.8
+Roseau;5.7
+St. John's;20.8
+Conakry;19.4
+St. John's;18.9
+Roseau;17.2
+Cracow;29.0
+Conakry;15.0
+St. John's;23.1
+Bulawayo;28.5
+Palembang;22.3
+Bulawayo;7.7
+St. John's;28.3
+St. John's;6.2
+St. John's;9.1
+Palembang;18.6
+Hamburg;6.3
+Cracow;27.5
+Conakry;17.7
+Roseau;12.9
+Bridgetown;19.1
+Cracow;26.1
+Bridgetown;9.4
+Palembang;29.8
+St. John's;9.3
+Conakry;29.3
+Palembang;10.6
+Cracow;6.2
+St. John's;13.0
+Bulawayo;8.6
+Bridgetown;12.0
+Istanbul;24.1
+Conakry;4.8
+St. John's;8.2
+Bridgetown;18.6
+Palembang;1.8
+Cracow;0.3
+Palembang;1.3
+Bulawayo;1.3
+Roseau;3.5
+Istanbul;4.5
+Bridgetown;12.0
+St. John's;6.0
+Bulawayo;21.4
+Roseau;24.3
+Roseau;12.4
+Hamburg;29.4
+Roseau;6.3
+Palembang;16.4
+Bulawayo;16.3
+Palembang;12.4
+Roseau;16.2
+Hamburg;1.5
+Hamburg;19.6
+Palembang;28.6
+Cracow;8.6
+Hamburg;16.9
+Bridgetown;29.5
+Bridgetown;28.6
+Conakry;25.1
+Roseau;26.4
+Bridgetown;2.9
+Conakry;25.1
+Palembang;24.6
+Conakry;19.0
+Bridgetown;6.2
+Istanbul;2.8
+Istanbul;21.6
+Bridgetown;25.1
+Palembang;24.8
+Hamburg;20.6
+St. John's;5.8
+Palembang;26.3
+St. John's;10.8
+Roseau;14.5
+Bulawayo;11.0
+Hamburg;3.7
+Hamburg;19.7
+Istanbul;27.8
+Hamburg;8.8
+Roseau;17.2
+Roseau;29.4
+St. John's;10.2
+Roseau;26.3
+Bridgetown;4.4
+Palembang;18.1
+Palembang;5.3
+Roseau;15.8
+Palembang;15.3
+Istanbul;25.9
+Roseau;23.7
+Roseau;25.3
+Roseau;13.3
+Bridgetown;8.6
+Cracow;19.6
+Bridgetown;23.6
+Bulawayo;19.2
+Bridgetown;16.9
+Hamburg;6.2
+Palembang;19.4
+Conakry;3.8
+St. John's;7.6
+Cracow;10.2
+Roseau;6.8
+Palembang;27.3
+St. John's;2.0
+St. John's;21.9
+Istanbul;1.9
+Roseau;14.8
+Bridgetown;23.8
+St. John's;18.6
+Hamburg;23.9
+Conakry;27.9
+Istanbul;18.0
+Roseau;24.6
+Conakry;20.7
+Bridgetown;11.8
+Roseau;10.9
+Palembang;19.5
+Roseau;2.2
+Bridgetown;14.9
+Istanbul;2.7
+Conakry;24.7
+Bulawayo;29.1
+Conakry;27.5
+Cracow;10.8
+Roseau;6.8
+Istanbul;28.0
+Cracow;7.3
+Palembang;4.4
+Bulawayo;21.4
+Cracow;24.0
+Hamburg;9.4
+St. John's;11.1
+Roseau;4.2
+St. John's;23.5
+Cracow;12.9
+Bulawayo;21.4
+Hamburg;24.9
+Roseau;20.0
+Cracow;11.3
+Palembang;26.5
+Cracow;0.7
+Hamburg;29.4
+St. John's;23.1
+Bulawayo;21.5
+Istanbul;22.1
+Istanbul;1.5
+St. John's;24.1
+Roseau;25.2
+Istanbul;5.6
+Roseau;19.6
+Roseau;18.2
+Cracow;9.4
+Palembang;6.0
+Cracow;3.3
+Bridgetown;12.6
+Roseau;1.1
+Conakry;7.6
+Palembang;9.0
+Istanbul;19.2
+Cracow;11.3
+Istanbul;10.8
+Conakry;18.4
+Palembang;25.7
+Bridgetown;19.8
+Palembang;27.2
+Istanbul;21.6
+Hamburg;20.5
+Bulawayo;27.9
+Conakry;20.3
+Roseau;24.0
+Hamburg;6.1
+Cracow;10.3
+Istanbul;5.5
+Roseau;9.4
+Cracow;19.0
+St. John's;23.5
+Hamburg;18.9
+Bridgetown;5.6
+Conakry;6.3
+Roseau;23.8
+Palembang;24.1
+Roseau;29.5
+Bridgetown;11.1
+Bulawayo;4.9
+Bridgetown;8.4
+Istanbul;0.1
+Conakry;19.3
+St. John's;10.5
+Cracow;5.0
+Hamburg;22.3
+Cracow;19.7
+Hamburg;28.2
+Bulawayo;6.3
+Bridgetown;6.0
+Cracow;8.2
+Conakry;2.8
+Hamburg;15.6
+Palembang;1.8
+Palembang;1.6
+Conakry;3.9
+Bridgetown;13.0
+Bridgetown;16.4
+Bridgetown;20.5
+Roseau;4.4
+Conakry;11.7
+Istanbul;25.3
+Bulawayo;19.2
+Istanbul;7.5
+St. John's;28.2
+Roseau;0.7
+Roseau;0.8
+Palembang;9.2
+Bulawayo;1.9
+Hamburg;6.1
+St. John's;29.9
+Cracow;3.1
+Bridgetown;5.0
+Conakry;4.6
+Roseau;10.1
+Bulawayo;5.0
+Bulawayo;15.3
+Istanbul;7.7
+Conakry;9.7
+Cracow;8.6
+Istanbul;5.4
+St. John's;14.2
+Istanbul;28.9
+Hamburg;17.3
+Palembang;14.5
+Roseau;12.0
+St. John's;7.3
+St. John's;6.8
+Istanbul;4.3
+Bridgetown;29.0
+Conakry;10.5
+Cracow;25.4
+Bridgetown;26.4
+Conakry;7.3
+Roseau;20.7
+Hamburg;15.9
+Hamburg;2.9
+Cracow;4.7
+Roseau;24.6
+Bulawayo;7.2
+Bulawayo;7.4
+Bulawayo;27.8
+St. John's;19.4
+St. John's;9.0
+Roseau;15.4
+Istanbul;26.7
+Istanbul;18.1
+Cracow;19.0
+Bulawayo;13.8
+St. John's;1.3
+Conakry;14.6
+Roseau;10.3
+Bulawayo;12.9
+Palembang;19.7
+Hamburg;0.0
+Roseau;9.6
+Istanbul;3.7
+St. John's;21.1
+Roseau;17.6
+Cracow;0.5
+Hamburg;1.0
+Cracow;9.6
+Hamburg;12.9
+St. John's;2.8
+Bridgetown;19.9
+Cracow;8.0
+Istanbul;29.3
+Bulawayo;22.8
+Conakry;5.5
+St. John's;27.3
+Palembang;2.1
+Cracow;3.8
+Bulawayo;2.9
+St. John's;16.5
+Palembang;13.5
+Istanbul;29.8
+Hamburg;5.9
+Cracow;3.8
+Cracow;17.3
+Bulawayo;15.6
+Bulawayo;9.1
+Palembang;19.4
+Palembang;12.0
+Bridgetown;10.8
+Cracow;16.1
+Cracow;18.9
+Conakry;6.6
+Istanbul;22.9
+Bulawayo;21.7
+St. John's;7.5
+Istanbul;15.6
+Istanbul;29.3
+Istanbul;2.4
+Palembang;11.4
+Roseau;25.1
+Roseau;6.4
+Istanbul;5.2
+Conakry;12.7
+Hamburg;14.5
+Roseau;29.1
+Roseau;14.1
+Bulawayo;18.3
+Cracow;26.7
+Bulawayo;23.8
+Hamburg;21.3
+Hamburg;0.8
+Hamburg;19.7
+St. John's;27.4
+Hamburg;16.1
+Conakry;0.2
+Conakry;24.2
+Conakry;5.1
+Bulawayo;11.4
+St. John's;21.4
+Istanbul;21.5
+Roseau;18.0
+Palembang;12.0
+Bulawayo;4.2
+St. John's;26.9
+Conakry;14.4
+Bridgetown;27.0
+Bulawayo;0.7
+St. John's;27.8
+St. John's;23.1
+Cracow;13.3
+Hamburg;0.6
+Roseau;23.6
+Bulawayo;24.5
+Bridgetown;7.1
+Conakry;5.0
+Bulawayo;26.2
+Bulawayo;24.1
+Bridgetown;28.4
+Cracow;19.7
+Bridgetown;8.4
+Hamburg;14.0
+Conakry;20.0
+Bridgetown;25.5
+Palembang;21.4
+Istanbul;4.7
+Bulawayo;25.1
+Bulawayo;13.3
+Cracow;5.3
+St. John's;4.6
+Conakry;11.4
+Bridgetown;23.0
+Roseau;13.0
+Istanbul;19.0
+Istanbul;16.3
+Hamburg;28.6
+Bridgetown;11.5
+Bulawayo;10.9
+Cracow;16.2
+Conakry;9.3
+Conakry;13.5
+Bridgetown;18.4
+Cracow;24.1
+Bridgetown;3.6
+Istanbul;9.6
+Istanbul;20.9
+Bulawayo;4.4
+Roseau;26.0
+Palembang;6.5
+Roseau;2.6
+Roseau;5.4
+Istanbul;29.4
+Palembang;15.1
+Bulawayo;5.6
+Bridgetown;2.8
+Istanbul;3.4
+Cracow;26.3
+Hamburg;24.0
+Hamburg;20.5
+Bulawayo;6.4
+Cracow;21.3
+Bridgetown;25.5
+Conakry;26.9
+Palembang;20.7
+Palembang;11.4
+Bulawayo;28.8
+St. John's;12.5
+Roseau;14.0
+Istanbul;14.5
+Cracow;3.0
+Bulawayo;21.1
+Bridgetown;10.5
+Cracow;16.1
+Bulawayo;22.0
+Cracow;14.3
+Conakry;5.5
+Roseau;0.1
+St. John's;22.5
+Roseau;1.4
+Bulawayo;8.9
+Roseau;25.9
+Roseau;10.5
+Istanbul;22.1
+Istanbul;14.0
+Conakry;3.9
+Cracow;22.6
+Cracow;21.9
+Conakry;23.3
+Cracow;1.9
+Cracow;8.8
+Conakry;15.1
+Palembang;17.4
+Roseau;25.3
+Istanbul;17.3
+Bridgetown;17.5
+Conakry;3.5
+St. John's;15.9
+Bulawayo;17.3
+Hamburg;10.1
+Bridgetown;4.2
+Bridgetown;4.9
+Bridgetown;9.6
+Istanbul;12.2
+Bridgetown;2.6
+St. John's;29.0
+St. John's;5.3
+Palembang;21.2
+Roseau;0.3
+Conakry;5.1
+Hamburg;17.5
+Bulawayo;20.4
+Bridgetown;9.4
+St. John's;19.4
+Roseau;1.4
+Hamburg;16.6
+Bulawayo;7.1
+Bridgetown;5.1
+Roseau;3.0
+Bridgetown;19.7
+Roseau;19.9
+St. John's;17.3
+Bulawayo;13.9
+Conakry;15.4
+Cracow;17.8
+St. John's;2.0
+Cracow;1.9
+Bulawayo;1.1
+St. John's;20.0
+Palembang;11.3
+Bulawayo;28.0
+Cracow;19.9
+Bridgetown;1.6
+Bridgetown;10.3
+Palembang;23.5
+Palembang;4.6
+Hamburg;3.8
+Bulawayo;4.5
+Palembang;24.0
+Hamburg;1.0
+Cracow;13.3
+Hamburg;19.5
+Roseau;19.1
+Istanbul;7.8
+St. John's;0.7
+Palembang;22.2
+Cracow;2.7
+Roseau;29.1
+Palembang;8.8
+Conakry;19.3
+Conakry;2.8
+Istanbul;15.1
+Cracow;14.3
+St. John's;23.4
+Palembang;21.8
+Istanbul;14.5
+Conakry;1.3
+Istanbul;11.5
+Conakry;27.4
+Roseau;23.9
+Palembang;12.8
+St. John's;25.0
+Istanbul;17.7
+Istanbul;27.5
+Conakry;17.4
+Bulawayo;17.3
+Istanbul;14.6
+Bridgetown;10.5
+Bulawayo;15.0
+St. John's;0.9
+Bulawayo;13.9
+Bridgetown;21.8
+St. John's;20.4
+St. John's;18.5
+Conakry;8.0
+Conakry;23.5
+Istanbul;3.2
+St. John's;14.5
+Cracow;2.0
+Roseau;25.6
+Conakry;15.0
+Cracow;7.7
+Bridgetown;20.9
+St. John's;5.9
+Hamburg;28.2
+Roseau;16.6
+Conakry;2.4
+Hamburg;21.9
+Bulawayo;29.4
+Hamburg;19.3
+Cracow;20.4
+Istanbul;9.3
+Hamburg;15.0
+Palembang;19.6
+Istanbul;21.0
+Bridgetown;16.9
+Cracow;7.8
+Bridgetown;6.5
+Conakry;0.7
+Bulawayo;14.4
+St. John's;20.7
+Conakry;25.8
+Palembang;18.3
+Bridgetown;25.9
+Roseau;7.0
+Palembang;22.3
+Istanbul;12.5
+Cracow;14.8
+Istanbul;24.6
+Roseau;4.9
+Conakry;6.6
+Cracow;0.1
+Roseau;26.2
+St. John's;25.1
+Cracow;26.7
+Conakry;28.5
+Bulawayo;9.3
+Bulawayo;8.6
+Cracow;1.4
+Conakry;20.3
+Cracow;21.9
+Bulawayo;10.5
+Istanbul;15.0
+Conakry;24.3
+Istanbul;10.0
+Bulawayo;8.3
+St. John's;11.8
+Bridgetown;4.8
+Bulawayo;29.9
+Roseau;28.6
+Conakry;0.5
+Bridgetown;26.2
+Istanbul;3.2
+St. John's;3.6
+Conakry;11.7
+Istanbul;22.5
+Bulawayo;1.1
+St. John's;10.2
+Cracow;7.6
+Conakry;28.0
+Conakry;8.0
+Palembang;7.5
+Roseau;27.5
+Conakry;23.6
+Palembang;10.8
+Bulawayo;29.4
+Bridgetown;30.0
+Palembang;28.8
+Palembang;4.7
+Cracow;13.1
+Bulawayo;1.1
+Palembang;23.2
+Hamburg;0.1
+Bulawayo;12.3
+Palembang;3.2
+Bridgetown;15.9
+Istanbul;25.0
+Roseau;0.4
+Palembang;5.0
+Istanbul;12.1
+Conakry;0.2
+Bulawayo;21.4
+Hamburg;23.1
+Bulawayo;15.6
+Hamburg;10.5
+Roseau;19.8
+Palembang;29.7
+Cracow;29.7
+Bulawayo;21.5
+Cracow;19.7
+Palembang;11.9
+Palembang;5.2
+Cracow;0.8
+Palembang;22.1
+Cracow;23.1
+Cracow;25.9
+Hamburg;21.5
+Conakry;25.2
+Bulawayo;16.1
+St. John's;7.9
+Istanbul;15.8
+Cracow;25.4
+Istanbul;26.2
+Bulawayo;0.7
+Bulawayo;19.8
+Palembang;15.3
+Bridgetown;18.9
+Bridgetown;22.1
+Bridgetown;19.6
+Cracow;21.8
+Hamburg;20.1
+Hamburg;6.4
+Istanbul;8.7
+Hamburg;15.4
+Istanbul;11.0
+Hamburg;29.1
+Hamburg;29.0
+Roseau;15.7
+Palembang;7.6
+Istanbul;11.8
+St. John's;15.4
+Cracow;15.0
+Palembang;17.4
+Bridgetown;5.7
+Istanbul;0.4
+Cracow;7.7
+Bridgetown;8.2
+Palembang;5.4
+St. John's;23.5
+Bulawayo;16.0
+St. John's;7.7
+Palembang;26.7
+Bridgetown;19.7
+St. John's;21.4
+St. John's;24.7
+Hamburg;13.6
+Palembang;16.1
+Hamburg;19.0
+Palembang;21.0
+Roseau;28.6
+Istanbul;18.5
+Istanbul;12.0
+Conakry;5.6
+Conakry;29.4
+Conakry;15.5
+Bridgetown;27.6
+Palembang;25.4
+Bulawayo;9.2
+Palembang;13.9
+Hamburg;21.2
+Bulawayo;0.9
+Cracow;12.7
+Conakry;12.5
+St. John's;22.4
+Roseau;28.1
+Hamburg;5.7
+Bulawayo;18.5
+Palembang;26.1
+Bridgetown;19.1
+Conakry;18.5
+Cracow;21.5
+St. John's;7.1
+Roseau;16.4
+Bridgetown;27.9
+Hamburg;13.6
+Bridgetown;0.1
+St. John's;2.5
+St. John's;22.9
+Roseau;28.7
+Istanbul;6.6
+Conakry;19.7
+Cracow;20.4
+Hamburg;26.8
+Bulawayo;23.5
+Hamburg;11.3
+Roseau;0.3
+Bulawayo;13.3
+Hamburg;26.3
+St. John's;28.4
+Hamburg;14.7
+Istanbul;17.9
+Bridgetown;15.8
+Palembang;11.8
+Roseau;18.3
+Bulawayo;9.5
+Roseau;2.6
+St. John's;5.1
+Istanbul;8.5
+Istanbul;1.3
+Roseau;26.1
+Palembang;16.1
+Bridgetown;12.1
+St. John's;15.1
+Istanbul;16.7
+Roseau;7.8
+Istanbul;1.2
+Roseau;6.3
+Roseau;10.7
+Istanbul;14.5
+Istanbul;15.1
+Cracow;25.6
+Palembang;4.7
+Hamburg;26.6
+Conakry;9.8
+Roseau;3.7
+Palembang;7.3
+Istanbul;7.6
+Cracow;26.3
+Bulawayo;12.3
+Palembang;15.8
+Cracow;15.6
+Istanbul;2.0
+Palembang;21.3
+Palembang;28.4
+Cracow;21.0
+Istanbul;9.4
+Roseau;2.2
+Istanbul;19.3
+Bridgetown;11.6
+St. John's;7.3
+Bridgetown;1.6
+Cracow;1.6
+Bridgetown;9.8
+Palembang;12.1
+Bulawayo;26.9
+Cracow;15.2
+St. John's;9.1
+St. John's;10.6
+Bridgetown;24.5
+Roseau;4.1
+Bulawayo;24.4
+Palembang;10.5
+Palembang;15.1
+Palembang;19.5
+Conakry;0.5
+Hamburg;29.1
+Cracow;5.8
+Conakry;14.5
+Istanbul;24.9
+Cracow;16.5
+Bridgetown;27.0
+St. John's;5.7
+Bridgetown;7.8
+Palembang;21.4
+Palembang;29.3
+Roseau;18.2
+Roseau;0.2
+Palembang;17.4
+Conakry;19.2
+Hamburg;15.7
+Bridgetown;27.9
+Istanbul;21.7
+Hamburg;17.2
+Palembang;0.6
+St. John's;1.5
+Cracow;17.9
+Roseau;9.5
+Hamburg;23.5
+Palembang;10.0
+Cracow;16.5
+Bridgetown;9.6
+Istanbul;13.5
+Cracow;13.0
+Istanbul;22.9
+Palembang;0.8
+Hamburg;5.9
+Istanbul;19.7
+Roseau;9.2
+Conakry;9.6
+Istanbul;7.5
+St. John's;14.3
+St. John's;6.2
+Conakry;4.7
+Bridgetown;12.6
+Istanbul;22.5
+Hamburg;16.9
+Conakry;20.2
+St. John's;17.1
+Cracow;27.6
+Hamburg;29.8
+Conakry;17.4
+Conakry;15.4
+St. John's;2.9
+Cracow;29.5
+Roseau;13.2
+Roseau;9.4
+Bridgetown;11.9
+Conakry;29.9
+Conakry;25.7
+Palembang;23.4
+Conakry;11.8
+Bridgetown;29.5
+Conakry;20.3
+Bridgetown;29.4
+Palembang;23.1
+Bridgetown;0.1
+Roseau;29.3
+Bulawayo;10.8
+St. John's;0.7
+Roseau;12.8
+Cracow;5.8
+Cracow;24.4
+Istanbul;1.3
+Conakry;7.3
+Cracow;19.9
+Conakry;9.9
+Istanbul;28.3
+Hamburg;0.0
+Roseau;9.2
+Bridgetown;29.5
+Bulawayo;8.2
+Bridgetown;13.7
+Bridgetown;26.9
+Hamburg;28.4
+St. John's;0.2
+Bulawayo;26.0
+Bulawayo;20.7
+Istanbul;10.4
+Cracow;11.3
+Conakry;25.0
+St. John's;28.0
+St. John's;14.9
+Bridgetown;7.0
+Roseau;7.8
+St. John's;24.1
+Bulawayo;12.1
+Roseau;2.4
+Roseau;15.1
+Hamburg;24.6
+St. John's;19.9
+Palembang;15.2
+Istanbul;3.6
+St. John's;12.4
+Hamburg;12.8
+Bridgetown;6.0
+Roseau;4.4
+Conakry;0.9
+Cracow;5.3
+St. John's;15.9
+Cracow;15.3
+Cracow;8.9
+Bridgetown;18.1
+Hamburg;7.9
+Istanbul;13.1
+Roseau;15.0
+Istanbul;13.8
+Hamburg;12.1
+Conakry;14.7
+Bulawayo;25.1
+Conakry;0.7
+Bridgetown;21.9
+Cracow;21.5
+Bridgetown;5.7
+Hamburg;21.0
+Palembang;6.9
+Hamburg;25.7
+Bridgetown;29.3
+Istanbul;22.8
+Hamburg;22.2
+Bulawayo;2.1
+Conakry;20.7
+Istanbul;10.0
+Hamburg;24.5
+St. John's;4.4
+Cracow;4.3
+Roseau;26.3
+St. John's;17.1
+Hamburg;3.7
+Roseau;2.4
+Bridgetown;23.5
+Bridgetown;24.3
+Roseau;6.1
+Palembang;6.1
+Palembang;5.7
+Conakry;18.8
+Bridgetown;24.1
+Bulawayo;13.8
+St. John's;2.9
+Roseau;13.9
+Palembang;22.4
+Cracow;0.7
+Bulawayo;14.8
+Bridgetown;24.9
+Roseau;10.7
+Cracow;9.7
+Istanbul;17.0
+Istanbul;28.4
+Bulawayo;17.1
+St. John's;14.2
+Cracow;2.3
+Hamburg;4.2
+Cracow;14.3
+Conakry;29.3
+Bridgetown;21.4
+Bridgetown;12.7
+Bulawayo;18.7
+Bulawayo;8.6
+Istanbul;9.7
+Bridgetown;7.4
+Roseau;27.2
+Hamburg;20.2
+Bridgetown;3.7
+Istanbul;16.3
+St. John's;1.4
+St. John's;27.1
+Bulawayo;9.4
+Conakry;18.0
+Hamburg;11.0
+Bulawayo;13.2
+Palembang;28.0
+Bridgetown;19.2
+Bridgetown;25.0
+Conakry;6.5
+Bridgetown;20.7
+Palembang;17.1
+Cracow;20.1
+Roseau;21.6
+Conakry;4.6
+Conakry;24.4
+Roseau;1.2
+Palembang;21.1
+Istanbul;12.8
+Hamburg;1.4
+Istanbul;29.1
+St. John's;28.7
+Roseau;19.9
+Hamburg;27.9
+St. John's;2.3
+Istanbul;10.8
+Hamburg;18.8
+Bulawayo;3.2
+Roseau;17.5
+Palembang;9.4
+Istanbul;5.9
+Cracow;14.8
+Hamburg;23.1
+Hamburg;24.6
+Roseau;6.0
+Istanbul;8.2
+Roseau;14.0
+Cracow;9.1
+Bulawayo;13.0
+Hamburg;20.2
+Roseau;11.5
+Hamburg;9.4
+Cracow;23.1
+Roseau;9.1
+Bulawayo;12.6
+Hamburg;22.5
+Palembang;20.3
+Istanbul;23.7
+Hamburg;26.8
+Cracow;13.7
+Bulawayo;29.2
+Roseau;17.9
+Bridgetown;6.7
+Bulawayo;18.9
+Hamburg;5.3
+St. John's;20.0
+Bulawayo;24.6
+Hamburg;17.7
+Hamburg;28.7
+Bridgetown;9.2
+Conakry;16.4
+Bulawayo;25.9
+Hamburg;29.3
+Bulawayo;29.8
+Istanbul;16.7
+Cracow;11.7
+Bridgetown;20.8
+Istanbul;4.9
+St. John's;23.4
+Roseau;13.8
+Palembang;3.3
+Cracow;6.9
+Istanbul;13.2
+St. John's;18.6
+Hamburg;3.2
+Hamburg;13.0
+Cracow;12.3
+Palembang;17.3
+Cracow;17.3
+Hamburg;25.9
+Bridgetown;27.9
+Roseau;24.1
+Conakry;17.9
+Bridgetown;19.6
+Hamburg;24.6
+Roseau;20.7
+Bulawayo;5.3
+Bulawayo;20.1
+St. John's;18.1
+Istanbul;19.4
+Hamburg;19.9
+Istanbul;18.9
+Hamburg;20.0
+Bulawayo;29.2
+Istanbul;3.6
+St. John's;0.2
+Roseau;29.0
+Conakry;24.7
+Roseau;6.7
+Conakry;2.3
+Hamburg;26.4
+Conakry;4.2
+Istanbul;17.2
+Palembang;9.5
+Hamburg;27.8
+Istanbul;9.6
+Cracow;8.5
+Palembang;14.0
+Bulawayo;3.0
+Bulawayo;12.7
+Bulawayo;10.3
+Conakry;18.2
+St. John's;14.0
+Palembang;3.3
+Palembang;12.6
+Bridgetown;22.1
+Hamburg;9.3
+Conakry;28.6
+Istanbul;13.1
+Hamburg;10.0
+Bridgetown;10.6
+Hamburg;12.0
+Bulawayo;24.0
+Cracow;14.6
+St. John's;12.5
+Roseau;2.9
+St. John's;28.9
+Istanbul;4.1
+Palembang;14.5
+St. John's;8.6
+Bulawayo;25.3
+Bridgetown;25.8
+Cracow;0.3
+Istanbul;22.9
+Palembang;29.4
+Bulawayo;17.9
+Bulawayo;17.2
+Istanbul;13.1
+Cracow;25.5
+Hamburg;15.8
+Bridgetown;21.0
+Palembang;26.8
+Istanbul;15.9
+Bulawayo;19.4
+Roseau;19.4
+Bridgetown;9.1
+Hamburg;3.6
+Bridgetown;22.4
+Conakry;23.0
+St. John's;23.4
+St. John's;4.7
+Palembang;21.8
+St. John's;0.6
+Roseau;14.7
+Cracow;20.5
+Palembang;10.4
+Roseau;8.0
+Bridgetown;15.5
+Conakry;5.7
+Hamburg;16.1
+Palembang;7.4
+Conakry;16.0
+Palembang;10.0
+St. John's;15.3
+Palembang;14.7
+Roseau;0.8
+Istanbul;2.7
+Bulawayo;15.5
+Palembang;4.4
+Roseau;7.1
+Cracow;7.9
+Istanbul;22.0
+Bridgetown;7.9
+Conakry;0.1
+Cracow;4.5
+Roseau;12.2
+Bulawayo;10.0
+Bulawayo;15.9
+Bridgetown;17.9
+Palembang;17.5
+Hamburg;17.5
+Bridgetown;14.0
+Palembang;0.3
+Roseau;24.7
+Istanbul;24.7
+Bridgetown;26.1
+Bridgetown;25.2
+Conakry;3.5
+Roseau;26.7
+Bulawayo;10.7
+Bulawayo;21.9
+Palembang;17.9
+St. John's;16.5
+Palembang;7.4
+Palembang;13.7
+Istanbul;2.2
+Roseau;27.1
+Roseau;11.5
+Bulawayo;16.4
+Bridgetown;26.1
+Istanbul;27.9
+Palembang;10.0
+Cracow;29.2
+Istanbul;24.4
+Palembang;24.0
+Palembang;1.1
+Hamburg;0.9
+Palembang;3.3
+Cracow;14.8
+Conakry;14.9
+Cracow;10.0
+Istanbul;15.7
+Istanbul;10.4
+Roseau;11.8
+Palembang;10.7
+Roseau;11.8
+Conakry;18.2
+Roseau;10.5
+Cracow;24.8
+Roseau;18.1
+Bridgetown;3.4
+Cracow;17.5
+Bulawayo;23.8
+Bridgetown;27.7
+Conakry;21.6
+Conakry;23.2
+Hamburg;21.9
+St. John's;11.4
+Bulawayo;7.9
+St. John's;4.2
+Bridgetown;3.4
+Istanbul;19.0
+Cracow;19.6
+Istanbul;17.6
+Hamburg;26.3
+St. John's;12.7
+Conakry;23.7
+Roseau;18.2
+Palembang;6.0
+St. John's;6.8
+Conakry;15.1
+Palembang;17.6
+Roseau;15.8
+Conakry;24.6
+Conakry;15.6
+Hamburg;28.2
+Palembang;19.6
+Hamburg;26.7
+St. John's;11.8
+Bulawayo;7.5
+Bulawayo;5.3
+Cracow;27.2
+Bulawayo;6.0
+Roseau;5.4
+Bridgetown;18.5
+Istanbul;14.7
+Conakry;25.9
+Roseau;29.5
+St. John's;5.2
+Conakry;13.7
+Roseau;17.3
+Istanbul;14.1
+Roseau;28.3
+St. John's;18.5
+Bridgetown;10.6
+Istanbul;20.1
+Conakry;1.2
+Istanbul;10.1
+St. John's;12.8
+Hamburg;13.0
+Conakry;20.4
+Bulawayo;25.1
+Hamburg;13.8
+Conakry;29.2
+Bulawayo;17.3
+Bridgetown;13.2
+Istanbul;9.8
+Bridgetown;11.2
+Cracow;9.4
+Istanbul;25.8
+Bridgetown;2.0
+Palembang;1.4
+Bulawayo;25.1
+Hamburg;20.3
+Roseau;20.5
+Bridgetown;8.1
+Hamburg;13.2
+Conakry;9.8
+Istanbul;15.8
+Cracow;3.4
+Hamburg;25.5
+Cracow;29.7
+St. John's;14.0
+Palembang;2.4
+Conakry;1.5
+Istanbul;17.9
+Roseau;23.1
+Bulawayo;14.5
+Cracow;6.5
+Cracow;26.8
+Palembang;14.7
+Hamburg;16.1
+St. John's;28.9
+Hamburg;12.5
+Roseau;18.7
+Cracow;12.4
+Bridgetown;25.7
+Bulawayo;19.2
+Roseau;29.1
+Istanbul;7.4
+Cracow;18.0
+Hamburg;1.6
+Hamburg;25.8
+Palembang;12.1
+Palembang;5.0
+Bulawayo;24.2
+St. John's;29.3
+Cracow;15.9
+St. John's;6.3
+Bridgetown;2.0
+Palembang;7.6
+Istanbul;18.6
+Istanbul;25.6
+Conakry;7.0
+Conakry;6.8
+Cracow;0.2
+Palembang;7.9
+Roseau;11.9
+St. John's;5.4
+Istanbul;15.1
+Conakry;22.3
+Bridgetown;8.6
+Bridgetown;4.2
+St. John's;18.4
+Bulawayo;6.2
+Conakry;11.1
+Bridgetown;27.0
+Istanbul;16.4
+Roseau;29.1
+Hamburg;25.6
+Hamburg;25.1
+Bridgetown;29.7
+Cracow;7.1
+Bridgetown;2.0
+Bulawayo;2.0
+Bulawayo;27.6
+Palembang;5.1
+Bulawayo;19.4
+Bulawayo;19.8
+Istanbul;15.7
+Bridgetown;5.5
+Istanbul;24.4
+Istanbul;17.3
+Istanbul;17.9
+Palembang;18.4
+Istanbul;11.4
+Hamburg;12.5
+Istanbul;2.7
+Hamburg;4.4
+Bulawayo;5.6
+Istanbul;19.0
+Bulawayo;26.3
+Bulawayo;24.8
+Istanbul;13.5
+St. John's;10.8
+St. John's;19.8
+Istanbul;16.2
+Hamburg;11.5
+Cracow;20.5
+Bridgetown;14.4
+Conakry;7.6
+Bulawayo;26.1
+St. John's;29.7
+Palembang;28.7
+Bulawayo;18.8
+Cracow;24.4
+Conakry;12.2
+Cracow;6.2
+Hamburg;24.9
+Hamburg;25.1
+Roseau;29.0
+Roseau;3.4
+Bridgetown;11.5
+Conakry;22.2
+Conakry;14.3
+St. John's;10.5
+Palembang;10.1
+Bulawayo;20.8
+Istanbul;20.1
+Bulawayo;0.2
+St. John's;17.8
+Istanbul;19.3
+Hamburg;15.2
+St. John's;8.7
+Palembang;24.1
+Istanbul;17.7
+Hamburg;15.7
+Istanbul;5.2
+Bridgetown;7.1
+Palembang;4.5
+Bridgetown;2.3
+Istanbul;21.2
+Palembang;10.4
+Cracow;28.2
+Conakry;8.3
+Istanbul;4.8
+Bulawayo;5.1
+Istanbul;24.1
+Roseau;1.1
+Bridgetown;15.1
+Bridgetown;2.3
+Hamburg;7.6
+St. John's;27.7
+Conakry;15.6
+Bulawayo;22.4
+Bulawayo;28.5
+Conakry;3.8
+Bridgetown;0.6
+Bulawayo;8.5
+Bridgetown;13.5
+Istanbul;19.1
+Istanbul;1.1
+St. John's;23.2
+Bulawayo;0.2
+Bridgetown;23.4
+Hamburg;21.0
+Hamburg;16.0
+Istanbul;29.8
+Palembang;29.4
+Hamburg;16.8
+Bridgetown;9.2
+Roseau;5.0
+Palembang;27.9
+Conakry;24.7
+Roseau;12.4
+St. John's;18.1
+St. John's;14.3
+Hamburg;4.0
+Cracow;13.0
+St. John's;28.8
+Istanbul;9.3
+Istanbul;7.5
+Bridgetown;6.1
+Hamburg;25.8
+Bulawayo;3.1
+Hamburg;22.2
+Istanbul;22.3

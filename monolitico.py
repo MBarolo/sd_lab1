@@ -37,12 +37,6 @@ def readFile(filename):
 
 def main(filename):
 
-#parser = argparse.ArgumentParser()
-#parser.add_argument("-i", "--filename")
-#args = parser.parse_args()
-#if not args.filename:
-#    print("Se requiere el nombre del archivo con -f.")
-#else:
     start_time = time.time()
     if not os.path.exists('./monolithic_out'):
         os.makedirs("monolithic_out")
@@ -57,5 +51,4 @@ def main(filename):
             "Estación %s - Mínimo: %f - Máximo: %f - Media: %f\n" % (s.name, min(s.temps), max(s.temps), np.mean(s.temps)))
     o.close()
 
-    #print("Tiempo de ejecución: %s [s]" % (time.time() - start_time))
     return time.time() - start_time
