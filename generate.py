@@ -1,6 +1,6 @@
 import random
 
-newInput = open("e_10k.txt", "w")
+newInput = open("e.txt", "w")
 stations = ["Hamburg", "Bulawayo", "Palembang", "St. John's", "Cracow", "Bridgetown", "Istanbul", "Conakry", "Roseau"]
 size = 9999
 for i in range(size):

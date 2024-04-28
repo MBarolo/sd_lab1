@@ -52,7 +52,7 @@ ttk.Label(root, text="Ingrese el número de hebras (Arquitectura basada en event
 
 # Entries
 filename_entry = ttk.Entry(root)
-n = ttk.Spinbox(root, from_=1, to=10, increment=1)
+n = ttk.Spinbox(root, from_=1, to=15, increment=1)
 
 # Posición entries
 filename_entry.grid(row=2, column=1, padx=5)
